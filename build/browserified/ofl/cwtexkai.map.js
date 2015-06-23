@@ -1,0 +1,1 @@
+module.exports = {"cwTeXKai":{"zhonly":"cwTeXKai-zhonly.ttf"}};

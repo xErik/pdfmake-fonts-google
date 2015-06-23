@@ -1,0 +1,25 @@
+<!doctype html>
+ <html lang='en'>
+ <head>
+ 	<meta charset='utf-8'>
+ 	<title>Google Fonts with regular pdfmake</title>
+ 	<script src='pdfmake.min.js'></script>
+ 	<script src='../build/script/ofl/junge.js'></script><!-- the font data -->
+ 	<script src='../build/script/ofl/junge.map.js'></script><!-- the font-style mapping -->
+ </head>
+ <body>
+    <input type="button" onclick="openPdf()" value="Open PDF"></input>
+     <script type="">
+        /* Do not forget to set the defaultStyle to the font name you included above */
+        function openPdf() {
+            var docDefinition = {
+                content: 'Lorem ipsum dolor sit amet...',
+                defaultStyle: {
+            		font: Object.keys(pdfMake.fonts)[0]
+            	}
+            };
+            pdfMake.createPdf(docDefinition).open();
+        }
+     </script>
+ </body>
+</html>

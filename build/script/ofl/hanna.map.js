@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BM":{"hanna":"BM-HANNA.ttf"}};

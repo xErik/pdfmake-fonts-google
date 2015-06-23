@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"UnifrakturCook":{"bold":"UnifrakturCook-Bold.ttf","bolditalics":"UnifrakturCook-Bold.ttf"}};

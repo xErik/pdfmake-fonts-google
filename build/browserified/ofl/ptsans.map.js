@@ -1,0 +1,1 @@
+module.exports = {"PT_Sans-Web":{"bold":"PT_Sans-Web-Bold.ttf","bolditalics":"PT_Sans-Web-BoldItalic.ttf","italics":"PT_Sans-Web-Italic.ttf","normal":"PT_Sans-Web-Regular.ttf"}};

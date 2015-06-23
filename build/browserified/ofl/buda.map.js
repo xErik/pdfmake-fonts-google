@@ -1,0 +1,1 @@
+module.exports = {"Buda":{"light":"Buda-Light.ttf"}};

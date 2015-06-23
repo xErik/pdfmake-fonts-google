@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SeoulNamsan":{"bold":"SeoulNamsan-Bold.ttf","extrabold":"SeoulNamsan-ExtraBold.ttf","light":"SeoulNamsan-Light.ttf","medium":"SeoulNamsan-Medium.ttf","bolditalics":"SeoulNamsan-Bold.ttf"}};

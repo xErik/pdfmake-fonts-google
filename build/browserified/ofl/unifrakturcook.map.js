@@ -1,0 +1,1 @@
+module.exports = {"UnifrakturCook":{"bold":"UnifrakturCook-Bold.ttf","bolditalics":"UnifrakturCook-Bold.ttf"}};

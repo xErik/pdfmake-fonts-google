@@ -1,0 +1,1 @@
+module.exports = {"Scheherazade":{"r":"Scheherazade-R.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"OpenSans":{"condbold":"OpenSans-CondBold.ttf","condlight":"OpenSans-CondLight.ttf","condlightitalics":"OpenSans-CondLightItalic.ttf"}};

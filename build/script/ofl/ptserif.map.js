@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PT_Serif-Web":{"bold":"PT_Serif-Web-Bold.ttf","bolditalics":"PT_Serif-Web-BoldItalic.ttf","italics":"PT_Serif-Web-Italic.ttf","normal":"PT_Serif-Web-Regular.ttf"}};

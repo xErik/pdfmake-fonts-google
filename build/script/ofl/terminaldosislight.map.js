@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"TerminalDosis":{"light":"TerminalDosis-Light.ttf"}};

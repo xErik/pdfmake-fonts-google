@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"cwTeXYen":{"zhonly":"cwTeXYen-zhonly.ttf"}};

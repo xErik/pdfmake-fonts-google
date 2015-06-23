@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"jsMath":{"cmr10":"jsMath-cmr10.ttf"}};

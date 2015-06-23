@@ -1,0 +1,1 @@
+module.exports = {"cwTeXMing":{"zhonly":"cwTeXMing-zhonly.ttf"}};

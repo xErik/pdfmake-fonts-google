@@ -1,0 +1,1 @@
+module.exports = {"CodaCaption":{"heavy":"CodaCaption-Heavy.ttf"}};

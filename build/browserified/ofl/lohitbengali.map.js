@@ -1,0 +1,1 @@
+module.exports = {"Lohit":{"bengali":"Lohit-Bengali.ttf"}};

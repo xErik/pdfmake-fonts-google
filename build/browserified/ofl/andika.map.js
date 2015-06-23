@@ -1,0 +1,1 @@
+module.exports = {"Andika":{"r":"Andika-R.ttf"}};

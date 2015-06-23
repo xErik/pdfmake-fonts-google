@@ -1,0 +1,1 @@
+module.exports = {"UnifrakturMaguntia":{"book":"UnifrakturMaguntia-Book.ttf"}};

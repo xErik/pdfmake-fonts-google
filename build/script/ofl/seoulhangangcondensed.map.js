@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SeoulHangangCondensed":{"bold":"SeoulHangangCondensed-Bold.ttf","boldl":"SeoulHangangCondensed-BoldL.ttf","extrabold":"SeoulHangangCondensed-ExtraBold.ttf","light":"SeoulHangangCondensed-Light.ttf","medium":"SeoulHangangCondensed-Medium.ttf","bolditalics":"SeoulHangangCondensed-Bold.ttf"}};

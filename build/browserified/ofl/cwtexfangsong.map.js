@@ -1,0 +1,1 @@
+module.exports = {"cwTeXFangSong":{"zhonly":"cwTeXFangSong-zhonly.ttf"}};

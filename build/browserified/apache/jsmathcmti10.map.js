@@ -1,0 +1,1 @@
+module.exports = {"jsMath":{"cmti10":"jsMath-cmti10.ttf"}};

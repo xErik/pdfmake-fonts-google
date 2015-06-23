@@ -1,0 +1,1 @@
+module.exports = {"JosefinSansStd":{"light":"JosefinSansStd-Light.ttf"}};

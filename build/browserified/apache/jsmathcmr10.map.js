@@ -1,0 +1,1 @@
+module.exports = {"jsMath":{"cmr10":"jsMath-cmr10.ttf"}};

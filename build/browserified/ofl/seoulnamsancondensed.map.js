@@ -1,0 +1,1 @@
+module.exports = {"SeoulNamsanCondensed":{"black":"SeoulNamsanCondensed-Black.ttf","bold":"SeoulNamsanCondensed-Bold.ttf","extrabold":"SeoulNamsanCondensed-ExtraBold.ttf","light":"SeoulNamsanCondensed-Light.ttf","medium":"SeoulNamsanCondensed-Medium.ttf","bolditalics":"SeoulNamsanCondensed-Bold.ttf"}};

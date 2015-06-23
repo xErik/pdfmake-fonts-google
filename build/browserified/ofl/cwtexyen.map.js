@@ -1,0 +1,1 @@
+module.exports = {"cwTeXYen":{"zhonly":"cwTeXYen-zhonly.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"OpenSans":{"condbold":"OpenSans-CondBold.ttf","condlight":"OpenSans-CondLight.ttf","condlightitalics":"OpenSans-CondLightItalic.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"TerminalDosis":{"light":"TerminalDosis-Light.ttf"}};

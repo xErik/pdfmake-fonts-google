@@ -1,0 +1,1 @@
+module.exports = {"BM":{"hanna":"BM-HANNA.ttf"}};

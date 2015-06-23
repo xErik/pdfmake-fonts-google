@@ -1,0 +1,1 @@
+module.exports = {"Jomolhari-alpha3c":{"0605331":"Jomolhari-alpha3c-0605331.ttf"}};

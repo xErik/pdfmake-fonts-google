@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CodaCaption":{"heavy":"CodaCaption-Heavy.ttf"}};

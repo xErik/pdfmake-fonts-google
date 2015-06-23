@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Lohit":{"tamil":"Lohit-Tamil.ttf"}};
