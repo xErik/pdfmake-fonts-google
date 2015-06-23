@@ -1,0 +1,1 @@
+module.exports = {"Aclonica":{"normal":"Aclonica.ttf","bold":"Aclonica.ttf","italics":"Aclonica.ttf","bolditalics":"Aclonica.ttf"}};

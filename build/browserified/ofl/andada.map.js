@@ -1,0 +1,1 @@
+module.exports = {"Andada":{"bold":"Andada-Bold.ttf","bolditalics":"Andada-BoldItalic.ttf","italics":"Andada-Italic.ttf","normal":"Andada-Regular.ttf"}};

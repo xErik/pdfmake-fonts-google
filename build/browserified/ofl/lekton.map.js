@@ -1,0 +1,1 @@
+module.exports = {"Lekton":{"bold":"Lekton-Bold.ttf","italics":"Lekton-Italic.ttf","normal":"Lekton-Regular.ttf","bolditalics":"Lekton-Bold.ttf"}};

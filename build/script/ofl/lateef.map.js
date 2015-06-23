@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LateefRegOT":{"normal":"LateefRegOT.ttf","bold":"LateefRegOT.ttf","italics":"LateefRegOT.ttf","bolditalics":"LateefRegOT.ttf"}};

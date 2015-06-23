@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Radley":{"italics":"Radley-Italic.ttf","normal":"Radley-Regular.ttf","bold":"Radley-Regular.ttf","bolditalics":"Radley-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LondrinaShadow":{"normal":"LondrinaShadow-Regular.ttf","bold":"LondrinaShadow-Regular.ttf","italics":"LondrinaShadow-Regular.ttf","bolditalics":"LondrinaShadow-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Muli":{"italics":"Muli-Italic.ttf","light":"Muli-Light.ttf","lightitalics":"Muli-LightItalic.ttf","normal":"Muli-Regular.ttf","bold":"Muli-Regular.ttf","bolditalics":"Muli-Regular.ttf"}};

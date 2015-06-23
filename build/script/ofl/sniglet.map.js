@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sniglet":{"extrabold":"Sniglet-ExtraBold.ttf","normal":"Sniglet-Regular.ttf","bold":"Sniglet-Regular.ttf","italics":"Sniglet-Regular.ttf","bolditalics":"Sniglet-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Audiowide":{"normal":"Audiowide-Regular.ttf","bold":"Audiowide-Regular.ttf","italics":"Audiowide-Regular.ttf","bolditalics":"Audiowide-Regular.ttf"}};

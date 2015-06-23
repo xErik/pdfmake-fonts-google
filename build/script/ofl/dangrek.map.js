@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Dangrek":{"normal":"Dangrek.ttf","bold":"Dangrek.ttf","italics":"Dangrek.ttf","bolditalics":"Dangrek.ttf"}};

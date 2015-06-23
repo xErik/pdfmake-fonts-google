@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Michroma":{"normal":"Michroma.ttf","bold":"Michroma.ttf","italics":"Michroma.ttf","bolditalics":"Michroma.ttf"}};

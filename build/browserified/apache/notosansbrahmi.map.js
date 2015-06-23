@@ -1,0 +1,1 @@
+module.exports = {"NotoSansBrahmi":{"normal":"NotoSansBrahmi-Regular.ttf","bold":"NotoSansBrahmi-Regular.ttf","italics":"NotoSansBrahmi-Regular.ttf","bolditalics":"NotoSansBrahmi-Regular.ttf"}};

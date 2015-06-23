@@ -1,0 +1,1 @@
+module.exports = {"LovedbytheKing":{"normal":"LovedbytheKing.ttf","bold":"LovedbytheKing.ttf","italics":"LovedbytheKing.ttf","bolditalics":"LovedbytheKing.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Risque":{"normal":"Risque-Regular.ttf","bold":"Risque-Regular.ttf","italics":"Risque-Regular.ttf","bolditalics":"Risque-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Courgette":{"normal":"Courgette-Regular.ttf","bold":"Courgette-Regular.ttf","italics":"Courgette-Regular.ttf","bolditalics":"Courgette-Regular.ttf"}};

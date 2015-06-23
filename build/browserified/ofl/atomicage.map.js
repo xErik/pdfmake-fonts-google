@@ -1,0 +1,1 @@
+module.exports = {"AtomicAge":{"normal":"AtomicAge-Regular.ttf","bold":"AtomicAge-Regular.ttf","italics":"AtomicAge-Regular.ttf","bolditalics":"AtomicAge-Regular.ttf"}};

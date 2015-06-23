@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FrancoisOne":{"normal":"FrancoisOne.ttf","bold":"FrancoisOne.ttf","italics":"FrancoisOne.ttf","bolditalics":"FrancoisOne.ttf"}};

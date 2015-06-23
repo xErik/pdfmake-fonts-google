@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansKufiArabic":{"bold":"NotoSansKufiArabic-Bold.ttf","normal":"NotoSansKufiArabic-Regular.ttf","italics":"NotoSansKufiArabic-Regular.ttf","bolditalics":"NotoSansKufiArabic-Bold.ttf"}};

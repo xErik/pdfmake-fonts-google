@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"HeadlandOne":{"normal":"HeadlandOne-Regular.ttf","bold":"HeadlandOne-Regular.ttf","italics":"HeadlandOne-Regular.ttf","bolditalics":"HeadlandOne-Regular.ttf"}};

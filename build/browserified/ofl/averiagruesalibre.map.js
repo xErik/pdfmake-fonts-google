@@ -1,0 +1,1 @@
+module.exports = {"AveriaGruesaLibre":{"normal":"AveriaGruesaLibre-Regular.ttf","bold":"AveriaGruesaLibre-Regular.ttf","italics":"AveriaGruesaLibre-Regular.ttf","bolditalics":"AveriaGruesaLibre-Regular.ttf"}};

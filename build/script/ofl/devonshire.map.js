@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Devonshire":{"normal":"Devonshire-Regular.ttf","bold":"Devonshire-Regular.ttf","italics":"Devonshire-Regular.ttf","bolditalics":"Devonshire-Regular.ttf"}};

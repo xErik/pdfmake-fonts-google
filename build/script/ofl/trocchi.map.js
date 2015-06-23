@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Trocchi":{"normal":"Trocchi-Regular.ttf","bold":"Trocchi-Regular.ttf","italics":"Trocchi-Regular.ttf","bolditalics":"Trocchi-Regular.ttf"}};

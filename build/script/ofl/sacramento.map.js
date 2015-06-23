@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sacramento":{"normal":"Sacramento-Regular.ttf","bold":"Sacramento-Regular.ttf","italics":"Sacramento-Regular.ttf","bolditalics":"Sacramento-Regular.ttf"}};

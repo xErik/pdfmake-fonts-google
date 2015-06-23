@@ -1,0 +1,1 @@
+module.exports = {"LilitaOne":{"normal":"LilitaOne-Regular.ttf","bold":"LilitaOne-Regular.ttf","italics":"LilitaOne-Regular.ttf","bolditalics":"LilitaOne-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Flamenco":{"light":"Flamenco-Light.ttf","normal":"Flamenco-Regular.ttf","bold":"Flamenco-Regular.ttf","italics":"Flamenco-Regular.ttf","bolditalics":"Flamenco-Regular.ttf"}};

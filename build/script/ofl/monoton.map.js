@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Monoton":{"normal":"Monoton-Regular.ttf","bold":"Monoton-Regular.ttf","italics":"Monoton-Regular.ttf","bolditalics":"Monoton-Regular.ttf"}};

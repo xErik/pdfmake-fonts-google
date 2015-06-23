@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"HappyMonkey":{"normal":"HappyMonkey-Regular.ttf","bold":"HappyMonkey-Regular.ttf","italics":"HappyMonkey-Regular.ttf","bolditalics":"HappyMonkey-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Economica":{"bold":"Economica-Bold.ttf","bolditalics":"Economica-BoldItalic.ttf","italics":"Economica-Italic.ttf","normal":"Economica-Regular.ttf"}};

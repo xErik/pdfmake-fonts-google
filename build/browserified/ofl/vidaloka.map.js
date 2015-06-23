@@ -1,0 +1,1 @@
+module.exports = {"Vidaloka":{"normal":"Vidaloka-Regular.ttf","bold":"Vidaloka-Regular.ttf","italics":"Vidaloka-Regular.ttf","bolditalics":"Vidaloka-Regular.ttf"}};

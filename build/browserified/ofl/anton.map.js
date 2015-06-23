@@ -1,0 +1,1 @@
+module.exports = {"Anton":{"normal":"Anton.ttf","bold":"Anton.ttf","italics":"Anton.ttf","bolditalics":"Anton.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Chango":{"normal":"Chango-Regular.ttf","bold":"Chango-Regular.ttf","italics":"Chango-Regular.ttf","bolditalics":"Chango-Regular.ttf"}};

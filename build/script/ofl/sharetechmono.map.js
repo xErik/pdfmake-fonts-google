@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ShareTechMono":{"normal":"ShareTechMono-Regular.ttf","bold":"ShareTechMono-Regular.ttf","italics":"ShareTechMono-Regular.ttf","bolditalics":"ShareTechMono-Regular.ttf"}};

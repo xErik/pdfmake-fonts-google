@@ -1,0 +1,1 @@
+module.exports = {"BreeSerif":{"normal":"BreeSerif-Regular.ttf","bold":"BreeSerif-Regular.ttf","italics":"BreeSerif-Regular.ttf","bolditalics":"BreeSerif-Regular.ttf"}};

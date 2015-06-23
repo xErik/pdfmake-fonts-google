@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Basic":{"normal":"Basic-Regular.ttf","bold":"Basic-Regular.ttf","italics":"Basic-Regular.ttf","bolditalics":"Basic-Regular.ttf"}};

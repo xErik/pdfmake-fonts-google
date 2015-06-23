@@ -1,0 +1,1 @@
+module.exports = {"PasseroOne":{"normal":"PasseroOne-Regular.ttf","bold":"PasseroOne-Regular.ttf","italics":"PasseroOne-Regular.ttf","bolditalics":"PasseroOne-Regular.ttf"}};

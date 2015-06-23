@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Cookie":{"normal":"Cookie-Regular.ttf","bold":"Cookie-Regular.ttf","italics":"Cookie-Regular.ttf","bolditalics":"Cookie-Regular.ttf"}};

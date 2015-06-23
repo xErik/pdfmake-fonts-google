@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ModernAntiqua":{"normal":"ModernAntiqua-Regular.ttf","bold":"ModernAntiqua-Regular.ttf","italics":"ModernAntiqua-Regular.ttf","bolditalics":"ModernAntiqua-Regular.ttf"}};

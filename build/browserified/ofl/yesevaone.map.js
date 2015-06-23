@@ -1,0 +1,1 @@
+module.exports = {"YesevaOne":{"normal":"YesevaOne-Regular.ttf","bold":"YesevaOne-Regular.ttf","italics":"YesevaOne-Regular.ttf","bolditalics":"YesevaOne-Regular.ttf"}};

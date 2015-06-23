@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MouseMemoirs":{"normal":"MouseMemoirs-Regular.ttf","bold":"MouseMemoirs-Regular.ttf","italics":"MouseMemoirs-Regular.ttf","bolditalics":"MouseMemoirs-Regular.ttf"}};

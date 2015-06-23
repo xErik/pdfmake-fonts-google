@@ -1,0 +1,1 @@
+module.exports = {"PrincessSofia":{"normal":"PrincessSofia-Regular.ttf","bold":"PrincessSofia-Regular.ttf","italics":"PrincessSofia-Regular.ttf","bolditalics":"PrincessSofia-Regular.ttf"}};

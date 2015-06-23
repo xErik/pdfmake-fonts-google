@@ -1,0 +1,1 @@
+module.exports = {"BrunoAceSC":{"normal":"BrunoAceSC-Regular.ttf","bold":"BrunoAceSC-Regular.ttf","italics":"BrunoAceSC-Regular.ttf","bolditalics":"BrunoAceSC-Regular.ttf"}};

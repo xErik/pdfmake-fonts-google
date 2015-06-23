@@ -1,0 +1,1 @@
+module.exports = {"Capriola":{"normal":"Capriola-Regular.ttf","bold":"Capriola-Regular.ttf","italics":"Capriola-Regular.ttf","bolditalics":"Capriola-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Enriqueta":{"bold":"Enriqueta-Bold.ttf","normal":"Enriqueta-Regular.ttf","italics":"Enriqueta-Regular.ttf","bolditalics":"Enriqueta-Bold.ttf"}};

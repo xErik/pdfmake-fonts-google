@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Slackey":{"normal":"Slackey.ttf","bold":"Slackey.ttf","italics":"Slackey.ttf","bolditalics":"Slackey.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AdventPro":{"bold":"AdventPro-Bold.ttf","extralight":"AdventPro-ExtraLight.ttf","light":"AdventPro-Light.ttf","medium":"AdventPro-Medium.ttf","normal":"AdventPro-Regular.ttf","semibold":"AdventPro-SemiBold.ttf","thin":"AdventPro-Thin.ttf","italics":"AdventPro-Regular.ttf","bolditalics":"AdventPro-Bold.ttf"}};

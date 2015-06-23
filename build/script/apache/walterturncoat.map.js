@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"WalterTurncoat":{"normal":"WalterTurncoat.ttf","bold":"WalterTurncoat.ttf","italics":"WalterTurncoat.ttf","bolditalics":"WalterTurncoat.ttf"}};

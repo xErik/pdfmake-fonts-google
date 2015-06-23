@@ -1,0 +1,1 @@
+module.exports = {"EBGaramond":{"normal":"EBGaramond-Regular.ttf","bold":"EBGaramond-Regular.ttf","italics":"EBGaramond-Regular.ttf","bolditalics":"EBGaramond-Regular.ttf"}};

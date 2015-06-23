@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CroissantOne":{"normal":"CroissantOne-Regular.ttf","bold":"CroissantOne-Regular.ttf","italics":"CroissantOne-Regular.ttf","bolditalics":"CroissantOne-Regular.ttf"}};

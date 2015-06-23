@@ -1,0 +1,1 @@
+module.exports = {"Cookie":{"normal":"Cookie-Regular.ttf","bold":"Cookie-Regular.ttf","italics":"Cookie-Regular.ttf","bolditalics":"Cookie-Regular.ttf"}};

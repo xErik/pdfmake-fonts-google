@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansKaithi":{"normal":"NotoSansKaithi-Regular.ttf","bold":"NotoSansKaithi-Regular.ttf","italics":"NotoSansKaithi-Regular.ttf","bolditalics":"NotoSansKaithi-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PetitFormalScript":{"normal":"PetitFormalScript-Regular.ttf","bold":"PetitFormalScript-Regular.ttf","italics":"PetitFormalScript-Regular.ttf","bolditalics":"PetitFormalScript-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Petrona":{"normal":"Petrona-Regular.ttf","bold":"Petrona-Regular.ttf","italics":"Petrona-Regular.ttf","bolditalics":"Petrona-Regular.ttf"}};

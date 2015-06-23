@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Lekton":{"bold":"Lekton-Bold.ttf","italics":"Lekton-Italic.ttf","normal":"Lekton-Regular.ttf","bolditalics":"Lekton-Bold.ttf"}};

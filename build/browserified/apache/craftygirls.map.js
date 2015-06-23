@@ -1,0 +1,1 @@
+module.exports = {"CraftyGirls":{"normal":"CraftyGirls.ttf","bold":"CraftyGirls.ttf","italics":"CraftyGirls.ttf","bolditalics":"CraftyGirls.ttf"}};

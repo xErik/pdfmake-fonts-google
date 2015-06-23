@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Homenaje":{"normal":"Homenaje-Regular.ttf","bold":"Homenaje-Regular.ttf","italics":"Homenaje-Regular.ttf","bolditalics":"Homenaje-Regular.ttf"}};

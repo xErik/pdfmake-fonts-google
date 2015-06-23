@@ -1,0 +1,1 @@
+module.exports = {"Belgrano":{"normal":"Belgrano-Regular.ttf","bold":"Belgrano-Regular.ttf","italics":"Belgrano-Regular.ttf","bolditalics":"Belgrano-Regular.ttf"}};

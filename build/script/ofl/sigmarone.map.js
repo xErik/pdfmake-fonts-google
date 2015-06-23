@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SigmarOne":{"normal":"SigmarOne.ttf","bold":"SigmarOne.ttf","italics":"SigmarOne.ttf","bolditalics":"SigmarOne.ttf"}};

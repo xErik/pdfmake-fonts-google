@@ -1,0 +1,1 @@
+module.exports = {"KoPubBatang":{"bold":"KoPubBatang-Bold.ttf","light":"KoPubBatang-Light.ttf","normal":"KoPubBatang-Regular.ttf","italics":"KoPubBatang-Regular.ttf","bolditalics":"KoPubBatang-Bold.ttf"}};

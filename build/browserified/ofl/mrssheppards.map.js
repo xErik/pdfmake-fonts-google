@@ -1,0 +1,1 @@
+module.exports = {"MrsSheppards":{"normal":"MrsSheppards-Regular.ttf","bold":"MrsSheppards-Regular.ttf","italics":"MrsSheppards-Regular.ttf","bolditalics":"MrsSheppards-Regular.ttf"}};

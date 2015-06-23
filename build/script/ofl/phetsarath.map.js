@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Phetsarath":{"bold":"Phetsarath-Bold.ttf","normal":"Phetsarath-Regular.ttf","italics":"Phetsarath-Regular.ttf","bolditalics":"Phetsarath-Bold.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Pecita":{"normal":"Pecita.ttf","bold":"Pecita.ttf","italics":"Pecita.ttf","bolditalics":"Pecita.ttf"}};

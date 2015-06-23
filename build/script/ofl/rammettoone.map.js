@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RammettoOne":{"normal":"RammettoOne-Regular.ttf","bold":"RammettoOne-Regular.ttf","italics":"RammettoOne-Regular.ttf","bolditalics":"RammettoOne-Regular.ttf"}};

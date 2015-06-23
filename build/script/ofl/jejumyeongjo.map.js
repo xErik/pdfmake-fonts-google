@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JejuMyeongjo":{"normal":"JejuMyeongjo-Regular.ttf","bold":"JejuMyeongjo-Regular.ttf","italics":"JejuMyeongjo-Regular.ttf","bolditalics":"JejuMyeongjo-Regular.ttf"}};

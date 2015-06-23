@@ -1,0 +1,1 @@
+module.exports = {"ContrailOne":{"normal":"ContrailOne-Regular.ttf","bold":"ContrailOne-Regular.ttf","italics":"ContrailOne-Regular.ttf","bolditalics":"ContrailOne-Regular.ttf"}};

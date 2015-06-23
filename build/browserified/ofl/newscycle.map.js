@@ -1,0 +1,1 @@
+module.exports = {"NewsCycle":{"bold":"NewsCycle-Bold.ttf","normal":"NewsCycle-Regular.ttf","italics":"NewsCycle-Regular.ttf","bolditalics":"NewsCycle-Bold.ttf"}};

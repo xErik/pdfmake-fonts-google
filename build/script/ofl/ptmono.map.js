@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PTM55FT":{"normal":"PTM55FT.ttf","bold":"PTM55FT.ttf","italics":"PTM55FT.ttf","bolditalics":"PTM55FT.ttf"}};

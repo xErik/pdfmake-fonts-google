@@ -1,0 +1,1 @@
+module.exports = {"NovaCut":{"normal":"NovaCut.ttf","bold":"NovaCut.ttf","italics":"NovaCut.ttf","bolditalics":"NovaCut.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LondrinaSketch":{"normal":"LondrinaSketch-Regular.ttf","bold":"LondrinaSketch-Regular.ttf","italics":"LondrinaSketch-Regular.ttf","bolditalics":"LondrinaSketch-Regular.ttf"}};

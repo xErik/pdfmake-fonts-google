@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MrDafoe":{"normal":"MrDafoe-Regular.ttf","bold":"MrDafoe-Regular.ttf","italics":"MrDafoe-Regular.ttf","bolditalics":"MrDafoe-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LovedbytheKing":{"normal":"LovedbytheKing.ttf","bold":"LovedbytheKing.ttf","italics":"LovedbytheKing.ttf","bolditalics":"LovedbytheKing.ttf"}};

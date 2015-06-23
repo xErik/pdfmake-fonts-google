@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AbrilFatface":{"normal":"AbrilFatface-Regular.ttf","bold":"AbrilFatface-Regular.ttf","italics":"AbrilFatface-Regular.ttf","bolditalics":"AbrilFatface-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Neucha":{"normal":"Neucha.ttf","bold":"Neucha.ttf","italics":"Neucha.ttf","bolditalics":"Neucha.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"RugeBoogie":{"normal":"RugeBoogie-Regular.ttf","bold":"RugeBoogie-Regular.ttf","italics":"RugeBoogie-Regular.ttf","bolditalics":"RugeBoogie-Regular.ttf"}};

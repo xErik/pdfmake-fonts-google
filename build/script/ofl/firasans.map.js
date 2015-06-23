@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FiraSans":{"bold":"FiraSans-Bold.ttf","bolditalics":"FiraSans-BoldItalic.ttf","italics":"FiraSans-Italic.ttf","light":"FiraSans-Light.ttf","lightitalics":"FiraSans-LightItalic.ttf","medium":"FiraSans-Medium.ttf","mediumitalics":"FiraSans-MediumItalic.ttf","normal":"FiraSans-Regular.ttf"}};

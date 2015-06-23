@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DonegalOne":{"normal":"DonegalOne-Regular.ttf","bold":"DonegalOne-Regular.ttf","italics":"DonegalOne-Regular.ttf","bolditalics":"DonegalOne-Regular.ttf"}};

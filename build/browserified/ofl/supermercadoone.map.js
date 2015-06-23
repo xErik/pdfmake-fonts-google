@@ -1,0 +1,1 @@
+module.exports = {"SupermercadoOne":{"normal":"SupermercadoOne-Regular.ttf","bold":"SupermercadoOne-Regular.ttf","italics":"SupermercadoOne-Regular.ttf","bolditalics":"SupermercadoOne-Regular.ttf"}};

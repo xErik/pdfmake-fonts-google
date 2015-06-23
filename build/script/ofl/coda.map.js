@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Coda":{"heavy":"Coda-Heavy.ttf","normal":"Coda-Regular.ttf","bold":"Coda-Regular.ttf","italics":"Coda-Regular.ttf","bolditalics":"Coda-Regular.ttf"}};

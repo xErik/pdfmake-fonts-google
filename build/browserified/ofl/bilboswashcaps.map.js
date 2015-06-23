@@ -1,0 +1,1 @@
+module.exports = {"BilboSwashCaps":{"normal":"BilboSwashCaps-Regular.ttf","bold":"BilboSwashCaps-Regular.ttf","italics":"BilboSwashCaps-Regular.ttf","bolditalics":"BilboSwashCaps-Regular.ttf"}};

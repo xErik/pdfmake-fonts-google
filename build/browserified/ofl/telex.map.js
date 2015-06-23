@@ -1,0 +1,1 @@
+module.exports = {"Telex":{"normal":"Telex-Regular.ttf","bold":"Telex-Regular.ttf","italics":"Telex-Regular.ttf","bolditalics":"Telex-Regular.ttf"}};

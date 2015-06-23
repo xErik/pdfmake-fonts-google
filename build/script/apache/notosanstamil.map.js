@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansTamil":{"bold":"NotoSansTamil-Bold.ttf","normal":"NotoSansTamil-Regular.ttf","italics":"NotoSansTamil-Regular.ttf","bolditalics":"NotoSansTamil-Bold.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Poly":{"italics":"Poly-Italic.ttf","normal":"Poly-Regular.ttf","bold":"Poly-Regular.ttf","bolditalics":"Poly-Regular.ttf"}};

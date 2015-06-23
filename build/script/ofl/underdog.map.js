@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Underdog":{"normal":"Underdog-Regular.ttf","bold":"Underdog-Regular.ttf","italics":"Underdog-Regular.ttf","bolditalics":"Underdog-Regular.ttf"}};

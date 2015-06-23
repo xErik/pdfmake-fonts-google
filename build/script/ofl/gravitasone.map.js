@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"GravitasOne":{"normal":"GravitasOne.ttf","bold":"GravitasOne.ttf","italics":"GravitasOne.ttf","bolditalics":"GravitasOne.ttf"}};

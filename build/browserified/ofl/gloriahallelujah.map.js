@@ -1,0 +1,1 @@
+module.exports = {"GloriaHallelujah":{"normal":"GloriaHallelujah.ttf","bold":"GloriaHallelujah.ttf","italics":"GloriaHallelujah.ttf","bolditalics":"GloriaHallelujah.ttf"}};

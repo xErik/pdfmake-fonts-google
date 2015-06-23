@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BubblerOne":{"normal":"BubblerOne-Regular.ttf","bold":"BubblerOne-Regular.ttf","italics":"BubblerOne-Regular.ttf","bolditalics":"BubblerOne-Regular.ttf"}};

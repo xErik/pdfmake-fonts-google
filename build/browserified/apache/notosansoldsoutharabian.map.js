@@ -1,0 +1,1 @@
+module.exports = {"NotoSansOldSouthArabian":{"normal":"NotoSansOldSouthArabian-Regular.ttf","bold":"NotoSansOldSouthArabian-Regular.ttf","italics":"NotoSansOldSouthArabian-Regular.ttf","bolditalics":"NotoSansOldSouthArabian-Regular.ttf"}};

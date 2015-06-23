@@ -1,0 +1,1 @@
+module.exports = {"Buenard":{"bold":"Buenard-Bold.ttf","normal":"Buenard-Regular.ttf","italics":"Buenard-Regular.ttf","bolditalics":"Buenard-Bold.ttf"}};

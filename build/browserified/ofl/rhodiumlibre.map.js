@@ -1,0 +1,1 @@
+module.exports = {"RhodiumLibre":{"normal":"RhodiumLibre-Regular.ttf","bold":"RhodiumLibre-Regular.ttf","italics":"RhodiumLibre-Regular.ttf","bolditalics":"RhodiumLibre-Regular.ttf"}};

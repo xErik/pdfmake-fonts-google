@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JotiOne":{"normal":"JotiOne-Regular.ttf","bold":"JotiOne-Regular.ttf","italics":"JotiOne-Regular.ttf","bolditalics":"JotiOne-Regular.ttf"}};

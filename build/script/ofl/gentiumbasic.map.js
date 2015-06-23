@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"GenBasB":{"normal":"GenBasB.ttf","bold":"GenBasB.ttf","italics":"GenBasB.ttf","bolditalics":"GenBasB.ttf"},"GenBasBI":{"normal":"GenBasBI.ttf"},"GenBasI":{"normal":"GenBasI.ttf"},"GenBasR":{"normal":"GenBasR.ttf"}};

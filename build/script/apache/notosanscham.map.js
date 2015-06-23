@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansCham":{"bold":"NotoSansCham-Bold.ttf","normal":"NotoSansCham-Regular.ttf","italics":"NotoSansCham-Regular.ttf","bolditalics":"NotoSansCham-Bold.ttf"}};

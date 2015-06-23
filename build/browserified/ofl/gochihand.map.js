@@ -1,0 +1,1 @@
+module.exports = {"GochiHand":{"normal":"GochiHand-Regular.ttf","bold":"GochiHand-Regular.ttf","italics":"GochiHand-Regular.ttf","bolditalics":"GochiHand-Regular.ttf"}};

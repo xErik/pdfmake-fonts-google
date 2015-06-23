@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Lancelot":{"normal":"Lancelot-Regular.ttf","bold":"Lancelot-Regular.ttf","italics":"Lancelot-Regular.ttf","bolditalics":"Lancelot-Regular.ttf"}};

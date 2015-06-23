@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Geostar":{"normal":"Geostar-Regular.ttf","bold":"Geostar-Regular.ttf","italics":"Geostar-Regular.ttf","bolditalics":"Geostar-Regular.ttf"}};

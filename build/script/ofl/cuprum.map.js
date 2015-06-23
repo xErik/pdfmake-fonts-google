@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Cuprum":{"bold":"Cuprum-Bold.ttf","bolditalics":"Cuprum-BoldItalic.ttf","italics":"Cuprum-Italic.ttf","normal":"Cuprum-Regular.ttf"}};

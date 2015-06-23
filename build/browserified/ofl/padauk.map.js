@@ -1,0 +1,1 @@
+module.exports = {"Padauk":{"bold":"Padauk-Bold.ttf","normal":"Padauk-Regular.ttf","italics":"Padauk-Regular.ttf","bolditalics":"Padauk-Bold.ttf"}};

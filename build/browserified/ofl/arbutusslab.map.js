@@ -1,0 +1,1 @@
+module.exports = {"ArbutusSlab":{"normal":"ArbutusSlab-Regular.ttf","bold":"ArbutusSlab-Regular.ttf","italics":"ArbutusSlab-Regular.ttf","bolditalics":"ArbutusSlab-Regular.ttf"}};

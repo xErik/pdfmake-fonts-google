@@ -1,0 +1,1 @@
+module.exports = {"RopaSans":{"italics":"RopaSans-Italic.ttf","normal":"RopaSans-Regular.ttf","bold":"RopaSans-Regular.ttf","bolditalics":"RopaSans-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"GrandHotel":{"normal":"GrandHotel-Regular.ttf","bold":"GrandHotel-Regular.ttf","italics":"GrandHotel-Regular.ttf","bolditalics":"GrandHotel-Regular.ttf"}};

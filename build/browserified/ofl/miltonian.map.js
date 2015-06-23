@@ -1,0 +1,1 @@
+module.exports = {"Miltonian":{"normal":"Miltonian-Regular.ttf","bold":"Miltonian-Regular.ttf","italics":"Miltonian-Regular.ttf","bolditalics":"Miltonian-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FontdinerSwanky":{"normal":"FontdinerSwanky.ttf","bold":"FontdinerSwanky.ttf","italics":"FontdinerSwanky.ttf","bolditalics":"FontdinerSwanky.ttf"}};

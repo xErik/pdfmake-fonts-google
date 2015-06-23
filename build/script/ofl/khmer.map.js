@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Khmer":{"normal":"Khmer.ttf","bold":"Khmer.ttf","italics":"Khmer.ttf","bolditalics":"Khmer.ttf"}};

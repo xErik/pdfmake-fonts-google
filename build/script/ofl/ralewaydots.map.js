@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RalewayDots":{"normal":"RalewayDots-Regular.ttf","bold":"RalewayDots-Regular.ttf","italics":"RalewayDots-Regular.ttf","bolditalics":"RalewayDots-Regular.ttf"}};

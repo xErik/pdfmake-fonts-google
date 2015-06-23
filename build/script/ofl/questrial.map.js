@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Questrial":{"normal":"Questrial-Regular.ttf","bold":"Questrial-Regular.ttf","italics":"Questrial-Regular.ttf","bolditalics":"Questrial-Regular.ttf"}};

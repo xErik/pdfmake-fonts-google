@@ -1,0 +1,1 @@
+module.exports = {"Lora":{"bold":"Lora-Bold.ttf","bolditalics":"Lora-BoldItalic.ttf","italics":"Lora-Italic.ttf","normal":"Lora-Regular.ttf"}};

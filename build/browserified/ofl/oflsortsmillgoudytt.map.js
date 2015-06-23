@@ -1,0 +1,1 @@
+module.exports = {"OFLGoudyStMTT":{"italics":"OFLGoudyStMTT-Italic.ttf","normal":"OFLGoudyStMTT.ttf","bold":"OFLGoudyStMTT.ttf","bolditalics":"OFLGoudyStMTT.ttf"}};

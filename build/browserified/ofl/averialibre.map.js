@@ -1,0 +1,1 @@
+module.exports = {"AveriaLibre":{"bold":"AveriaLibre-Bold.ttf","bolditalics":"AveriaLibre-BoldItalic.ttf","italics":"AveriaLibre-Italic.ttf","light":"AveriaLibre-Light.ttf","lightitalics":"AveriaLibre-LightItalic.ttf","normal":"AveriaLibre-Regular.ttf"}};

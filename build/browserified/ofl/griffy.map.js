@@ -1,0 +1,1 @@
+module.exports = {"Griffy":{"normal":"Griffy-Regular.ttf","bold":"Griffy-Regular.ttf","italics":"Griffy-Regular.ttf","bolditalics":"Griffy-Regular.ttf"}};

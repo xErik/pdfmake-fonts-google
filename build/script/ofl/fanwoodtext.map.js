@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FanwoodText":{"italics":"FanwoodText-Italic.ttf","normal":"FanwoodText-Regular.ttf","bold":"FanwoodText-Regular.ttf","bolditalics":"FanwoodText-Regular.ttf"}};

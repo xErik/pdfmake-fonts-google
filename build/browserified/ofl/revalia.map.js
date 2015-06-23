@@ -1,0 +1,1 @@
+module.exports = {"Revalia":{"normal":"Revalia-Regular.ttf","bold":"Revalia-Regular.ttf","italics":"Revalia-Regular.ttf","bolditalics":"Revalia-Regular.ttf"}};

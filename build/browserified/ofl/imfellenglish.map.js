@@ -1,0 +1,1 @@
+module.exports = {"IMFeENit28P":{"normal":"IMFeENit28P.ttf","bold":"IMFeENit28P.ttf","italics":"IMFeENit28P.ttf","bolditalics":"IMFeENit28P.ttf"},"IMFeENrm28P":{"normal":"IMFeENrm28P.ttf"}};

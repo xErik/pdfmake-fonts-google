@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FrederickatheGreat":{"normal":"FrederickatheGreat-Regular.ttf","bold":"FrederickatheGreat-Regular.ttf","italics":"FrederickatheGreat-Regular.ttf","bolditalics":"FrederickatheGreat-Regular.ttf"}};

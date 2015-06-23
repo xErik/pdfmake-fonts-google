@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Marvel":{"bold":"Marvel-Bold.ttf","bolditalics":"Marvel-BoldItalic.ttf","italics":"Marvel-Italic.ttf","normal":"Marvel-Regular.ttf"}};

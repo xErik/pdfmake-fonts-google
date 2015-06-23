@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Jura":{"demibold":"Jura-DemiBold.ttf","light":"Jura-Light.ttf","medium":"Jura-Medium.ttf","normal":"Jura-Regular.ttf","bold":"Jura-Regular.ttf","italics":"Jura-Regular.ttf","bolditalics":"Jura-Regular.ttf"}};

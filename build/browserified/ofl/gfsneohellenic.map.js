@@ -1,0 +1,1 @@
+module.exports = {"GFSNeohellenic":{"normal":"GFSNeohellenic.ttf","bold":"GFSNeohellenic.ttf","italics":"GFSNeohellenic.ttf","bolditalics":"GFSNeohellenic.ttf"},"GFSNeohellenicBold":{"normal":"GFSNeohellenicBold.ttf"},"GFSNeohellenicBoldItalic":{"normal":"GFSNeohellenicBoldItalic.ttf"},"GFSNeohellenicItalic":{"normal":"GFSNeohellenicItalic.ttf"}};

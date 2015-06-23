@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RubikOne":{"normal":"RubikOne-Regular.ttf","bold":"RubikOne-Regular.ttf","italics":"RubikOne-Regular.ttf","bolditalics":"RubikOne-Regular.ttf"}};

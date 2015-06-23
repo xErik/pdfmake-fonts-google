@@ -1,0 +1,1 @@
+module.exports = {"NotoSansLycian":{"normal":"NotoSansLycian-Regular.ttf","bold":"NotoSansLycian-Regular.ttf","italics":"NotoSansLycian-Regular.ttf","bolditalics":"NotoSansLycian-Regular.ttf"}};

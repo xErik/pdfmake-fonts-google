@@ -1,0 +1,1 @@
+module.exports = {"FrancoisOne":{"normal":"FrancoisOne.ttf","bold":"FrancoisOne.ttf","italics":"FrancoisOne.ttf","bolditalics":"FrancoisOne.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ArchivoBlack":{"normal":"ArchivoBlack-Regular.ttf","bold":"ArchivoBlack-Regular.ttf","italics":"ArchivoBlack-Regular.ttf","bolditalics":"ArchivoBlack-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Knewave":{"normal":"Knewave-Regular.ttf","bold":"Knewave-Regular.ttf","italics":"Knewave-Regular.ttf","bolditalics":"Knewave-Regular.ttf"}};

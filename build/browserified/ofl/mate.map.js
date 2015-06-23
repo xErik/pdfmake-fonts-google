@@ -1,0 +1,1 @@
+module.exports = {"Mate":{"italics":"Mate-Italic.ttf","normal":"Mate-Regular.ttf","bold":"Mate-Regular.ttf","bolditalics":"Mate-Regular.ttf"}};

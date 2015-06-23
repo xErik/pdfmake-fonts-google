@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansOsmanya":{"normal":"NotoSansOsmanya-Regular.ttf","bold":"NotoSansOsmanya-Regular.ttf","italics":"NotoSansOsmanya-Regular.ttf","bolditalics":"NotoSansOsmanya-Regular.ttf"}};

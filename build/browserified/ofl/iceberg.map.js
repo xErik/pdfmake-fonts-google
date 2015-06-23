@@ -1,0 +1,1 @@
+module.exports = {"Iceberg":{"normal":"Iceberg-Regular.ttf","bold":"Iceberg-Regular.ttf","italics":"Iceberg-Regular.ttf","bolditalics":"Iceberg-Regular.ttf"}};

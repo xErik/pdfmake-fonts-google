@@ -1,0 +1,1 @@
+module.exports = {"Copse":{"normal":"Copse-Regular.ttf","bold":"Copse-Regular.ttf","italics":"Copse-Regular.ttf","bolditalics":"Copse-Regular.ttf"}};

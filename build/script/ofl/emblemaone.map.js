@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"EmblemaOne":{"normal":"EmblemaOne-Regular.ttf","bold":"EmblemaOne-Regular.ttf","italics":"EmblemaOne-Regular.ttf","bolditalics":"EmblemaOne-Regular.ttf"}};

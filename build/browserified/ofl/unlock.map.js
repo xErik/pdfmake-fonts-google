@@ -1,0 +1,1 @@
+module.exports = {"Unlock":{"normal":"Unlock-Regular.ttf","bold":"Unlock-Regular.ttf","italics":"Unlock-Regular.ttf","bolditalics":"Unlock-Regular.ttf"}};

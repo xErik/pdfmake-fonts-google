@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"KiteOne":{"normal":"KiteOne-Regular.ttf","bold":"KiteOne-Regular.ttf","italics":"KiteOne-Regular.ttf","bolditalics":"KiteOne-Regular.ttf"}};

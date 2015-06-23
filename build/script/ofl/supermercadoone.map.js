@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SupermercadoOne":{"normal":"SupermercadoOne-Regular.ttf","bold":"SupermercadoOne-Regular.ttf","italics":"SupermercadoOne-Regular.ttf","bolditalics":"SupermercadoOne-Regular.ttf"}};

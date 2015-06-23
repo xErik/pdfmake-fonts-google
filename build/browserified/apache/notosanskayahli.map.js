@@ -1,0 +1,1 @@
+module.exports = {"NotoSansKayahLi":{"normal":"NotoSansKayahLi-Regular.ttf","bold":"NotoSansKayahLi-Regular.ttf","italics":"NotoSansKayahLi-Regular.ttf","bolditalics":"NotoSansKayahLi-Regular.ttf"}};

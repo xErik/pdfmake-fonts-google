@@ -1,0 +1,1 @@
+module.exports = {"Slabo27px":{"normal":"Slabo27px-Regular.ttf","bold":"Slabo27px-Regular.ttf","italics":"Slabo27px-Regular.ttf","bolditalics":"Slabo27px-Regular.ttf"}};

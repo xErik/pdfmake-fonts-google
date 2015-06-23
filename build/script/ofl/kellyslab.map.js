@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"KellySlab":{"normal":"KellySlab-Regular.ttf","bold":"KellySlab-Regular.ttf","italics":"KellySlab-Regular.ttf","bolditalics":"KellySlab-Regular.ttf"}};

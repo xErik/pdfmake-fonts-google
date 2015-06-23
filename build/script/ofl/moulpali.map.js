@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Moulpali":{"normal":"Moulpali.ttf","bold":"Moulpali.ttf","italics":"Moulpali.ttf","bolditalics":"Moulpali.ttf"}};

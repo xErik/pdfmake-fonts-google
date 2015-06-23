@@ -1,0 +1,1 @@
+module.exports = {"Timmana":{"normal":"Timmana-Regular.ttf","bold":"Timmana-Regular.ttf","italics":"Timmana-Regular.ttf","bolditalics":"Timmana-Regular.ttf"}};

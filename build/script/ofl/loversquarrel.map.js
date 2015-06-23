@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LoversQuarrel":{"normal":"LoversQuarrel-Regular.ttf","bold":"LoversQuarrel-Regular.ttf","italics":"LoversQuarrel-Regular.ttf","bolditalics":"LoversQuarrel-Regular.ttf"}};

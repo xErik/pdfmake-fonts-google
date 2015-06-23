@@ -1,0 +1,1 @@
+module.exports = {"SeaweedScript":{"normal":"SeaweedScript-Regular.ttf","bold":"SeaweedScript-Regular.ttf","italics":"SeaweedScript-Regular.ttf","bolditalics":"SeaweedScript-Regular.ttf"}};

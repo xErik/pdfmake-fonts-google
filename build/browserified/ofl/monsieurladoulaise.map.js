@@ -1,0 +1,1 @@
+module.exports = {"MonsieurLaDoulaise":{"normal":"MonsieurLaDoulaise-Regular.ttf","bold":"MonsieurLaDoulaise-Regular.ttf","italics":"MonsieurLaDoulaise-Regular.ttf","bolditalics":"MonsieurLaDoulaise-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Redressed":{"normal":"Redressed.ttf","bold":"Redressed.ttf","italics":"Redressed.ttf","bolditalics":"Redressed.ttf"}};

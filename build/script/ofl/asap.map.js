@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Asap":{"bold":"Asap-Bold.ttf","bolditalics":"Asap-BoldItalic.ttf","italics":"Asap-Italic.ttf","normal":"Asap-Regular.ttf"}};

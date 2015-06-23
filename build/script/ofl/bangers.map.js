@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Bangers":{"normal":"Bangers.ttf","bold":"Bangers.ttf","italics":"Bangers.ttf","bolditalics":"Bangers.ttf"}};

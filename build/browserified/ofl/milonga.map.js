@@ -1,0 +1,1 @@
+module.exports = {"Milonga":{"normal":"Milonga-Regular.ttf","bold":"Milonga-Regular.ttf","italics":"Milonga-Regular.ttf","bolditalics":"Milonga-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SwankyandMooMoo":{"normal":"SwankyandMooMoo.ttf","bold":"SwankyandMooMoo.ttf","italics":"SwankyandMooMoo.ttf","bolditalics":"SwankyandMooMoo.ttf"}};

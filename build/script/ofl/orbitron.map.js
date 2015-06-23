@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Orbitron":{"black":"Orbitron-Black.ttf","bold":"Orbitron-Bold.ttf","medium":"Orbitron-Medium.ttf","normal":"Orbitron-Regular.ttf","italics":"Orbitron-Regular.ttf","bolditalics":"Orbitron-Bold.ttf"}};

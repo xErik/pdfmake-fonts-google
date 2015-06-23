@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Tuffy":{"bold":"Tuffy-Bold.ttf","bolditalics":"Tuffy-BoldItalic.ttf","italics":"Tuffy-Italic.ttf","normal":"Tuffy-Regular.ttf"}};

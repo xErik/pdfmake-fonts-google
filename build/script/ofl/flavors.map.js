@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Flavors":{"normal":"Flavors-Regular.ttf","bold":"Flavors-Regular.ttf","italics":"Flavors-Regular.ttf","bolditalics":"Flavors-Regular.ttf"}};

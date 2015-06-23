@@ -1,0 +1,1 @@
+module.exports = {"NotoSerif":{"bold":"NotoSerif-Bold.ttf","bolditalics":"NotoSerif-BoldItalic.ttf","italics":"NotoSerif-Italic.ttf","normal":"NotoSerif-Regular.ttf"}};

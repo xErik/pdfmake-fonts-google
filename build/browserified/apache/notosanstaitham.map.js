@@ -1,0 +1,1 @@
+module.exports = {"NotoSansTaiTham":{"normal":"NotoSansTaiTham-Regular.ttf","bold":"NotoSansTaiTham-Regular.ttf","italics":"NotoSansTaiTham-Regular.ttf","bolditalics":"NotoSansTaiTham-Regular.ttf"}};

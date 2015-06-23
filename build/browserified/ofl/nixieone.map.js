@@ -1,0 +1,1 @@
+module.exports = {"NixieOne":{"normal":"NixieOne-Regular.ttf","bold":"NixieOne-Regular.ttf","italics":"NixieOne-Regular.ttf","bolditalics":"NixieOne-Regular.ttf"}};

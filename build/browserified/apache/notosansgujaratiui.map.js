@@ -1,0 +1,1 @@
+module.exports = {"NotoSansGujaratiUI":{"bold":"NotoSansGujaratiUI-Bold.ttf","normal":"NotoSansGujaratiUI-Regular.ttf","italics":"NotoSansGujaratiUI-Regular.ttf","bolditalics":"NotoSansGujaratiUI-Bold.ttf"}};

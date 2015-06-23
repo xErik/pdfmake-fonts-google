@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Kreon":{"bold":"Kreon-Bold.ttf","light":"Kreon-Light.ttf","normal":"Kreon-Regular.ttf","italics":"Kreon-Regular.ttf","bolditalics":"Kreon-Bold.ttf"}};

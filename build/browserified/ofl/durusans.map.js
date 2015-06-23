@@ -1,0 +1,1 @@
+module.exports = {"DuruSans":{"normal":"DuruSans-Regular.ttf","bold":"DuruSans-Regular.ttf","italics":"DuruSans-Regular.ttf","bolditalics":"DuruSans-Regular.ttf"}};

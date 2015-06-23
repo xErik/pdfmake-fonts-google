@@ -1,0 +1,1 @@
+module.exports = {"Dhurjati":{"normal":"Dhurjati-Regular.ttf","bold":"Dhurjati-Regular.ttf","italics":"Dhurjati-Regular.ttf","bolditalics":"Dhurjati-Regular.ttf"}};

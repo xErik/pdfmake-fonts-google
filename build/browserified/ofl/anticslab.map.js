@@ -1,0 +1,1 @@
+module.exports = {"AnticSlab":{"normal":"AnticSlab-Regular.ttf","bold":"AnticSlab-Regular.ttf","italics":"AnticSlab-Regular.ttf","bolditalics":"AnticSlab-Regular.ttf"}};

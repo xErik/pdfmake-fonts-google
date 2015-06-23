@@ -1,0 +1,1 @@
+module.exports = {"NothingYouCouldDo":{"normal":"NothingYouCouldDo.ttf","bold":"NothingYouCouldDo.ttf","italics":"NothingYouCouldDo.ttf","bolditalics":"NothingYouCouldDo.ttf"}};

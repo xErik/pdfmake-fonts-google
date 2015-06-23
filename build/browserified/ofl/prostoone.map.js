@@ -1,0 +1,1 @@
+module.exports = {"ProstoOne":{"normal":"ProstoOne-Regular.ttf","bold":"ProstoOne-Regular.ttf","italics":"ProstoOne-Regular.ttf","bolditalics":"ProstoOne-Regular.ttf"}};

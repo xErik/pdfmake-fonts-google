@@ -1,0 +1,1 @@
+module.exports = {"LindenHill":{"italics":"LindenHill-Italic.ttf","normal":"LindenHill-Regular.ttf","bold":"LindenHill-Regular.ttf","bolditalics":"LindenHill-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Lemon":{"normal":"Lemon-Regular.ttf","bold":"Lemon-Regular.ttf","italics":"Lemon-Regular.ttf","bolditalics":"Lemon-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"EricaOne":{"normal":"EricaOne-Regular.ttf","bold":"EricaOne-Regular.ttf","italics":"EricaOne-Regular.ttf","bolditalics":"EricaOne-Regular.ttf"}};

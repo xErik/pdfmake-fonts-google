@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LilyScriptOne":{"normal":"LilyScriptOne-Regular.ttf","bold":"LilyScriptOne-Regular.ttf","italics":"LilyScriptOne-Regular.ttf","bolditalics":"LilyScriptOne-Regular.ttf"}};

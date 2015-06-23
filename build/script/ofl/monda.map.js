@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Monda":{"bold":"Monda-Bold.ttf","normal":"Monda-Regular.ttf","italics":"Monda-Regular.ttf","bolditalics":"Monda-Bold.ttf"}};

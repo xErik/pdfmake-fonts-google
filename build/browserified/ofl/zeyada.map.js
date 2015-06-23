@@ -1,0 +1,1 @@
+module.exports = {"Zeyada":{"normal":"Zeyada.ttf","bold":"Zeyada.ttf","italics":"Zeyada.ttf","bolditalics":"Zeyada.ttf"}};

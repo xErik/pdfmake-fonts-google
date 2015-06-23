@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Cousine":{"bold":"Cousine-Bold.ttf","bolditalics":"Cousine-BoldItalic.ttf","italics":"Cousine-Italic.ttf","normal":"Cousine-Regular.ttf"}};

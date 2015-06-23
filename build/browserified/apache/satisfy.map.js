@@ -1,0 +1,1 @@
+module.exports = {"Satisfy":{"normal":"Satisfy-Regular.ttf","bold":"Satisfy-Regular.ttf","italics":"Satisfy-Regular.ttf","bolditalics":"Satisfy-Regular.ttf"}};

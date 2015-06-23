@@ -1,0 +1,1 @@
+module.exports = {"GildaDisplay":{"normal":"GildaDisplay-Regular.ttf","bold":"GildaDisplay-Regular.ttf","italics":"GildaDisplay-Regular.ttf","bolditalics":"GildaDisplay-Regular.ttf"}};

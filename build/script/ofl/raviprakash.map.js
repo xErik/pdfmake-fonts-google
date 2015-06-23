@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RaviPrakash":{"normal":"RaviPrakash-Regular.ttf","bold":"RaviPrakash-Regular.ttf","italics":"RaviPrakash-Regular.ttf","bolditalics":"RaviPrakash-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"RibeyeMarrow":{"normal":"RibeyeMarrow-Regular.ttf","bold":"RibeyeMarrow-Regular.ttf","italics":"RibeyeMarrow-Regular.ttf","bolditalics":"RibeyeMarrow-Regular.ttf"}};

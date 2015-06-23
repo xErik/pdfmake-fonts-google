@@ -1,0 +1,1 @@
+module.exports = {"VT323":{"normal":"VT323-Regular.ttf","bold":"VT323-Regular.ttf","italics":"VT323-Regular.ttf","bolditalics":"VT323-Regular.ttf"}};

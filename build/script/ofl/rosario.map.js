@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Rosario":{"bold":"Rosario-Bold.ttf","bolditalics":"Rosario-BoldItalic.ttf","italics":"Rosario-Italic.ttf","normal":"Rosario-Regular.ttf"}};

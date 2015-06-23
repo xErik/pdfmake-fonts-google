@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NewRocker":{"normal":"NewRocker-Regular.ttf","bold":"NewRocker-Regular.ttf","italics":"NewRocker-Regular.ttf","bolditalics":"NewRocker-Regular.ttf"}};

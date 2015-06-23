@@ -1,0 +1,1 @@
+module.exports = {"Merriweather":{"black":"Merriweather-Black.ttf","bold":"Merriweather-Bold.ttf","bolditalics":"Merriweather-BoldItalic.ttf","heavyitalics":"Merriweather-HeavyItalic.ttf","italics":"Merriweather-Italic.ttf","light":"Merriweather-Light.ttf","lightitalics":"Merriweather-LightItalic.ttf","normal":"Merriweather-Regular.ttf"}};

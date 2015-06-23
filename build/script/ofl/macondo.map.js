@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Macondo":{"normal":"Macondo-Regular.ttf","bold":"Macondo-Regular.ttf","italics":"Macondo-Regular.ttf","bolditalics":"Macondo-Regular.ttf"}};

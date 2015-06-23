@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Kenia":{"normal":"Kenia-Regular.ttf","bold":"Kenia-Regular.ttf","italics":"Kenia-Regular.ttf","bolditalics":"Kenia-Regular.ttf"}};

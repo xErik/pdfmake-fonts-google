@@ -1,0 +1,1 @@
+module.exports = {"BlackOpsOne":{"normal":"BlackOpsOne-Regular.ttf","bold":"BlackOpsOne-Regular.ttf","italics":"BlackOpsOne-Regular.ttf","bolditalics":"BlackOpsOne-Regular.ttf"}};

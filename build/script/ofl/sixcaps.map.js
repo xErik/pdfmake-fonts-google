@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SixCaps":{"normal":"SixCaps.ttf","bold":"SixCaps.ttf","italics":"SixCaps.ttf","bolditalics":"SixCaps.ttf"}};

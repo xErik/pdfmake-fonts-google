@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"GloriaHallelujah":{"normal":"GloriaHallelujah.ttf","bold":"GloriaHallelujah.ttf","italics":"GloriaHallelujah.ttf","bolditalics":"GloriaHallelujah.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"VesperLibre":{"bold":"VesperLibre-Bold.ttf","heavy":"VesperLibre-Heavy.ttf","medium":"VesperLibre-Medium.ttf","normal":"VesperLibre-Regular.ttf","italics":"VesperLibre-Regular.ttf","bolditalics":"VesperLibre-Bold.ttf"}};

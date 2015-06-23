@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Oregano":{"italics":"Oregano-Italic.ttf","normal":"Oregano-Regular.ttf","bold":"Oregano-Regular.ttf","bolditalics":"Oregano-Regular.ttf"}};

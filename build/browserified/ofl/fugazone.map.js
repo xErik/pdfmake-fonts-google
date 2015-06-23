@@ -1,0 +1,1 @@
+module.exports = {"FugazOne":{"normal":"FugazOne-Regular.ttf","bold":"FugazOne-Regular.ttf","italics":"FugazOne-Regular.ttf","bolditalics":"FugazOne-Regular.ttf"}};

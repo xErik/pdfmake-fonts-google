@@ -1,0 +1,1 @@
+module.exports = {"DeliusUnicase":{"bold":"DeliusUnicase-Bold.ttf","normal":"DeliusUnicase-Regular.ttf","italics":"DeliusUnicase-Regular.ttf","bolditalics":"DeliusUnicase-Bold.ttf"}};

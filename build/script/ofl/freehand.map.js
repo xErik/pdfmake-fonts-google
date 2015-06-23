@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Freehand":{"normal":"Freehand.ttf","bold":"Freehand.ttf","italics":"Freehand.ttf","bolditalics":"Freehand.ttf"}};

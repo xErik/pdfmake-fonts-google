@@ -1,0 +1,1 @@
+module.exports = {"Tinos":{"bold":"Tinos-Bold.ttf","bolditalics":"Tinos-BoldItalic.ttf","italics":"Tinos-Italic.ttf","normal":"Tinos-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"KronaOne":{"normal":"KronaOne-Regular.ttf","bold":"KronaOne-Regular.ttf","italics":"KronaOne-Regular.ttf","bolditalics":"KronaOne-Regular.ttf"}};

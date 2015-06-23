@@ -1,0 +1,1 @@
+module.exports = {"Jaldi":{"bold":"Jaldi-Bold.ttf","normal":"Jaldi-Regular.ttf","italics":"Jaldi-Regular.ttf","bolditalics":"Jaldi-Bold.ttf"}};

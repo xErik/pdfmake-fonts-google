@@ -1,0 +1,1 @@
+module.exports = {"Sarabun":{"bold":"Sarabun-Bold.ttf","bolditalics":"Sarabun-BoldItalic.ttf","italics":"Sarabun-Italic.ttf","normal":"Sarabun-Regular.ttf"}};

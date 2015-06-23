@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Armata":{"normal":"Armata-Regular.ttf","bold":"Armata-Regular.ttf","italics":"Armata-Regular.ttf","bolditalics":"Armata-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Romanesco":{"normal":"Romanesco-Regular.ttf","bold":"Romanesco-Regular.ttf","italics":"Romanesco-Regular.ttf","bolditalics":"Romanesco-Regular.ttf"}};

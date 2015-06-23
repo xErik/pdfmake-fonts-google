@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Battambang":{"bold":"Battambang-Bold.ttf","normal":"Battambang-Regular.ttf","italics":"Battambang-Regular.ttf","bolditalics":"Battambang-Bold.ttf"}};

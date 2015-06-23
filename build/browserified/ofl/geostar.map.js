@@ -1,0 +1,1 @@
+module.exports = {"Geostar":{"normal":"Geostar-Regular.ttf","bold":"Geostar-Regular.ttf","italics":"Geostar-Regular.ttf","bolditalics":"Geostar-Regular.ttf"}};

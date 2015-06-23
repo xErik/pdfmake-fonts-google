@@ -1,0 +1,1 @@
+module.exports = {"Gorditas":{"bold":"Gorditas-Bold.ttf","normal":"Gorditas-Regular.ttf","italics":"Gorditas-Regular.ttf","bolditalics":"Gorditas-Bold.ttf"}};

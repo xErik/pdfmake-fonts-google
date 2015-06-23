@@ -1,0 +1,1 @@
+module.exports = {"DrSugiyama":{"normal":"DrSugiyama-Regular.ttf","bold":"DrSugiyama-Regular.ttf","italics":"DrSugiyama-Regular.ttf","bolditalics":"DrSugiyama-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Megrim":{"normal":"Megrim.ttf","bold":"Megrim.ttf","italics":"Megrim.ttf","bolditalics":"Megrim.ttf"}};

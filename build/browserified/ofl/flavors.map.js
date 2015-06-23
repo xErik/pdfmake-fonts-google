@@ -1,0 +1,1 @@
+module.exports = {"Flavors":{"normal":"Flavors-Regular.ttf","bold":"Flavors-Regular.ttf","italics":"Flavors-Regular.ttf","bolditalics":"Flavors-Regular.ttf"}};

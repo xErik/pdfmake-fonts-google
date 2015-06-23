@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Vollkorn":{"bold":"Vollkorn-Bold.ttf","bolditalics":"Vollkorn-BoldItalic.ttf","italics":"Vollkorn-Italic.ttf","normal":"Vollkorn-Regular.ttf"}};

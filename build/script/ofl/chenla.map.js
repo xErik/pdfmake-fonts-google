@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Chenla":{"normal":"Chenla.ttf","bold":"Chenla.ttf","italics":"Chenla.ttf","bolditalics":"Chenla.ttf"}};

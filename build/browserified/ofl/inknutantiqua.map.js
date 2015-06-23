@@ -1,0 +1,1 @@
+module.exports = {"InknutAntiqua":{"black":"InknutAntiqua-Black.ttf","bold":"InknutAntiqua-Bold.ttf","extrabold":"InknutAntiqua-ExtraBold.ttf","light":"InknutAntiqua-Light.ttf","medium":"InknutAntiqua-Medium.ttf","normal":"InknutAntiqua-Regular.ttf","semibold":"InknutAntiqua-SemiBold.ttf","italics":"InknutAntiqua-Regular.ttf","bolditalics":"InknutAntiqua-Bold.ttf"}};

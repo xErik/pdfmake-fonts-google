@@ -1,0 +1,1 @@
+module.exports = {"ShortStack":{"normal":"ShortStack-Regular.ttf","bold":"ShortStack-Regular.ttf","italics":"ShortStack-Regular.ttf","bolditalics":"ShortStack-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"HoltwoodOneSC":{"normal":"HoltwoodOneSC.ttf","bold":"HoltwoodOneSC.ttf","italics":"HoltwoodOneSC.ttf","bolditalics":"HoltwoodOneSC.ttf"}};

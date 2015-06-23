@@ -1,0 +1,1 @@
+module.exports = {"Montaga":{"normal":"Montaga-Regular.ttf","bold":"Montaga-Regular.ttf","italics":"Montaga-Regular.ttf","bolditalics":"Montaga-Regular.ttf"}};

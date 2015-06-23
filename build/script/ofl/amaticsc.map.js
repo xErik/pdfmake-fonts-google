@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AmaticSC":{"bold":"AmaticSC-Bold.ttf","normal":"AmaticSC-Regular.ttf","italics":"AmaticSC-Regular.ttf","bolditalics":"AmaticSC-Bold.ttf"}};

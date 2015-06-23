@@ -1,0 +1,1 @@
+module.exports = {"Righteous":{"normal":"Righteous-Regular.ttf","bold":"Righteous-Regular.ttf","italics":"Righteous-Regular.ttf","bolditalics":"Righteous-Regular.ttf"}};

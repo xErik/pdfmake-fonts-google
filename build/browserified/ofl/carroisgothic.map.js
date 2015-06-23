@@ -1,0 +1,1 @@
+module.exports = {"CarroisGothic":{"normal":"CarroisGothic-Regular.ttf","bold":"CarroisGothic-Regular.ttf","italics":"CarroisGothic-Regular.ttf","bolditalics":"CarroisGothic-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Quattrocento":{"bold":"Quattrocento-Bold.ttf","normal":"Quattrocento-Regular.ttf","italics":"Quattrocento-Regular.ttf","bolditalics":"Quattrocento-Bold.ttf"}};

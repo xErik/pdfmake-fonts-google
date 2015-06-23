@@ -1,0 +1,1 @@
+module.exports = {"Questrial":{"normal":"Questrial-Regular.ttf","bold":"Questrial-Regular.ttf","italics":"Questrial-Regular.ttf","bolditalics":"Questrial-Regular.ttf"}};

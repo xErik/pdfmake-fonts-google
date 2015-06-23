@@ -1,0 +1,1 @@
+module.exports = {"PetitFormalScript":{"normal":"PetitFormalScript-Regular.ttf","bold":"PetitFormalScript-Regular.ttf","italics":"PetitFormalScript-Regular.ttf","bolditalics":"PetitFormalScript-Regular.ttf"}};

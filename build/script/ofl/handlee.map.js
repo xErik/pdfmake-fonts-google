@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Handlee":{"normal":"Handlee-Regular.ttf","bold":"Handlee-Regular.ttf","italics":"Handlee-Regular.ttf","bolditalics":"Handlee-Regular.ttf"}};

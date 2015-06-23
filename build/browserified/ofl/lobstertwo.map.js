@@ -1,0 +1,1 @@
+module.exports = {"LobsterTwo":{"bold":"LobsterTwo-Bold.ttf","bolditalics":"LobsterTwo-BoldItalic.ttf","italics":"LobsterTwo-Italic.ttf","normal":"LobsterTwo-Regular.ttf"}};

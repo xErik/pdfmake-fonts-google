@@ -1,0 +1,1 @@
+module.exports = {"NovaSlim":{"normal":"NovaSlim.ttf","bold":"NovaSlim.ttf","italics":"NovaSlim.ttf","bolditalics":"NovaSlim.ttf"}};

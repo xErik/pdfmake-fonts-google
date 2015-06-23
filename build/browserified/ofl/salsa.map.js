@@ -1,0 +1,1 @@
+module.exports = {"Salsa":{"normal":"Salsa-Regular.ttf","bold":"Salsa-Regular.ttf","italics":"Salsa-Regular.ttf","bolditalics":"Salsa-Regular.ttf"}};

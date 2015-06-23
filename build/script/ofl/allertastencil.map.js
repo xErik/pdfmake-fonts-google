@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AllertaStencil":{"normal":"AllertaStencil-Regular.ttf","bold":"AllertaStencil-Regular.ttf","italics":"AllertaStencil-Regular.ttf","bolditalics":"AllertaStencil-Regular.ttf"}};

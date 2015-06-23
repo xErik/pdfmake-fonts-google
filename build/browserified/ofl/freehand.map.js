@@ -1,0 +1,1 @@
+module.exports = {"Freehand":{"normal":"Freehand.ttf","bold":"Freehand.ttf","italics":"Freehand.ttf","bolditalics":"Freehand.ttf"}};

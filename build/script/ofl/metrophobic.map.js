@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Metrophobic":{"normal":"Metrophobic.ttf","bold":"Metrophobic.ttf","italics":"Metrophobic.ttf","bolditalics":"Metrophobic.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Ramabhadra":{"normal":"Ramabhadra-Regular.ttf","bold":"Ramabhadra-Regular.ttf","italics":"Ramabhadra-Regular.ttf","bolditalics":"Ramabhadra-Regular.ttf"}};

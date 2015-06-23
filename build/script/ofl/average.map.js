@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Average":{"normal":"Average-Regular.ttf","bold":"Average-Regular.ttf","italics":"Average-Regular.ttf","bolditalics":"Average-Regular.ttf"}};

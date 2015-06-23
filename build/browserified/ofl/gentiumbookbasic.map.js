@@ -1,0 +1,1 @@
+module.exports = {"GenBkBasB":{"normal":"GenBkBasB.ttf","bold":"GenBkBasB.ttf","italics":"GenBkBasB.ttf","bolditalics":"GenBkBasB.ttf"},"GenBkBasBI":{"normal":"GenBkBasBI.ttf"},"GenBkBasI":{"normal":"GenBkBasI.ttf"},"GenBkBasR":{"normal":"GenBkBasR.ttf"}};

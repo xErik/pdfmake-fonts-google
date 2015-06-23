@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Telex":{"normal":"Telex-Regular.ttf","bold":"Telex-Regular.ttf","italics":"Telex-Regular.ttf","bolditalics":"Telex-Regular.ttf"}};

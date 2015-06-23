@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AnnieUseYourTelescope":{"normal":"AnnieUseYourTelescope.ttf","bold":"AnnieUseYourTelescope.ttf","italics":"AnnieUseYourTelescope.ttf","bolditalics":"AnnieUseYourTelescope.ttf"}};

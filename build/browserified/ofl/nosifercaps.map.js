@@ -1,0 +1,1 @@
+module.exports = {"NosiferCaps":{"normal":"NosiferCaps-Regular.ttf","bold":"NosiferCaps-Regular.ttf","italics":"NosiferCaps-Regular.ttf","bolditalics":"NosiferCaps-Regular.ttf"}};

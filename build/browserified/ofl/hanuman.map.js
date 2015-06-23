@@ -1,0 +1,1 @@
+module.exports = {"Hanuman":{"normal":"Hanuman.ttf","bold":"Hanuman.ttf","italics":"Hanuman.ttf","bolditalics":"Hanuman.ttf"},"Hanumanb":{"normal":"Hanumanb.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Signika":{"bold":"Signika-Bold.ttf","light":"Signika-Light.ttf","normal":"Signika-Regular.ttf","semibold":"Signika-Semibold.ttf","italics":"Signika-Regular.ttf","bolditalics":"Signika-Bold.ttf"}};

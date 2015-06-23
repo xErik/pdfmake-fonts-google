@@ -1,0 +1,1 @@
+module.exports = {"SourceCodePro":{"black":"SourceCodePro-Black.ttf","bold":"SourceCodePro-Bold.ttf","extralight":"SourceCodePro-ExtraLight.ttf","light":"SourceCodePro-Light.ttf","medium":"SourceCodePro-Medium.ttf","normal":"SourceCodePro-Regular.ttf","semibold":"SourceCodePro-Semibold.ttf","italics":"SourceCodePro-Regular.ttf","bolditalics":"SourceCodePro-Bold.ttf"}};

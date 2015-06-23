@@ -1,0 +1,1 @@
+module.exports = {"Kranky":{"normal":"Kranky.ttf","bold":"Kranky.ttf","italics":"Kranky.ttf","bolditalics":"Kranky.ttf"}};

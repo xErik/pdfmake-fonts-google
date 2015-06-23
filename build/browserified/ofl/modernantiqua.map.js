@@ -1,0 +1,1 @@
+module.exports = {"ModernAntiqua":{"normal":"ModernAntiqua-Regular.ttf","bold":"ModernAntiqua-Regular.ttf","italics":"ModernAntiqua-Regular.ttf","bolditalics":"ModernAntiqua-Regular.ttf"}};

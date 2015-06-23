@@ -1,0 +1,1 @@
+module.exports = {"Julee":{"normal":"Julee-Regular.ttf","bold":"Julee-Regular.ttf","italics":"Julee-Regular.ttf","bolditalics":"Julee-Regular.ttf"}};

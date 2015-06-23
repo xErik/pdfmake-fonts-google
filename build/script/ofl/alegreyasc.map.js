@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AlegreyaSC":{"black":"AlegreyaSC-Black.ttf","blackitalics":"AlegreyaSC-BlackItalic.ttf","bold":"AlegreyaSC-Bold.ttf","bolditalics":"AlegreyaSC-BoldItalic.ttf","italics":"AlegreyaSC-Italic.ttf","normal":"AlegreyaSC-Regular.ttf"}};

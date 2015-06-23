@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansVai":{"normal":"NotoSansVai-Regular.ttf","bold":"NotoSansVai-Regular.ttf","italics":"NotoSansVai-Regular.ttf","bolditalics":"NotoSansVai-Regular.ttf"}};

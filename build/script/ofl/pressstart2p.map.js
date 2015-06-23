@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PressStart2P":{"normal":"PressStart2P-Regular.ttf","bold":"PressStart2P-Regular.ttf","italics":"PressStart2P-Regular.ttf","bolditalics":"PressStart2P-Regular.ttf"}};

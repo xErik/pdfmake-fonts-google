@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CreteRound":{"italics":"CreteRound-Italic.ttf","normal":"CreteRound-Regular.ttf","bold":"CreteRound-Regular.ttf","bolditalics":"CreteRound-Regular.ttf"}};

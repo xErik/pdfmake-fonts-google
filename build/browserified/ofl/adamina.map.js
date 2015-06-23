@@ -1,0 +1,1 @@
+module.exports = {"Adamina":{"normal":"Adamina-Regular.ttf","bold":"Adamina-Regular.ttf","italics":"Adamina-Regular.ttf","bolditalics":"Adamina-Regular.ttf"}};

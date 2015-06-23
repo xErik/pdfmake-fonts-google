@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JustMeAgainDownHere":{"normal":"JustMeAgainDownHere.ttf","bold":"JustMeAgainDownHere.ttf","italics":"JustMeAgainDownHere.ttf","bolditalics":"JustMeAgainDownHere.ttf"}};

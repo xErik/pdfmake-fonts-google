@@ -1,0 +1,1 @@
+module.exports = {"Bhavuka":{"normal":"Bhavuka-Regular.ttf","bold":"Bhavuka-Regular.ttf","italics":"Bhavuka-Regular.ttf","bolditalics":"Bhavuka-Regular.ttf"}};

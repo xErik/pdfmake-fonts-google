@@ -1,0 +1,1 @@
+module.exports = {"JustMeAgainDownHere":{"normal":"JustMeAgainDownHere.ttf","bold":"JustMeAgainDownHere.ttf","italics":"JustMeAgainDownHere.ttf","bolditalics":"JustMeAgainDownHere.ttf"}};

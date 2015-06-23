@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Playball":{"normal":"Playball-Regular.ttf","bold":"Playball-Regular.ttf","italics":"Playball-Regular.ttf","bolditalics":"Playball-Regular.ttf"}};

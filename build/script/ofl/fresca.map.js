@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Fresca":{"normal":"Fresca-Regular.ttf","bold":"Fresca-Regular.ttf","italics":"Fresca-Regular.ttf","bolditalics":"Fresca-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"AlexBrush":{"normal":"AlexBrush-Regular.ttf","bold":"AlexBrush-Regular.ttf","italics":"AlexBrush-Regular.ttf","bolditalics":"AlexBrush-Regular.ttf"}};

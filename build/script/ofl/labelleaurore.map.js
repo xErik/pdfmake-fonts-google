@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LaBelleAurore":{"normal":"LaBelleAurore.ttf","bold":"LaBelleAurore.ttf","italics":"LaBelleAurore.ttf","bolditalics":"LaBelleAurore.ttf"}};

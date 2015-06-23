@@ -1,0 +1,1 @@
+module.exports = {"SwankyandMooMoo":{"normal":"SwankyandMooMoo.ttf","bold":"SwankyandMooMoo.ttf","italics":"SwankyandMooMoo.ttf","bolditalics":"SwankyandMooMoo.ttf"}};

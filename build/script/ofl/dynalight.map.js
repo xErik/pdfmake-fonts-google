@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Dynalight":{"normal":"Dynalight-Regular.ttf","bold":"Dynalight-Regular.ttf","italics":"Dynalight-Regular.ttf","bolditalics":"Dynalight-Regular.ttf"}};

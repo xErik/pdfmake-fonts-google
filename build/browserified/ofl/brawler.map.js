@@ -1,0 +1,1 @@
+module.exports = {"Brawler":{"normal":"Brawler-Regular.ttf","bold":"Brawler-Regular.ttf","italics":"Brawler-Regular.ttf","bolditalics":"Brawler-Regular.ttf"}};

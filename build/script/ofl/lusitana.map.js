@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Lusitana":{"bold":"Lusitana-Bold.ttf","normal":"Lusitana-Regular.ttf","italics":"Lusitana-Regular.ttf","bolditalics":"Lusitana-Bold.ttf"}};

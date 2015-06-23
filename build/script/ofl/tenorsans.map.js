@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"TenorSans":{"normal":"TenorSans-Regular.ttf","bold":"TenorSans-Regular.ttf","italics":"TenorSans-Regular.ttf","bolditalics":"TenorSans-Regular.ttf"}};

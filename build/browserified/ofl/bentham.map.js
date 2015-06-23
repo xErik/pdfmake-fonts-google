@@ -1,0 +1,1 @@
+module.exports = {"Bentham":{"normal":"Bentham-Regular.ttf","bold":"Bentham-Regular.ttf","italics":"Bentham-Regular.ttf","bolditalics":"Bentham-Regular.ttf"}};

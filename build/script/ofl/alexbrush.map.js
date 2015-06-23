@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AlexBrush":{"normal":"AlexBrush-Regular.ttf","bold":"AlexBrush-Regular.ttf","italics":"AlexBrush-Regular.ttf","bolditalics":"AlexBrush-Regular.ttf"}};

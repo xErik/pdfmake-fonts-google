@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Aubrey":{"normal":"Aubrey-Regular.ttf","bold":"Aubrey-Regular.ttf","italics":"Aubrey-Regular.ttf","bolditalics":"Aubrey-Regular.ttf"}};

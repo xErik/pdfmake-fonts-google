@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AlikeAngular":{"normal":"AlikeAngular-Regular.ttf","bold":"AlikeAngular-Regular.ttf","italics":"AlikeAngular-Regular.ttf","bolditalics":"AlikeAngular-Regular.ttf"}};

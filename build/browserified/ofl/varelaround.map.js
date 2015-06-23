@@ -1,0 +1,1 @@
+module.exports = {"VarelaRound":{"normal":"VarelaRound-Regular.ttf","bold":"VarelaRound-Regular.ttf","italics":"VarelaRound-Regular.ttf","bolditalics":"VarelaRound-Regular.ttf"}};

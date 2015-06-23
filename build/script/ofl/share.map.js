@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Share":{"bold":"Share-Bold.ttf","bolditalics":"Share-BoldItalic.ttf","italics":"Share-Italic.ttf","normal":"Share-Regular.ttf"}};

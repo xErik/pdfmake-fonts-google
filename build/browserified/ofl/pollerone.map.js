@@ -1,0 +1,1 @@
+module.exports = {"PollerOne":{"normal":"PollerOne.ttf","bold":"PollerOne.ttf","italics":"PollerOne.ttf","bolditalics":"PollerOne.ttf"}};

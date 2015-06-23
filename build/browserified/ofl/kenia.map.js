@@ -1,0 +1,1 @@
+module.exports = {"Kenia":{"normal":"Kenia-Regular.ttf","bold":"Kenia-Regular.ttf","italics":"Kenia-Regular.ttf","bolditalics":"Kenia-Regular.ttf"}};

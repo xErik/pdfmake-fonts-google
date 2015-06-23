@@ -1,0 +1,1 @@
+module.exports = {"Hanalei":{"normal":"Hanalei-Regular.ttf","bold":"Hanalei-Regular.ttf","italics":"Hanalei-Regular.ttf","bolditalics":"Hanalei-Regular.ttf"}};

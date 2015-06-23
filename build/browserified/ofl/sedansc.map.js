@@ -1,0 +1,1 @@
+module.exports = {"SedanSC":{"normal":"SedanSC-Regular.ttf","bold":"SedanSC-Regular.ttf","italics":"SedanSC-Regular.ttf","bolditalics":"SedanSC-Regular.ttf"}};

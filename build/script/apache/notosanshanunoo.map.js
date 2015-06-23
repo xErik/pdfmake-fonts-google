@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansHanunoo":{"normal":"NotoSansHanunoo-Regular.ttf","bold":"NotoSansHanunoo-Regular.ttf","italics":"NotoSansHanunoo-Regular.ttf","bolditalics":"NotoSansHanunoo-Regular.ttf"}};

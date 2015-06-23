@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Gorditas":{"bold":"Gorditas-Bold.ttf","normal":"Gorditas-Regular.ttf","italics":"Gorditas-Regular.ttf","bolditalics":"Gorditas-Bold.ttf"}};

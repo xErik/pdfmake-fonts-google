@@ -1,0 +1,1 @@
+module.exports = {"TulpenOne":{"normal":"TulpenOne-Regular.ttf","bold":"TulpenOne-Regular.ttf","italics":"TulpenOne-Regular.ttf","bolditalics":"TulpenOne-Regular.ttf"}};

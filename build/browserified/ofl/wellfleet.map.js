@@ -1,0 +1,1 @@
+module.exports = {"Wellfleet":{"normal":"Wellfleet-Regular.ttf","bold":"Wellfleet-Regular.ttf","italics":"Wellfleet-Regular.ttf","bolditalics":"Wellfleet-Regular.ttf"}};

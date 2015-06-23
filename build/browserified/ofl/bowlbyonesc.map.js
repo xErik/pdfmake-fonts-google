@@ -1,0 +1,1 @@
+module.exports = {"BowlbyOneSC":{"normal":"BowlbyOneSC-Regular.ttf","bold":"BowlbyOneSC-Regular.ttf","italics":"BowlbyOneSC-Regular.ttf","bolditalics":"BowlbyOneSC-Regular.ttf"}};

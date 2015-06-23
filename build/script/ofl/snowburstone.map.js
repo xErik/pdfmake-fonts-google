@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SnowburstOne":{"normal":"SnowburstOne-Regular.ttf","bold":"SnowburstOne-Regular.ttf","italics":"SnowburstOne-Regular.ttf","bolditalics":"SnowburstOne-Regular.ttf"}};

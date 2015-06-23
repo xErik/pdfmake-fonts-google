@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Chango":{"normal":"Chango-Regular.ttf","bold":"Chango-Regular.ttf","italics":"Chango-Regular.ttf","bolditalics":"Chango-Regular.ttf"}};

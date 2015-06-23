@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SedanSC":{"normal":"SedanSC-Regular.ttf","bold":"SedanSC-Regular.ttf","italics":"SedanSC-Regular.ttf","bolditalics":"SedanSC-Regular.ttf"}};

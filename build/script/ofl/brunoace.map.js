@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BrunoAce":{"normal":"BrunoAce-Regular.ttf","bold":"BrunoAce-Regular.ttf","italics":"BrunoAce-Regular.ttf","bolditalics":"BrunoAce-Regular.ttf"}};

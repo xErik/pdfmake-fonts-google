@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Chicle":{"normal":"Chicle-Regular.ttf","bold":"Chicle-Regular.ttf","italics":"Chicle-Regular.ttf","bolditalics":"Chicle-Regular.ttf"}};

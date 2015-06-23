@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BubblegumSans":{"normal":"BubblegumSans-Regular.ttf","bold":"BubblegumSans-Regular.ttf","italics":"BubblegumSans-Regular.ttf","bolditalics":"BubblegumSans-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Podkova":{"bold":"Podkova-Bold.ttf","normal":"Podkova-Regular.ttf","italics":"Podkova-Regular.ttf","bolditalics":"Podkova-Bold.ttf"}};

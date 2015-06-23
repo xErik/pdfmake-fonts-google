@@ -1,0 +1,1 @@
+module.exports = {"Sumana":{"bold":"Sumana-Bold.ttf","normal":"Sumana-Regular.ttf","italics":"Sumana-Regular.ttf","bolditalics":"Sumana-Bold.ttf"}};

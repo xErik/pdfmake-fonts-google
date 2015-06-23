@@ -1,0 +1,1 @@
+module.exports = {"ArchitectsDaughter":{"normal":"ArchitectsDaughter.ttf","bold":"ArchitectsDaughter.ttf","italics":"ArchitectsDaughter.ttf","bolditalics":"ArchitectsDaughter.ttf"}};

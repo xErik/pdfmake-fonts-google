@@ -1,0 +1,1 @@
+module.exports = {"Acme":{"normal":"Acme-Regular.ttf","bold":"Acme-Regular.ttf","italics":"Acme-Regular.ttf","bolditalics":"Acme-Regular.ttf"}};

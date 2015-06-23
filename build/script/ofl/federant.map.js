@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Federant":{"normal":"Federant-Regular.ttf","bold":"Federant-Regular.ttf","italics":"Federant-Regular.ttf","bolditalics":"Federant-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Iceland":{"normal":"Iceland-Regular.ttf","bold":"Iceland-Regular.ttf","italics":"Iceland-Regular.ttf","bolditalics":"Iceland-Regular.ttf"}};

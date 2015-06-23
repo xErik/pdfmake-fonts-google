@@ -1,0 +1,1 @@
+module.exports = {"Shanti":{"normal":"Shanti-Regular.ttf","bold":"Shanti-Regular.ttf","italics":"Shanti-Regular.ttf","bolditalics":"Shanti-Regular.ttf"}};

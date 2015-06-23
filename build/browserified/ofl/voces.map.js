@@ -1,0 +1,1 @@
+module.exports = {"Voces":{"normal":"Voces-Regular.ttf","bold":"Voces-Regular.ttf","italics":"Voces-Regular.ttf","bolditalics":"Voces-Regular.ttf"}};

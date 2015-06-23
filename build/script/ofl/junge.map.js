@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Junge":{"normal":"Junge-Regular.ttf","bold":"Junge-Regular.ttf","italics":"Junge-Regular.ttf","bolditalics":"Junge-Regular.ttf"}};

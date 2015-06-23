@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SirinStencil":{"normal":"SirinStencil-Regular.ttf","bold":"SirinStencil-Regular.ttf","italics":"SirinStencil-Regular.ttf","bolditalics":"SirinStencil-Regular.ttf"}};

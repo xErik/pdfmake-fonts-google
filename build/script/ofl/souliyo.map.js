@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Souliyo":{"normal":"Souliyo-Regular.ttf","bold":"Souliyo-Regular.ttf","italics":"Souliyo-Regular.ttf","bolditalics":"Souliyo-Regular.ttf"}};

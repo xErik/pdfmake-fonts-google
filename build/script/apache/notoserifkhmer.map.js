@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSerifKhmer":{"bold":"NotoSerifKhmer-Bold.ttf","normal":"NotoSerifKhmer-Regular.ttf","italics":"NotoSerifKhmer-Regular.ttf","bolditalics":"NotoSerifKhmer-Bold.ttf"}};

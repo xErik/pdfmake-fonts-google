@@ -1,0 +1,1 @@
+module.exports = {"CrimsonText":{"bold":"CrimsonText-Bold.ttf","bolditalics":"CrimsonText-BoldItalic.ttf","italics":"CrimsonText-Italic.ttf","normal":"CrimsonText-Regular.ttf","semibold":"CrimsonText-Semibold.ttf","semibolditalics":"CrimsonText-SemiboldItalic.ttf"}};

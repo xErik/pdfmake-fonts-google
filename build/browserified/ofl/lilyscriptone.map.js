@@ -1,0 +1,1 @@
+module.exports = {"LilyScriptOne":{"normal":"LilyScriptOne-Regular.ttf","bold":"LilyScriptOne-Regular.ttf","italics":"LilyScriptOne-Regular.ttf","bolditalics":"LilyScriptOne-Regular.ttf"}};

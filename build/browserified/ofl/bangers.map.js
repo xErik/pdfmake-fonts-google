@@ -1,0 +1,1 @@
+module.exports = {"Bangers":{"normal":"Bangers.ttf","bold":"Bangers.ttf","italics":"Bangers.ttf","bolditalics":"Bangers.ttf"}};

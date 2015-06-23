@@ -1,0 +1,1 @@
+module.exports = {"TitanOne":{"normal":"TitanOne-Regular.ttf","bold":"TitanOne-Regular.ttf","italics":"TitanOne-Regular.ttf","bolditalics":"TitanOne-Regular.ttf"}};

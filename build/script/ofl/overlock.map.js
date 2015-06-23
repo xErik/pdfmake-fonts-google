@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Overlock":{"black":"Overlock-Black.ttf","blackitalics":"Overlock-BlackItalic.ttf","bold":"Overlock-Bold.ttf","bolditalics":"Overlock-BoldItalic.ttf","italics":"Overlock-Italic.ttf","normal":"Overlock-Regular.ttf"}};

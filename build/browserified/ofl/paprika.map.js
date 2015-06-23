@@ -1,0 +1,1 @@
+module.exports = {"Paprika":{"normal":"Paprika-Regular.ttf","bold":"Paprika-Regular.ttf","italics":"Paprika-Regular.ttf","bolditalics":"Paprika-Regular.ttf"}};

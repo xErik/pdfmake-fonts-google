@@ -1,0 +1,1 @@
+module.exports = {"KeaniaOne":{"normal":"KeaniaOne-Regular.ttf","bold":"KeaniaOne-Regular.ttf","italics":"KeaniaOne-Regular.ttf","bolditalics":"KeaniaOne-Regular.ttf"}};

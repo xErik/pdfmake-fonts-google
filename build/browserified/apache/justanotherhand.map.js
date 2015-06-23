@@ -1,0 +1,1 @@
+module.exports = {"JustAnotherHand":{"normal":"JustAnotherHand.ttf","bold":"JustAnotherHand.ttf","italics":"JustAnotherHand.ttf","bolditalics":"JustAnotherHand.ttf"}};

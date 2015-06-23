@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Kadwa":{"bold":"Kadwa-Bold.ttf","normal":"Kadwa-Regular.ttf","italics":"Kadwa-Regular.ttf","bolditalics":"Kadwa-Bold.ttf"}};

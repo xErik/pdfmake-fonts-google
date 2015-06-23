@@ -1,0 +1,1 @@
+module.exports = {"Rokkitt":{"bold":"Rokkitt-Bold.ttf","light":"Rokkitt-Light.ttf","normal":"Rokkitt-Regular.ttf","italics":"Rokkitt-Regular.ttf","bolditalics":"Rokkitt-Bold.ttf"}};

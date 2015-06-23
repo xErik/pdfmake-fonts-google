@@ -1,0 +1,1 @@
+module.exports = {"AlmendraSC":{"bold":"AlmendraSC-Bold.ttf","bolditalics":"AlmendraSC-BoldItalic.ttf","italics":"AlmendraSC-Italic.ttf","normal":"AlmendraSC-Regular.ttf"}};

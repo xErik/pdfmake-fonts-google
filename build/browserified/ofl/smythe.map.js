@@ -1,0 +1,1 @@
+module.exports = {"Smythe":{"normal":"Smythe-Regular.ttf","bold":"Smythe-Regular.ttf","italics":"Smythe-Regular.ttf","bolditalics":"Smythe-Regular.ttf"}};

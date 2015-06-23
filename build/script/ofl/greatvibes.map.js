@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"GreatVibes":{"normal":"GreatVibes-Regular.ttf","bold":"GreatVibes-Regular.ttf","italics":"GreatVibes-Regular.ttf","bolditalics":"GreatVibes-Regular.ttf"}};

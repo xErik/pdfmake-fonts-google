@@ -1,0 +1,1 @@
+module.exports = {"Cabin":{"bold":"Cabin-Bold.ttf","bolditalics":"Cabin-BoldItalic.ttf","italics":"Cabin-Italic.ttf","medium":"Cabin-Medium.ttf","mediumitalics":"Cabin-MediumItalic.ttf","normal":"Cabin-Regular.ttf","semibold":"Cabin-SemiBold.ttf","semibolditalics":"Cabin-SemiBoldItalic.ttf"}};

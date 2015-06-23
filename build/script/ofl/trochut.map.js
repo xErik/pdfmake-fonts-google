@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Trochut":{"bold":"Trochut-Bold.ttf","italics":"Trochut-Italic.ttf","normal":"Trochut-Regular.ttf","bolditalics":"Trochut-Bold.ttf"}};

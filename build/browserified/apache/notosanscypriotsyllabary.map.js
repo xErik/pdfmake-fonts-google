@@ -1,0 +1,1 @@
+module.exports = {"NotoSansCypriotSyllabary":{"normal":"NotoSansCypriotSyllabary-Regular.ttf","bold":"NotoSansCypriotSyllabary-Regular.ttf","italics":"NotoSansCypriotSyllabary-Regular.ttf","bolditalics":"NotoSansCypriotSyllabary-Regular.ttf"}};

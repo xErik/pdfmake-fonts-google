@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PatuaOne":{"normal":"PatuaOne-Regular.ttf","bold":"PatuaOne-Regular.ttf","italics":"PatuaOne-Regular.ttf","bolditalics":"PatuaOne-Regular.ttf"}};

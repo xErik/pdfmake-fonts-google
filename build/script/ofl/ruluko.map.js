@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ruluko":{"normal":"Ruluko-Regular.ttf","bold":"Ruluko-Regular.ttf","italics":"Ruluko-Regular.ttf","bolditalics":"Ruluko-Regular.ttf"}};

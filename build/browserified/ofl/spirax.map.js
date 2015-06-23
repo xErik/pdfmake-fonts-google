@@ -1,0 +1,1 @@
+module.exports = {"Spirax":{"normal":"Spirax-Regular.ttf","bold":"Spirax-Regular.ttf","italics":"Spirax-Regular.ttf","bolditalics":"Spirax-Regular.ttf"}};

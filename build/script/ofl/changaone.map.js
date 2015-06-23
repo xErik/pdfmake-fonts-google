@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ChangaOne":{"italics":"ChangaOne-Italic.ttf","normal":"ChangaOne-Regular.ttf","bold":"ChangaOne-Regular.ttf","bolditalics":"ChangaOne-Regular.ttf"}};

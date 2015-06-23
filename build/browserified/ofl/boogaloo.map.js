@@ -1,0 +1,1 @@
+module.exports = {"Boogaloo":{"normal":"Boogaloo-Regular.ttf","bold":"Boogaloo-Regular.ttf","italics":"Boogaloo-Regular.ttf","bolditalics":"Boogaloo-Regular.ttf"}};

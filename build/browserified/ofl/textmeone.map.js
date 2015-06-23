@@ -1,0 +1,1 @@
+module.exports = {"TextMeOne":{"normal":"TextMeOne-Regular.ttf","bold":"TextMeOne-Regular.ttf","italics":"TextMeOne-Regular.ttf","bolditalics":"TextMeOne-Regular.ttf"}};

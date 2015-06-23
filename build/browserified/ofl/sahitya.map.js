@@ -1,0 +1,1 @@
+module.exports = {"Sahitya":{"bold":"Sahitya-Bold.ttf","normal":"Sahitya-Regular.ttf","italics":"Sahitya-Regular.ttf","bolditalics":"Sahitya-Bold.ttf"}};

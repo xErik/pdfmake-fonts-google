@@ -1,0 +1,1 @@
+module.exports = {"Comfortaa":{"bold":"Comfortaa-Bold.ttf","light":"Comfortaa-Light.ttf","normal":"Comfortaa-Regular.ttf","italics":"Comfortaa-Regular.ttf","bolditalics":"Comfortaa-Bold.ttf"}};

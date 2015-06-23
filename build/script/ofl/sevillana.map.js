@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sevillana":{"normal":"Sevillana-Regular.ttf","bold":"Sevillana-Regular.ttf","italics":"Sevillana-Regular.ttf","bolditalics":"Sevillana-Regular.ttf"}};

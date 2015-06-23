@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Molengo":{"normal":"Molengo-Regular.ttf","bold":"Molengo-Regular.ttf","italics":"Molengo-Regular.ttf","bolditalics":"Molengo-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Sail":{"normal":"Sail-Regular.ttf","bold":"Sail-Regular.ttf","italics":"Sail-Regular.ttf","bolditalics":"Sail-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Asset":{"normal":"Asset.ttf","bold":"Asset.ttf","italics":"Asset.ttf","bolditalics":"Asset.ttf"}};

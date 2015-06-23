@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DaysOne":{"normal":"DaysOne-Regular.ttf","bold":"DaysOne-Regular.ttf","italics":"DaysOne-Regular.ttf","bolditalics":"DaysOne-Regular.ttf"}};

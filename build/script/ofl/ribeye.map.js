@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ribeye":{"normal":"Ribeye-Regular.ttf","bold":"Ribeye-Regular.ttf","italics":"Ribeye-Regular.ttf","bolditalics":"Ribeye-Regular.ttf"}};

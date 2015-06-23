@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PaytoneOne":{"normal":"PaytoneOne.ttf","bold":"PaytoneOne.ttf","italics":"PaytoneOne.ttf","bolditalics":"PaytoneOne.ttf"}};

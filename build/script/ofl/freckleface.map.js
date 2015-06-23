@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FreckleFace":{"normal":"FreckleFace-Regular.ttf","bold":"FreckleFace-Regular.ttf","italics":"FreckleFace-Regular.ttf","bolditalics":"FreckleFace-Regular.ttf"}};

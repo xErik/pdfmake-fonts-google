@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Cagliostro":{"normal":"Cagliostro-Regular.ttf","bold":"Cagliostro-Regular.ttf","italics":"Cagliostro-Regular.ttf","bolditalics":"Cagliostro-Regular.ttf"}};

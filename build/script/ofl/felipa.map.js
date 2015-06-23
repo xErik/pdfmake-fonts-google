@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Felipa":{"normal":"Felipa-Regular.ttf","bold":"Felipa-Regular.ttf","italics":"Felipa-Regular.ttf","bolditalics":"Felipa-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"MrDeHaviland":{"normal":"MrDeHaviland-Regular.ttf","bold":"MrDeHaviland-Regular.ttf","italics":"MrDeHaviland-Regular.ttf","bolditalics":"MrDeHaviland-Regular.ttf"}};

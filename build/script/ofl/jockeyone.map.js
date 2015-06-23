@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JockeyOne":{"normal":"JockeyOne-Regular.ttf","bold":"JockeyOne-Regular.ttf","italics":"JockeyOne-Regular.ttf","bolditalics":"JockeyOne-Regular.ttf"}};

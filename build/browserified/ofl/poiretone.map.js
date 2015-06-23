@@ -1,0 +1,1 @@
+module.exports = {"PoiretOne":{"normal":"PoiretOne-Regular.ttf","bold":"PoiretOne-Regular.ttf","italics":"PoiretOne-Regular.ttf","bolditalics":"PoiretOne-Regular.ttf"}};

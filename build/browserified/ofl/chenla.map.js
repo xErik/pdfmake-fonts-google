@@ -1,0 +1,1 @@
+module.exports = {"Chenla":{"normal":"Chenla.ttf","bold":"Chenla.ttf","italics":"Chenla.ttf","bolditalics":"Chenla.ttf"}};

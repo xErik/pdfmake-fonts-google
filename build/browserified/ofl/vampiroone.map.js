@@ -1,0 +1,1 @@
+module.exports = {"VampiroOne":{"normal":"VampiroOne-Regular.ttf","bold":"VampiroOne-Regular.ttf","italics":"VampiroOne-Regular.ttf","bolditalics":"VampiroOne-Regular.ttf"}};

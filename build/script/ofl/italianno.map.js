@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Italianno":{"normal":"Italianno-Regular.ttf","bold":"Italianno-Regular.ttf","italics":"Italianno-Regular.ttf","bolditalics":"Italianno-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ShadowsIntoLight":{"normal":"ShadowsIntoLight.ttf","bold":"ShadowsIntoLight.ttf","italics":"ShadowsIntoLight.ttf","bolditalics":"ShadowsIntoLight.ttf"}};

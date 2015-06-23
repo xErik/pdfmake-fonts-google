@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DidactGothic":{"normal":"DidactGothic.ttf","bold":"DidactGothic.ttf","italics":"DidactGothic.ttf","bolditalics":"DidactGothic.ttf"}};

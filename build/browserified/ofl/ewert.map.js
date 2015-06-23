@@ -1,0 +1,1 @@
+module.exports = {"Ewert":{"normal":"Ewert-Regular.ttf","bold":"Ewert-Regular.ttf","italics":"Ewert-Regular.ttf","bolditalics":"Ewert-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Creepster":{"normal":"Creepster-Regular.ttf","bold":"Creepster-Regular.ttf","italics":"Creepster-Regular.ttf","bolditalics":"Creepster-Regular.ttf"}};

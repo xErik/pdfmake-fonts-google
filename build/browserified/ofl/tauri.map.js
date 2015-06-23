@@ -1,0 +1,1 @@
+module.exports = {"Tauri":{"normal":"Tauri-Regular.ttf","bold":"Tauri-Regular.ttf","italics":"Tauri-Regular.ttf","bolditalics":"Tauri-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"SueEllenFrancisco":{"normal":"SueEllenFrancisco.ttf","bold":"SueEllenFrancisco.ttf","italics":"SueEllenFrancisco.ttf","bolditalics":"SueEllenFrancisco.ttf"}};

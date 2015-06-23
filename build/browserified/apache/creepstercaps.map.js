@@ -1,0 +1,1 @@
+module.exports = {"CreepsterCaps":{"normal":"CreepsterCaps-Regular.ttf","bold":"CreepsterCaps-Regular.ttf","italics":"CreepsterCaps-Regular.ttf","bolditalics":"CreepsterCaps-Regular.ttf"}};

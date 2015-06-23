@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LibreCaslonText":{"bold":"LibreCaslonText-Bold.ttf","italics":"LibreCaslonText-Italic.ttf","normal":"LibreCaslonText-Regular.ttf","bolditalics":"LibreCaslonText-Bold.ttf"}};

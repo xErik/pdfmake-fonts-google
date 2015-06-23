@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MervaleScript":{"normal":"MervaleScript-Regular.ttf","bold":"MervaleScript-Regular.ttf","italics":"MervaleScript-Regular.ttf","bolditalics":"MervaleScript-Regular.ttf"}};

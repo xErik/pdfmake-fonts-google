@@ -1,0 +1,1 @@
+module.exports = {"Ovo":{"normal":"Ovo-Regular.ttf","bold":"Ovo-Regular.ttf","italics":"Ovo-Regular.ttf","bolditalics":"Ovo-Regular.ttf"}};

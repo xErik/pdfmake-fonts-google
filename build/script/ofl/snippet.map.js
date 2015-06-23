@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Snippet":{"normal":"Snippet.ttf","bold":"Snippet.ttf","italics":"Snippet.ttf","bolditalics":"Snippet.ttf"}};

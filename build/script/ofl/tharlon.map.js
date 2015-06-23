@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Tharlon":{"normal":"Tharlon-Regular.ttf","bold":"Tharlon-Regular.ttf","italics":"Tharlon-Regular.ttf","bolditalics":"Tharlon-Regular.ttf"}};

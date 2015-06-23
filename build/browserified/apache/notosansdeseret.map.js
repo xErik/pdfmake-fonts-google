@@ -1,0 +1,1 @@
+module.exports = {"NotoSansDeseret":{"normal":"NotoSansDeseret-Regular.ttf","bold":"NotoSansDeseret-Regular.ttf","italics":"NotoSansDeseret-Regular.ttf","bolditalics":"NotoSansDeseret-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"NotoKufiArabic":{"bold":"NotoKufiArabic-Bold.ttf","normal":"NotoKufiArabic-Regular.ttf","italics":"NotoKufiArabic-Regular.ttf","bolditalics":"NotoKufiArabic-Bold.ttf"}};

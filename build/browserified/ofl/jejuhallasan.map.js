@@ -1,0 +1,1 @@
+module.exports = {"JejuHallasan":{"normal":"JejuHallasan-Regular.ttf","bold":"JejuHallasan-Regular.ttf","italics":"JejuHallasan-Regular.ttf","bolditalics":"JejuHallasan-Regular.ttf"}};

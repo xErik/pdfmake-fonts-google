@@ -1,0 +1,1 @@
+module.exports = {"Taprom":{"normal":"Taprom.ttf","bold":"Taprom.ttf","italics":"Taprom.ttf","bolditalics":"Taprom.ttf"}};

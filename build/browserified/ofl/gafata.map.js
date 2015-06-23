@@ -1,0 +1,1 @@
+module.exports = {"Gafata":{"normal":"Gafata-Regular.ttf","bold":"Gafata-Regular.ttf","italics":"Gafata-Regular.ttf","bolditalics":"Gafata-Regular.ttf"}};

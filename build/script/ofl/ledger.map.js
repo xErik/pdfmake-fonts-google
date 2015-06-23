@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ledger":{"normal":"Ledger-Regular.ttf","bold":"Ledger-Regular.ttf","italics":"Ledger-Regular.ttf","bolditalics":"Ledger-Regular.ttf"}};

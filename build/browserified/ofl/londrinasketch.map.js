@@ -1,0 +1,1 @@
+module.exports = {"LondrinaSketch":{"normal":"LondrinaSketch-Regular.ttf","bold":"LondrinaSketch-Regular.ttf","italics":"LondrinaSketch-Regular.ttf","bolditalics":"LondrinaSketch-Regular.ttf"}};

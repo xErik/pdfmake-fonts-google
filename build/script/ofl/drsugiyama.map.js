@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DrSugiyama":{"normal":"DrSugiyama-Regular.ttf","bold":"DrSugiyama-Regular.ttf","italics":"DrSugiyama-Regular.ttf","bolditalics":"DrSugiyama-Regular.ttf"}};

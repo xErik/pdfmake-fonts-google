@@ -1,0 +1,1 @@
+module.exports = {"NotoSansMyanmar":{"bold":"NotoSansMyanmar-Bold.ttf","normal":"NotoSansMyanmar-Regular.ttf","italics":"NotoSansMyanmar-Regular.ttf","bolditalics":"NotoSansMyanmar-Bold.ttf"}};

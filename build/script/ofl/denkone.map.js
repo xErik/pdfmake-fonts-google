@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DenkOne":{"normal":"DenkOne-Regular.ttf","bold":"DenkOne-Regular.ttf","italics":"DenkOne-Regular.ttf","bolditalics":"DenkOne-Regular.ttf"}};

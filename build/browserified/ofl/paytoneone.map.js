@@ -1,0 +1,1 @@
+module.exports = {"PaytoneOne":{"normal":"PaytoneOne.ttf","bold":"PaytoneOne.ttf","italics":"PaytoneOne.ttf","bolditalics":"PaytoneOne.ttf"}};

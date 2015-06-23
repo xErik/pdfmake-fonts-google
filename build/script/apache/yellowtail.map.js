@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Yellowtail":{"normal":"Yellowtail-Regular.ttf","bold":"Yellowtail-Regular.ttf","italics":"Yellowtail-Regular.ttf","bolditalics":"Yellowtail-Regular.ttf"}};

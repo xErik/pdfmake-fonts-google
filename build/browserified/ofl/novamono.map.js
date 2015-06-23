@@ -1,0 +1,1 @@
+module.exports = {"NovaMono":{"normal":"NovaMono.ttf","bold":"NovaMono.ttf","italics":"NovaMono.ttf","bolditalics":"NovaMono.ttf"}};

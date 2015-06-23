@@ -1,0 +1,1 @@
+module.exports = {"Artifika":{"normal":"Artifika-Regular.ttf","bold":"Artifika-Regular.ttf","italics":"Artifika-Regular.ttf","bolditalics":"Artifika-Regular.ttf"}};

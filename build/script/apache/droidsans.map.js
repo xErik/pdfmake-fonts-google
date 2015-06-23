@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DroidSans":{"bold":"DroidSans-Bold.ttf","normal":"DroidSans.ttf","italics":"DroidSans.ttf","bolditalics":"DroidSans-Bold.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Monofett":{"normal":"Monofett.ttf","bold":"Monofett.ttf","italics":"Monofett.ttf","bolditalics":"Monofett.ttf"}};

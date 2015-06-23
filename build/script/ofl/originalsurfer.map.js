@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"OriginalSurfer":{"normal":"OriginalSurfer-Regular.ttf","bold":"OriginalSurfer-Regular.ttf","italics":"OriginalSurfer-Regular.ttf","bolditalics":"OriginalSurfer-Regular.ttf"}};

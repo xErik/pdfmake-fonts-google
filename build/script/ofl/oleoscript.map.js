@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"OleoScript":{"bold":"OleoScript-Bold.ttf","normal":"OleoScript-Regular.ttf","italics":"OleoScript-Regular.ttf","bolditalics":"OleoScript-Bold.ttf"}};

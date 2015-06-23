@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NovaRound":{"normal":"NovaRound.ttf","bold":"NovaRound.ttf","italics":"NovaRound.ttf","bolditalics":"NovaRound.ttf"}};

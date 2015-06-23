@@ -1,0 +1,1 @@
+module.exports = {"PurplePurse":{"normal":"PurplePurse-Regular.ttf","bold":"PurplePurse-Regular.ttf","italics":"PurplePurse-Regular.ttf","bolditalics":"PurplePurse-Regular.ttf"}};

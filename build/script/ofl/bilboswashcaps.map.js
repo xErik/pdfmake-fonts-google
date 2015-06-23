@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BilboSwashCaps":{"normal":"BilboSwashCaps-Regular.ttf","bold":"BilboSwashCaps-Regular.ttf","italics":"BilboSwashCaps-Regular.ttf","bolditalics":"BilboSwashCaps-Regular.ttf"}};

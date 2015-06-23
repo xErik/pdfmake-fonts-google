@@ -1,0 +1,1 @@
+module.exports = {"TerminalDosis":{"bold":"TerminalDosis-Bold.ttf","extrabold":"TerminalDosis-ExtraBold.ttf","extralight":"TerminalDosis-ExtraLight.ttf","light":"TerminalDosis-Light.ttf","medium":"TerminalDosis-Medium.ttf","normal":"TerminalDosis-Regular.ttf","semibold":"TerminalDosis-SemiBold.ttf","italics":"TerminalDosis-Regular.ttf","bolditalics":"TerminalDosis-Bold.ttf"}};

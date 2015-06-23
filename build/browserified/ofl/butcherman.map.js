@@ -1,0 +1,1 @@
+module.exports = {"Butcherman":{"normal":"Butcherman-Regular.ttf","bold":"Butcherman-Regular.ttf","italics":"Butcherman-Regular.ttf","bolditalics":"Butcherman-Regular.ttf"}};

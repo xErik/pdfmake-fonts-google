@@ -1,0 +1,1 @@
+module.exports = {"Fruktur":{"normal":"Fruktur-Regular.ttf","bold":"Fruktur-Regular.ttf","italics":"Fruktur-Regular.ttf","bolditalics":"Fruktur-Regular.ttf"}};

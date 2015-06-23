@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Smokum":{"normal":"Smokum-Regular.ttf","bold":"Smokum-Regular.ttf","italics":"Smokum-Regular.ttf","bolditalics":"Smokum-Regular.ttf"}};

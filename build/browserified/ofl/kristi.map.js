@@ -1,0 +1,1 @@
+module.exports = {"Kristi":{"normal":"Kristi.ttf","bold":"Kristi.ttf","italics":"Kristi.ttf","bolditalics":"Kristi.ttf"}};

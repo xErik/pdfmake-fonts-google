@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Baumans":{"normal":"Baumans-Regular.ttf","bold":"Baumans-Regular.ttf","italics":"Baumans-Regular.ttf","bolditalics":"Baumans-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Martel":{"bold":"Martel-Bold.ttf","demibold":"Martel-DemiBold.ttf","extrabold":"Martel-ExtraBold.ttf","heavy":"Martel-Heavy.ttf","light":"Martel-Light.ttf","normal":"Martel-Regular.ttf","ultralight":"Martel-UltraLight.ttf","italics":"Martel-Regular.ttf","bolditalics":"Martel-Bold.ttf"}};

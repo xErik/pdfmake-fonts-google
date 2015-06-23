@@ -1,0 +1,1 @@
+module.exports = {"MeriendaOne":{"normal":"MeriendaOne-Regular.ttf","bold":"MeriendaOne-Regular.ttf","italics":"MeriendaOne-Regular.ttf","bolditalics":"MeriendaOne-Regular.ttf"}};

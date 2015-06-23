@@ -1,0 +1,1 @@
+module.exports = {"NotoSansLisu":{"normal":"NotoSansLisu-Regular.ttf","bold":"NotoSansLisu-Regular.ttf","italics":"NotoSansLisu-Regular.ttf","bolditalics":"NotoSansLisu-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"KdamThmor":{"normal":"KdamThmor-Regular.ttf","bold":"KdamThmor-Regular.ttf","italics":"KdamThmor-Regular.ttf","bolditalics":"KdamThmor-Regular.ttf"}};

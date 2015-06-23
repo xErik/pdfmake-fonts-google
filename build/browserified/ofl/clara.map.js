@@ -1,0 +1,1 @@
+module.exports = {"Clara":{"normal":"Clara-Regular.ttf","bold":"Clara-Regular.ttf","italics":"Clara-Regular.ttf","bolditalics":"Clara-Regular.ttf"}};

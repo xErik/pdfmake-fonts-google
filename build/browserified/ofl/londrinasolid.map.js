@@ -1,0 +1,1 @@
+module.exports = {"LondrinaSolid":{"normal":"LondrinaSolid-Regular.ttf","bold":"LondrinaSolid-Regular.ttf","italics":"LondrinaSolid-Regular.ttf","bolditalics":"LondrinaSolid-Regular.ttf"}};

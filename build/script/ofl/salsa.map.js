@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Salsa":{"normal":"Salsa-Regular.ttf","bold":"Salsa-Regular.ttf","italics":"Salsa-Regular.ttf","bolditalics":"Salsa-Regular.ttf"}};

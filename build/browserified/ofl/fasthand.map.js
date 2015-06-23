@@ -1,0 +1,1 @@
+module.exports = {"Fasthand":{"normal":"Fasthand-Regular.ttf","bold":"Fasthand-Regular.ttf","italics":"Fasthand-Regular.ttf","bolditalics":"Fasthand-Regular.ttf"}};

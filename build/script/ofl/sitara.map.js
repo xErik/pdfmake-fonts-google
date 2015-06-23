@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sitara":{"bold":"Sitara-Bold.ttf","bolditalics":"Sitara-BoldItalic.ttf","italics":"Sitara-Italic.ttf","normal":"Sitara-Regular.ttf"}};

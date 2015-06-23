@@ -1,0 +1,1 @@
+module.exports = {"Monda":{"bold":"Monda-Bold.ttf","normal":"Monda-Regular.ttf","italics":"Monda-Regular.ttf","bolditalics":"Monda-Bold.ttf"}};

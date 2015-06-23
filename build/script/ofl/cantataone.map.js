@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CantataOne":{"normal":"CantataOne-Regular.ttf","bold":"CantataOne-Regular.ttf","italics":"CantataOne-Regular.ttf","bolditalics":"CantataOne-Regular.ttf"}};

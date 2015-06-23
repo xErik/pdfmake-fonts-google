@@ -1,0 +1,1 @@
+module.exports = {"Engagement":{"normal":"Engagement-Regular.ttf","bold":"Engagement-Regular.ttf","italics":"Engagement-Regular.ttf","bolditalics":"Engagement-Regular.ttf"}};

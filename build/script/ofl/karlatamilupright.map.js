@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"KarlaTamilUpright":{"bold":"KarlaTamilUpright-Bold.ttf","normal":"KarlaTamilUpright-Regular.ttf","italics":"KarlaTamilUpright-Regular.ttf","bolditalics":"KarlaTamilUpright-Bold.ttf"}};

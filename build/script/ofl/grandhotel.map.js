@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"GrandHotel":{"normal":"GrandHotel-Regular.ttf","bold":"GrandHotel-Regular.ttf","italics":"GrandHotel-Regular.ttf","bolditalics":"GrandHotel-Regular.ttf"}};

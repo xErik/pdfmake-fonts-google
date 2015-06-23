@@ -1,0 +1,1 @@
+module.exports = {"Khula":{"bold":"Khula-Bold.ttf","extrabold":"Khula-ExtraBold.ttf","light":"Khula-Light.ttf","normal":"Khula-Regular.ttf","semibold":"Khula-SemiBold.ttf","italics":"Khula-Regular.ttf","bolditalics":"Khula-Bold.ttf"}};

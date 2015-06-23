@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Chivo":{"black":"Chivo-Black.ttf","blackitalics":"Chivo-BlackItalic.ttf","italics":"Chivo-Italic.ttf","normal":"Chivo-Regular.ttf","bold":"Chivo-Regular.ttf","bolditalics":"Chivo-Regular.ttf"}};

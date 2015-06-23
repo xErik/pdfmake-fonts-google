@@ -1,0 +1,1 @@
+module.exports = {"Galindo":{"normal":"Galindo-Regular.ttf","bold":"Galindo-Regular.ttf","italics":"Galindo-Regular.ttf","bolditalics":"Galindo-Regular.ttf"}};

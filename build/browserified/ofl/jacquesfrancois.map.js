@@ -1,0 +1,1 @@
+module.exports = {"JacquesFrancois":{"normal":"JacquesFrancois-Regular.ttf","bold":"JacquesFrancois-Regular.ttf","italics":"JacquesFrancois-Regular.ttf","bolditalics":"JacquesFrancois-Regular.ttf"}};

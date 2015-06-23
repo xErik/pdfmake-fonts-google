@@ -1,0 +1,1 @@
+module.exports = {"NotoSansLao":{"bold":"NotoSansLao-Bold.ttf","normal":"NotoSansLao-Regular.ttf","italics":"NotoSansLao-Regular.ttf","bolditalics":"NotoSansLao-Bold.ttf"}};

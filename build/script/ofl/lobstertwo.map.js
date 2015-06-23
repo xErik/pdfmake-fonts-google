@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LobsterTwo":{"bold":"LobsterTwo-Bold.ttf","bolditalics":"LobsterTwo-BoldItalic.ttf","italics":"LobsterTwo-Italic.ttf","normal":"LobsterTwo-Regular.ttf"}};

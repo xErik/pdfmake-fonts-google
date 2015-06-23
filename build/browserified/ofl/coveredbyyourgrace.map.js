@@ -1,0 +1,1 @@
+module.exports = {"CoveredByYourGrace":{"normal":"CoveredByYourGrace.ttf","bold":"CoveredByYourGrace.ttf","italics":"CoveredByYourGrace.ttf","bolditalics":"CoveredByYourGrace.ttf"}};

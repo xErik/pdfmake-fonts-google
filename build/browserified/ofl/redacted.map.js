@@ -1,0 +1,1 @@
+module.exports = {"Redacted":{"normal":"Redacted-Regular.ttf","bold":"Redacted-Regular.ttf","italics":"Redacted-Regular.ttf","bolditalics":"Redacted-Regular.ttf"}};

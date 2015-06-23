@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DroidKufi":{"bold":"DroidKufi-Bold.ttf","normal":"DroidKufi-Regular.ttf","italics":"DroidKufi-Regular.ttf","bolditalics":"DroidKufi-Bold.ttf"}};

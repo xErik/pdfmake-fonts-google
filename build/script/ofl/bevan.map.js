@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Bevan":{"normal":"Bevan.ttf","bold":"Bevan.ttf","italics":"Bevan.ttf","bolditalics":"Bevan.ttf"}};

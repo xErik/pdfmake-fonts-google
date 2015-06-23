@@ -1,0 +1,1 @@
+module.exports = {"Angkor":{"normal":"Angkor.ttf","bold":"Angkor.ttf","italics":"Angkor.ttf","bolditalics":"Angkor.ttf"}};

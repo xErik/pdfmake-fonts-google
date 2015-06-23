@@ -1,0 +1,1 @@
+module.exports = {"Eater":{"normal":"Eater-Regular.ttf","bold":"Eater-Regular.ttf","italics":"Eater-Regular.ttf","bolditalics":"Eater-Regular.ttf"}};

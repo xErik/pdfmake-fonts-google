@@ -1,0 +1,1 @@
+module.exports = {"Rationale":{"normal":"Rationale-Regular.ttf","bold":"Rationale-Regular.ttf","italics":"Rationale-Regular.ttf","bolditalics":"Rationale-Regular.ttf"}};

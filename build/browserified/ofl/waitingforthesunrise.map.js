@@ -1,0 +1,1 @@
+module.exports = {"WaitingfortheSunrise":{"normal":"WaitingfortheSunrise.ttf","bold":"WaitingfortheSunrise.ttf","italics":"WaitingfortheSunrise.ttf","bolditalics":"WaitingfortheSunrise.ttf"}};

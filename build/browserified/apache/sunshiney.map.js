@@ -1,0 +1,1 @@
+module.exports = {"Sunshiney":{"normal":"Sunshiney.ttf","bold":"Sunshiney.ttf","italics":"Sunshiney.ttf","bolditalics":"Sunshiney.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Modak":{"normal":"Modak-Regular.ttf","bold":"Modak-Regular.ttf","italics":"Modak-Regular.ttf","bolditalics":"Modak-Regular.ttf"}};

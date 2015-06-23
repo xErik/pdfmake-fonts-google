@@ -1,0 +1,1 @@
+module.exports = {"MedievalSharp":{"normal":"MedievalSharp.ttf","bold":"MedievalSharp.ttf","italics":"MedievalSharp.ttf","bolditalics":"MedievalSharp.ttf"}};

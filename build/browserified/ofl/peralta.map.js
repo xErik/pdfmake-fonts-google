@@ -1,0 +1,1 @@
+module.exports = {"Peralta":{"normal":"Peralta-Regular.ttf","bold":"Peralta-Regular.ttf","italics":"Peralta-Regular.ttf","bolditalics":"Peralta-Regular.ttf"}};

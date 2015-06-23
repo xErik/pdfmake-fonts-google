@@ -1,0 +1,1 @@
+module.exports = {"MarckScript":{"normal":"MarckScript-Regular.ttf","bold":"MarckScript-Regular.ttf","italics":"MarckScript-Regular.ttf","bolditalics":"MarckScript-Regular.ttf"}};

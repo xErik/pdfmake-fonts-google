@@ -1,0 +1,1 @@
+module.exports = {"Gurajada":{"normal":"Gurajada-Regular.ttf","bold":"Gurajada-Regular.ttf","italics":"Gurajada-Regular.ttf","bolditalics":"Gurajada-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BigelowRules":{"normal":"BigelowRules-Regular.ttf","bold":"BigelowRules-Regular.ttf","italics":"BigelowRules-Regular.ttf","bolditalics":"BigelowRules-Regular.ttf"}};

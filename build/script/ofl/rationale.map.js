@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Rationale":{"normal":"Rationale-Regular.ttf","bold":"Rationale-Regular.ttf","italics":"Rationale-Regular.ttf","bolditalics":"Rationale-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Smokum":{"normal":"Smokum-Regular.ttf","bold":"Smokum-Regular.ttf","italics":"Smokum-Regular.ttf","bolditalics":"Smokum-Regular.ttf"}};

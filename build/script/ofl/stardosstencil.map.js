@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"StardosStencil":{"bold":"StardosStencil-Bold.ttf","normal":"StardosStencil-Regular.ttf","italics":"StardosStencil-Regular.ttf","bolditalics":"StardosStencil-Bold.ttf"}};

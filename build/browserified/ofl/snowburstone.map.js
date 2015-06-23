@@ -1,0 +1,1 @@
+module.exports = {"SnowburstOne":{"normal":"SnowburstOne-Regular.ttf","bold":"SnowburstOne-Regular.ttf","italics":"SnowburstOne-Regular.ttf","bolditalics":"SnowburstOne-Regular.ttf"}};

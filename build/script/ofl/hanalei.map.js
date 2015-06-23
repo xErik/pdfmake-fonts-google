@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Hanalei":{"normal":"Hanalei-Regular.ttf","bold":"Hanalei-Regular.ttf","italics":"Hanalei-Regular.ttf","bolditalics":"Hanalei-Regular.ttf"}};

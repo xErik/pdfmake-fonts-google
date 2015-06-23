@@ -1,0 +1,1 @@
+module.exports = {"Unkempt":{"bold":"Unkempt-Bold.ttf","normal":"Unkempt-Regular.ttf","italics":"Unkempt-Regular.ttf","bolditalics":"Unkempt-Bold.ttf"}};

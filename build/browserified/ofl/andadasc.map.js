@@ -1,0 +1,1 @@
+module.exports = {"AndadaSC":{"bold":"AndadaSC-Bold.ttf","bolditalics":"AndadaSC-BoldItalic.ttf","italics":"AndadaSC-Italic.ttf","normal":"AndadaSC-Regular.ttf"}};

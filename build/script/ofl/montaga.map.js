@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Montaga":{"normal":"Montaga-Regular.ttf","bold":"Montaga-Regular.ttf","italics":"Montaga-Regular.ttf","bolditalics":"Montaga-Regular.ttf"}};

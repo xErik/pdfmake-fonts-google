@@ -1,0 +1,1 @@
+module.exports = {"Megrim":{"normal":"Megrim.ttf","bold":"Megrim.ttf","italics":"Megrim.ttf","bolditalics":"Megrim.ttf"}};

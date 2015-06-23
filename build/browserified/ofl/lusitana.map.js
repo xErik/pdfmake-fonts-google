@@ -1,0 +1,1 @@
+module.exports = {"Lusitana":{"bold":"Lusitana-Bold.ttf","normal":"Lusitana-Regular.ttf","italics":"Lusitana-Regular.ttf","bolditalics":"Lusitana-Bold.ttf"}};

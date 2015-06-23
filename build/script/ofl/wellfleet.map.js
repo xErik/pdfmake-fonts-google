@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Wellfleet":{"normal":"Wellfleet-Regular.ttf","bold":"Wellfleet-Regular.ttf","italics":"Wellfleet-Regular.ttf","bolditalics":"Wellfleet-Regular.ttf"}};

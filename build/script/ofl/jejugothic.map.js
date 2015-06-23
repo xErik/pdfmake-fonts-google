@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JejuGothic":{"normal":"JejuGothic-Regular.ttf","bold":"JejuGothic-Regular.ttf","italics":"JejuGothic-Regular.ttf","bolditalics":"JejuGothic-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Jaldi":{"bold":"Jaldi-Bold.ttf","normal":"Jaldi-Regular.ttf","italics":"Jaldi-Regular.ttf","bolditalics":"Jaldi-Bold.ttf"}};

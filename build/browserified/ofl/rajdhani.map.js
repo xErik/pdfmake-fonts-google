@@ -1,0 +1,1 @@
+module.exports = {"Rajdhani":{"bold":"Rajdhani-Bold.ttf","light":"Rajdhani-Light.ttf","medium":"Rajdhani-Medium.ttf","normal":"Rajdhani-Regular.ttf","semibold":"Rajdhani-SemiBold.ttf","italics":"Rajdhani-Regular.ttf","bolditalics":"Rajdhani-Bold.ttf"}};

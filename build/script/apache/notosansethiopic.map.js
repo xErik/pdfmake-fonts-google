@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansEthiopic":{"bold":"NotoSansEthiopic-Bold.ttf","normal":"NotoSansEthiopic-Regular.ttf","italics":"NotoSansEthiopic-Regular.ttf","bolditalics":"NotoSansEthiopic-Bold.ttf"}};

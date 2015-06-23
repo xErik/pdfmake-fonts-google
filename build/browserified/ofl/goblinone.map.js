@@ -1,0 +1,1 @@
+module.exports = {"GoblinOne":{"normal":"GoblinOne.ttf","bold":"GoblinOne.ttf","italics":"GoblinOne.ttf","bolditalics":"GoblinOne.ttf"}};

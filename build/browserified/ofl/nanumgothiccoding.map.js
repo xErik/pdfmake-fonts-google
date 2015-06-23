@@ -1,0 +1,1 @@
+module.exports = {"NanumGothicCoding":{"bold":"NanumGothicCoding-Bold.ttf","normal":"NanumGothicCoding-Regular.ttf","italics":"NanumGothicCoding-Regular.ttf","bolditalics":"NanumGothicCoding-Bold.ttf"}};

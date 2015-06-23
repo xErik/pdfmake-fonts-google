@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Arapey":{"italics":"Arapey-Italic.ttf","normal":"Arapey-Regular.ttf","bold":"Arapey-Regular.ttf","bolditalics":"Arapey-Regular.ttf"}};

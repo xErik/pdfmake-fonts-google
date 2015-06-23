@@ -1,0 +1,1 @@
+module.exports = {"NotoSansTaiViet":{"normal":"NotoSansTaiViet-Regular.ttf","bold":"NotoSansTaiViet-Regular.ttf","italics":"NotoSansTaiViet-Regular.ttf","bolditalics":"NotoSansTaiViet-Regular.ttf"}};

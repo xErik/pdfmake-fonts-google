@@ -1,0 +1,1 @@
+module.exports = {"GravitasOne":{"normal":"GravitasOne.ttf","bold":"GravitasOne.ttf","italics":"GravitasOne.ttf","bolditalics":"GravitasOne.ttf"}};

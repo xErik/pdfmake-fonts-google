@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Quantico":{"bold":"Quantico-Bold.ttf","bolditalics":"Quantico-BoldItalic.ttf","italics":"Quantico-Italic.ttf","normal":"Quantico-Regular.ttf"}};

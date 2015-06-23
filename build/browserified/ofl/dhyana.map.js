@@ -1,0 +1,1 @@
+module.exports = {"Dhyana":{"bold":"Dhyana-Bold.ttf","normal":"Dhyana-Regular.ttf","italics":"Dhyana-Regular.ttf","bolditalics":"Dhyana-Bold.ttf"}};

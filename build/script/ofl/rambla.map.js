@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Rambla":{"bold":"Rambla-Bold.ttf","bolditalics":"Rambla-BoldItalic.ttf","italics":"Rambla-Italic.ttf","normal":"Rambla-Regular.ttf"}};

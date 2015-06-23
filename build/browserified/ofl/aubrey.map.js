@@ -1,0 +1,1 @@
+module.exports = {"Aubrey":{"normal":"Aubrey-Regular.ttf","bold":"Aubrey-Regular.ttf","italics":"Aubrey-Regular.ttf","bolditalics":"Aubrey-Regular.ttf"}};

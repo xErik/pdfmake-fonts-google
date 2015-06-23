@@ -1,0 +1,1 @@
+module.exports = {"RacingSansOne":{"normal":"RacingSansOne-Regular.ttf","bold":"RacingSansOne-Regular.ttf","italics":"RacingSansOne-Regular.ttf","bolditalics":"RacingSansOne-Regular.ttf"}};

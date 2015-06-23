@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Koulen":{"normal":"Koulen.ttf","bold":"Koulen.ttf","italics":"Koulen.ttf","bolditalics":"Koulen.ttf"}};

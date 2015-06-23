@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"OdorMeanChey":{"normal":"OdorMeanChey.ttf","bold":"OdorMeanChey.ttf","italics":"OdorMeanChey.ttf","bolditalics":"OdorMeanChey.ttf"}};

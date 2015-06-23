@@ -1,0 +1,1 @@
+module.exports = {"Astloch":{"bold":"Astloch-Bold.ttf","normal":"Astloch-Regular.ttf","italics":"Astloch-Regular.ttf","bolditalics":"Astloch-Bold.ttf"}};

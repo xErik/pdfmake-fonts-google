@@ -1,0 +1,1 @@
+module.exports = {"NotoSansNKo":{"normal":"NotoSansNKo-Regular.ttf","bold":"NotoSansNKo-Regular.ttf","italics":"NotoSansNKo-Regular.ttf","bolditalics":"NotoSansNKo-Regular.ttf"}};

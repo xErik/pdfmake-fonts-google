@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Mandali":{"normal":"Mandali-Regular.ttf","bold":"Mandali-Regular.ttf","italics":"Mandali-Regular.ttf","bolditalics":"Mandali-Regular.ttf"}};

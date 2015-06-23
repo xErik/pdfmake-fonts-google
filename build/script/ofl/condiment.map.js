@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Condiment":{"normal":"Condiment-Regular.ttf","bold":"Condiment-Regular.ttf","italics":"Condiment-Regular.ttf","bolditalics":"Condiment-Regular.ttf"}};

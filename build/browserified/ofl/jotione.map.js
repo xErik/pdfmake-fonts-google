@@ -1,0 +1,1 @@
+module.exports = {"JotiOne":{"normal":"JotiOne-Regular.ttf","bold":"JotiOne-Regular.ttf","italics":"JotiOne-Regular.ttf","bolditalics":"JotiOne-Regular.ttf"}};

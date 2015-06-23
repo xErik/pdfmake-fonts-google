@@ -1,0 +1,1 @@
+module.exports = {"Magra":{"bold":"Magra-Bold.ttf","normal":"Magra-Regular.ttf","italics":"Magra-Regular.ttf","bolditalics":"Magra-Bold.ttf"}};

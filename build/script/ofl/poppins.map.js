@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Poppins":{"bold":"Poppins-Bold.ttf","light":"Poppins-Light.ttf","medium":"Poppins-Medium.ttf","normal":"Poppins-Regular.ttf","semibold":"Poppins-SemiBold.ttf","italics":"Poppins-Regular.ttf","bolditalics":"Poppins-Bold.ttf"}};

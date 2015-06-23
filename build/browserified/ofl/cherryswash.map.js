@@ -1,0 +1,1 @@
+module.exports = {"CherrySwash":{"bold":"CherrySwash-Bold.ttf","normal":"CherrySwash-Regular.ttf","italics":"CherrySwash-Regular.ttf","bolditalics":"CherrySwash-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RougeScript":{"normal":"RougeScript-Regular.ttf","bold":"RougeScript-Regular.ttf","italics":"RougeScript-Regular.ttf","bolditalics":"RougeScript-Regular.ttf"}};

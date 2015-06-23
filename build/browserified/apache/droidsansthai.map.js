@@ -1,0 +1,1 @@
+module.exports = {"DroidSansThai":{"bold":"DroidSansThai-Bold.ttf","normal":"DroidSansThai-Regular.ttf","italics":"DroidSansThai-Regular.ttf","bolditalics":"DroidSansThai-Bold.ttf"}};

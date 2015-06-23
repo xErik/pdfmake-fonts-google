@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MiltonianTattoo":{"normal":"MiltonianTattoo-Regular.ttf","bold":"MiltonianTattoo-Regular.ttf","italics":"MiltonianTattoo-Regular.ttf","bolditalics":"MiltonianTattoo-Regular.ttf"}};

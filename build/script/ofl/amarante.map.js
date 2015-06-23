@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Amarante":{"normal":"Amarante-Regular.ttf","bold":"Amarante-Regular.ttf","italics":"Amarante-Regular.ttf","bolditalics":"Amarante-Regular.ttf"}};

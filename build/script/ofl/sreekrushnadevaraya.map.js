@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SreeKrushnadevaraya":{"normal":"SreeKrushnadevaraya-Regular.ttf","bold":"SreeKrushnadevaraya-Regular.ttf","italics":"SreeKrushnadevaraya-Regular.ttf","bolditalics":"SreeKrushnadevaraya-Regular.ttf"}};

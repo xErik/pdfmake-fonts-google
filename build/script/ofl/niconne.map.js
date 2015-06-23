@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Niconne":{"normal":"Niconne-Regular.ttf","bold":"Niconne-Regular.ttf","italics":"Niconne-Regular.ttf","bolditalics":"Niconne-Regular.ttf"}};

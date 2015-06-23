@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NanumMyeongjo":{"bold":"NanumMyeongjo-Bold.ttf","extrabold":"NanumMyeongjo-ExtraBold.ttf","normal":"NanumMyeongjo-Regular.ttf","italics":"NanumMyeongjo-Regular.ttf","bolditalics":"NanumMyeongjo-Bold.ttf"}};

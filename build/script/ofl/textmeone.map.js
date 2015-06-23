@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"TextMeOne":{"normal":"TextMeOne-Regular.ttf","bold":"TextMeOne-Regular.ttf","italics":"TextMeOne-Regular.ttf","bolditalics":"TextMeOne-Regular.ttf"}};

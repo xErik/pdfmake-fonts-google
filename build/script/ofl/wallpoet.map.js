@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Wallpoet":{"normal":"Wallpoet-Regular.ttf","bold":"Wallpoet-Regular.ttf","italics":"Wallpoet-Regular.ttf","bolditalics":"Wallpoet-Regular.ttf"}};

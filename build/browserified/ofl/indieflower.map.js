@@ -1,0 +1,1 @@
+module.exports = {"IndieFlower":{"normal":"IndieFlower.ttf","bold":"IndieFlower.ttf","italics":"IndieFlower.ttf","bolditalics":"IndieFlower.ttf"}};

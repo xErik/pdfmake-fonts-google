@@ -1,0 +1,1 @@
+module.exports = {"DeliusSwashCaps":{"normal":"DeliusSwashCaps-Regular.ttf","bold":"DeliusSwashCaps-Regular.ttf","italics":"DeliusSwashCaps-Regular.ttf","bolditalics":"DeliusSwashCaps-Regular.ttf"}};

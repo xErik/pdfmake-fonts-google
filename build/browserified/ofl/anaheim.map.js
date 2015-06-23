@@ -1,0 +1,1 @@
+module.exports = {"Anaheim":{"normal":"Anaheim-Regular.ttf","bold":"Anaheim-Regular.ttf","italics":"Anaheim-Regular.ttf","bolditalics":"Anaheim-Regular.ttf"}};

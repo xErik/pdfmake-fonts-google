@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PatrickHandSC":{"normal":"PatrickHandSC-Regular.ttf","bold":"PatrickHandSC-Regular.ttf","italics":"PatrickHandSC-Regular.ttf","bolditalics":"PatrickHandSC-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"IndieFlower":{"normal":"IndieFlower.ttf","bold":"IndieFlower.ttf","italics":"IndieFlower.ttf","bolditalics":"IndieFlower.ttf"}};

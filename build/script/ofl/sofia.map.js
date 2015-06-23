@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sofia":{"normal":"Sofia-Regular.ttf","bold":"Sofia-Regular.ttf","italics":"Sofia-Regular.ttf","bolditalics":"Sofia-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"FreckleFace":{"normal":"FreckleFace-Regular.ttf","bold":"FreckleFace-Regular.ttf","italics":"FreckleFace-Regular.ttf","bolditalics":"FreckleFace-Regular.ttf"}};

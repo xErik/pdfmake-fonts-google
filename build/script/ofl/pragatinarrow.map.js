@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PragatiNarrow":{"bold":"PragatiNarrow-Bold.ttf","normal":"PragatiNarrow-Regular.ttf","italics":"PragatiNarrow-Regular.ttf","bolditalics":"PragatiNarrow-Bold.ttf"}};

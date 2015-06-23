@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AveriaGruesaLibre":{"normal":"AveriaGruesaLibre-Regular.ttf","bold":"AveriaGruesaLibre-Regular.ttf","italics":"AveriaGruesaLibre-Regular.ttf","bolditalics":"AveriaGruesaLibre-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"SixCaps":{"normal":"SixCaps.ttf","bold":"SixCaps.ttf","italics":"SixCaps.ttf","bolditalics":"SixCaps.ttf"}};

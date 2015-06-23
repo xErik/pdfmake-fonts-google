@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Carme":{"normal":"Carme-Regular.ttf","bold":"Carme-Regular.ttf","italics":"Carme-Regular.ttf","bolditalics":"Carme-Regular.ttf"}};

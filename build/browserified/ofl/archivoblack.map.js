@@ -1,0 +1,1 @@
+module.exports = {"ArchivoBlack":{"normal":"ArchivoBlack-Regular.ttf","bold":"ArchivoBlack-Regular.ttf","italics":"ArchivoBlack-Regular.ttf","bolditalics":"ArchivoBlack-Regular.ttf"}};

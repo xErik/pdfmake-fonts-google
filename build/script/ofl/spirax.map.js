@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Spirax":{"normal":"Spirax-Regular.ttf","bold":"Spirax-Regular.ttf","italics":"Spirax-Regular.ttf","bolditalics":"Spirax-Regular.ttf"}};

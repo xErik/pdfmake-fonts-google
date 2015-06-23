@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Hanuman":{"normal":"Hanuman.ttf","bold":"Hanuman.ttf","italics":"Hanuman.ttf","bolditalics":"Hanuman.ttf"},"Hanumanb":{"normal":"Hanumanb.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Neuton":{"bold":"Neuton-Bold.ttf","extrabold":"Neuton-ExtraBold.ttf","extralight":"Neuton-ExtraLight.ttf","italics":"Neuton-Italic.ttf","light":"Neuton-Light.ttf","normal":"Neuton-Regular.ttf","bolditalics":"Neuton-Bold.ttf"}};

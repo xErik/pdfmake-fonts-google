@@ -1,0 +1,1 @@
+module.exports = {"AlikeAngular":{"normal":"AlikeAngular-Regular.ttf","bold":"AlikeAngular-Regular.ttf","italics":"AlikeAngular-Regular.ttf","bolditalics":"AlikeAngular-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CarroisGothicSC":{"normal":"CarroisGothicSC-Regular.ttf","bold":"CarroisGothicSC-Regular.ttf","italics":"CarroisGothicSC-Regular.ttf","bolditalics":"CarroisGothicSC-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Courgette":{"normal":"Courgette-Regular.ttf","bold":"Courgette-Regular.ttf","italics":"Courgette-Regular.ttf","bolditalics":"Courgette-Regular.ttf"}};

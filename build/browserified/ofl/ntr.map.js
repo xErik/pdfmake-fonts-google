@@ -1,0 +1,1 @@
+module.exports = {"NTR":{"normal":"NTR-Regular.ttf","bold":"NTR-Regular.ttf","italics":"NTR-Regular.ttf","bolditalics":"NTR-Regular.ttf"}};

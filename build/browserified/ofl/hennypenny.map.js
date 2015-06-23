@@ -1,0 +1,1 @@
+module.exports = {"HennyPenny":{"normal":"HennyPenny-Regular.ttf","bold":"HennyPenny-Regular.ttf","italics":"HennyPenny-Regular.ttf","bolditalics":"HennyPenny-Regular.ttf"}};

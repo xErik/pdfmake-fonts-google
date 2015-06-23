@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Taprom":{"normal":"Taprom.ttf","bold":"Taprom.ttf","italics":"Taprom.ttf","bolditalics":"Taprom.ttf"}};

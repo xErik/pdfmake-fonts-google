@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SeoulNamsanVertical":{"normal":"SeoulNamsanVertical-Regular.ttf","bold":"SeoulNamsanVertical-Regular.ttf","italics":"SeoulNamsanVertical-Regular.ttf","bolditalics":"SeoulNamsanVertical-Regular.ttf"}};

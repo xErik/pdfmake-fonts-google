@@ -1,0 +1,1 @@
+module.exports = {"Montserrat":{"black":"Montserrat-Black.ttf","bold":"Montserrat-Bold.ttf","light":"Montserrat-Light.ttf","normal":"Montserrat-Regular.ttf","thin":"Montserrat-Thin.ttf","italics":"Montserrat-Regular.ttf","bolditalics":"Montserrat-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Gabriela":{"normal":"Gabriela-Regular.ttf","bold":"Gabriela-Regular.ttf","italics":"Gabriela-Regular.ttf","bolditalics":"Gabriela-Regular.ttf"}};

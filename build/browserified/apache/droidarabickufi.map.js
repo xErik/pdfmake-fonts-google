@@ -1,0 +1,1 @@
+module.exports = {"DroidKufi":{"bold":"DroidKufi-Bold.ttf","normal":"DroidKufi-Regular.ttf","italics":"DroidKufi-Regular.ttf","bolditalics":"DroidKufi-Bold.ttf"}};

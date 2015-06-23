@@ -1,0 +1,1 @@
+module.exports = {"AverageSans":{"normal":"AverageSans-Regular.ttf","bold":"AverageSans-Regular.ttf","italics":"AverageSans-Regular.ttf","bolditalics":"AverageSans-Regular.ttf"}};

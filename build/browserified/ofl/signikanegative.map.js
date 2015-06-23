@@ -1,0 +1,1 @@
+module.exports = {"SignikaNegative":{"bold":"SignikaNegative-Bold.ttf","light":"SignikaNegative-Light.ttf","normal":"SignikaNegative-Regular.ttf","semibold":"SignikaNegative-Semibold.ttf","italics":"SignikaNegative-Regular.ttf","bolditalics":"SignikaNegative-Bold.ttf"}};

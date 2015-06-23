@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Orienta":{"normal":"Orienta-Regular.ttf","bold":"Orienta-Regular.ttf","italics":"Orienta-Regular.ttf","bolditalics":"Orienta-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Karla":{"bold":"Karla-Bold.ttf","bolditalics":"Karla-BoldItalic.ttf","italics":"Karla-Italic.ttf","normal":"Karla-Regular.ttf"}};

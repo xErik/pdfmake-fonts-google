@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Inconsolata":{"bold":"Inconsolata-Bold.ttf","normal":"Inconsolata-Regular.ttf","italics":"Inconsolata-Regular.ttf","bolditalics":"Inconsolata-Bold.ttf"}};

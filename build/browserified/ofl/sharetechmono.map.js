@@ -1,0 +1,1 @@
+module.exports = {"ShareTechMono":{"normal":"ShareTechMono-Regular.ttf","bold":"ShareTechMono-Regular.ttf","italics":"ShareTechMono-Regular.ttf","bolditalics":"ShareTechMono-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Asset":{"normal":"Asset.ttf","bold":"Asset.ttf","italics":"Asset.ttf","bolditalics":"Asset.ttf"}};

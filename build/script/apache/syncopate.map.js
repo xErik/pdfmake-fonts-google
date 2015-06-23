@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Syncopate":{"bold":"Syncopate-Bold.ttf","normal":"Syncopate-Regular.ttf","italics":"Syncopate-Regular.ttf","bolditalics":"Syncopate-Bold.ttf"}};

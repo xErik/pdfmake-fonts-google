@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"HammersmithOne":{"normal":"HammersmithOne-Regular.ttf","bold":"HammersmithOne-Regular.ttf","italics":"HammersmithOne-Regular.ttf","bolditalics":"HammersmithOne-Regular.ttf"}};

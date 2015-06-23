@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ButchermanCaps":{"normal":"ButchermanCaps-Regular.ttf","bold":"ButchermanCaps-Regular.ttf","italics":"ButchermanCaps-Regular.ttf","bolditalics":"ButchermanCaps-Regular.ttf"}};

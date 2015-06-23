@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SpicyRice":{"normal":"SpicyRice-Regular.ttf","bold":"SpicyRice-Regular.ttf","italics":"SpicyRice-Regular.ttf","bolditalics":"SpicyRice-Regular.ttf"}};

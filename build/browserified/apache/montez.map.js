@@ -1,0 +1,1 @@
+module.exports = {"Montez":{"normal":"Montez-Regular.ttf","bold":"Montez-Regular.ttf","italics":"Montez-Regular.ttf","bolditalics":"Montez-Regular.ttf"}};

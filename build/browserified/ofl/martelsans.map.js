@@ -1,0 +1,1 @@
+module.exports = {"MartelSans":{"black":"MartelSans-Black.ttf","bold":"MartelSans-Bold.ttf","extrabold":"MartelSans-ExtraBold.ttf","extralight":"MartelSans-ExtraLight.ttf","light":"MartelSans-Light.ttf","normal":"MartelSans-Regular.ttf","semibold":"MartelSans-SemiBold.ttf","italics":"MartelSans-Regular.ttf","bolditalics":"MartelSans-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Dhurjati":{"normal":"Dhurjati-Regular.ttf","bold":"Dhurjati-Regular.ttf","italics":"Dhurjati-Regular.ttf","bolditalics":"Dhurjati-Regular.ttf"}};

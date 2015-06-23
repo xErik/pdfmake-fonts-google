@@ -1,0 +1,1 @@
+module.exports = {"PermanentMarker":{"normal":"PermanentMarker.ttf","bold":"PermanentMarker.ttf","italics":"PermanentMarker.ttf","bolditalics":"PermanentMarker.ttf"}};

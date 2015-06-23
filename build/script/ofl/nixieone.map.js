@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NixieOne":{"normal":"NixieOne-Regular.ttf","bold":"NixieOne-Regular.ttf","italics":"NixieOne-Regular.ttf","bolditalics":"NixieOne-Regular.ttf"}};

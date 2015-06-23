@@ -1,0 +1,1 @@
+module.exports = {"RaviPrakash":{"normal":"RaviPrakash-Regular.ttf","bold":"RaviPrakash-Regular.ttf","italics":"RaviPrakash-Regular.ttf","bolditalics":"RaviPrakash-Regular.ttf"}};

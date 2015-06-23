@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansBengali":{"bold":"NotoSansBengali-Bold.ttf","normal":"NotoSansBengali-Regular.ttf","italics":"NotoSansBengali-Regular.ttf","bolditalics":"NotoSansBengali-Bold.ttf"}};

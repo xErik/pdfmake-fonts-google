@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"EkMukta":{"bold":"EkMukta-Bold.ttf","extrabold":"EkMukta-ExtraBold.ttf","extralight":"EkMukta-ExtraLight.ttf","light":"EkMukta-Light.ttf","medium":"EkMukta-Medium.ttf","normal":"EkMukta-Regular.ttf","semibold":"EkMukta-SemiBold.ttf","italics":"EkMukta-Regular.ttf","bolditalics":"EkMukta-Bold.ttf"}};

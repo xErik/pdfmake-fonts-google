@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"OvertheRainbow":{"normal":"OvertheRainbow.ttf","bold":"OvertheRainbow.ttf","italics":"OvertheRainbow.ttf","bolditalics":"OvertheRainbow.ttf"}};

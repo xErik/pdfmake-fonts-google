@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Judson":{"bold":"Judson-Bold.ttf","italics":"Judson-Italic.ttf","normal":"Judson-Regular.ttf","bolditalics":"Judson-Bold.ttf"}};

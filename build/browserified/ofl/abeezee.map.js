@@ -1,0 +1,1 @@
+module.exports = {"ABeeZee":{"italics":"ABeeZee-Italic.ttf","normal":"ABeeZee-Regular.ttf","bold":"ABeeZee-Regular.ttf","bolditalics":"ABeeZee-Regular.ttf"}};

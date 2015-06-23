@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SeymourOne":{"normal":"SeymourOne-Regular.ttf","bold":"SeymourOne-Regular.ttf","italics":"SeymourOne-Regular.ttf","bolditalics":"SeymourOne-Regular.ttf"}};

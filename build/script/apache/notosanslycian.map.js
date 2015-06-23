@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansLycian":{"normal":"NotoSansLycian-Regular.ttf","bold":"NotoSansLycian-Regular.ttf","italics":"NotoSansLycian-Regular.ttf","bolditalics":"NotoSansLycian-Regular.ttf"}};

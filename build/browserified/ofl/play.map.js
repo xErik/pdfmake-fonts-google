@@ -1,0 +1,1 @@
+module.exports = {"Play":{"bold":"Play-Bold.ttf","normal":"Play-Regular.ttf","italics":"Play-Regular.ttf","bolditalics":"Play-Bold.ttf"}};

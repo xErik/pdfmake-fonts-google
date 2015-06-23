@@ -1,0 +1,1 @@
+module.exports = {"Inika":{"bold":"Inika-Bold.ttf","normal":"Inika-Regular.ttf","italics":"Inika-Regular.ttf","bolditalics":"Inika-Bold.ttf"}};

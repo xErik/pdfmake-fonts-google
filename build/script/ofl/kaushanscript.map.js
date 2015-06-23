@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"KaushanScript":{"normal":"KaushanScript-Regular.ttf","bold":"KaushanScript-Regular.ttf","italics":"KaushanScript-Regular.ttf","bolditalics":"KaushanScript-Regular.ttf"}};

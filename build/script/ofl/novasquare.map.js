@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NovaSquare":{"normal":"NovaSquare.ttf","bold":"NovaSquare.ttf","italics":"NovaSquare.ttf","bolditalics":"NovaSquare.ttf"}};

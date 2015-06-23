@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LibreBaskerville":{"bold":"LibreBaskerville-Bold.ttf","italics":"LibreBaskerville-Italic.ttf","normal":"LibreBaskerville-Regular.ttf","bolditalics":"LibreBaskerville-Bold.ttf"}};

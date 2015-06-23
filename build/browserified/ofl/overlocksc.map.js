@@ -1,0 +1,1 @@
+module.exports = {"OverlockSC":{"normal":"OverlockSC-Regular.ttf","bold":"OverlockSC-Regular.ttf","italics":"OverlockSC-Regular.ttf","bolditalics":"OverlockSC-Regular.ttf"}};

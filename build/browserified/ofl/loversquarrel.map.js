@@ -1,0 +1,1 @@
+module.exports = {"LoversQuarrel":{"normal":"LoversQuarrel-Regular.ttf","bold":"LoversQuarrel-Regular.ttf","italics":"LoversQuarrel-Regular.ttf","bolditalics":"LoversQuarrel-Regular.ttf"}};

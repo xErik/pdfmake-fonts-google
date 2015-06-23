@@ -1,0 +1,1 @@
+module.exports = {"Inconsolata":{"bold":"Inconsolata-Bold.ttf","normal":"Inconsolata-Regular.ttf","italics":"Inconsolata-Regular.ttf","bolditalics":"Inconsolata-Bold.ttf"}};

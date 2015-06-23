@@ -1,0 +1,1 @@
+module.exports = {"NATS":{"normal":"NATS-Regular.ttf","bold":"NATS-Regular.ttf","italics":"NATS-Regular.ttf","bolditalics":"NATS-Regular.ttf"}};

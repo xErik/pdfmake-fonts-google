@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Qwigley":{"normal":"Qwigley-Regular.ttf","bold":"Qwigley-Regular.ttf","italics":"Qwigley-Regular.ttf","bolditalics":"Qwigley-Regular.ttf"}};

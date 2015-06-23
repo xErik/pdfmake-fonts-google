@@ -1,0 +1,1 @@
+module.exports = {"Prata":{"normal":"Prata-Regular.ttf","bold":"Prata-Regular.ttf","italics":"Prata-Regular.ttf","bolditalics":"Prata-Regular.ttf"}};

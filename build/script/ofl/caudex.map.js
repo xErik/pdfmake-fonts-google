@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Caudex":{"bold":"Caudex-Bold.ttf","bolditalics":"Caudex-BoldItalic.ttf","italics":"Caudex-Italic.ttf","normal":"Caudex-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"McLaren":{"normal":"McLaren-Regular.ttf","bold":"McLaren-Regular.ttf","italics":"McLaren-Regular.ttf","bolditalics":"McLaren-Regular.ttf"}};

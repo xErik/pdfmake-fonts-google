@@ -1,0 +1,1 @@
+module.exports = {"Ruda":{"black":"Ruda-Black.ttf","bold":"Ruda-Bold.ttf","normal":"Ruda-Regular.ttf","italics":"Ruda-Regular.ttf","bolditalics":"Ruda-Bold.ttf"}};

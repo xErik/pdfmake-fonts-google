@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MrsSheppards":{"normal":"MrsSheppards-Regular.ttf","bold":"MrsSheppards-Regular.ttf","italics":"MrsSheppards-Regular.ttf","bolditalics":"MrsSheppards-Regular.ttf"}};

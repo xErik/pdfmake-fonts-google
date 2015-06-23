@@ -1,0 +1,1 @@
+module.exports = {"Sacramento":{"normal":"Sacramento-Regular.ttf","bold":"Sacramento-Regular.ttf","italics":"Sacramento-Regular.ttf","bolditalics":"Sacramento-Regular.ttf"}};

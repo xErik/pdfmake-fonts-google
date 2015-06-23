@@ -1,0 +1,1 @@
+module.exports = {"Glegoo":{"bold":"Glegoo-Bold.ttf","normal":"Glegoo-Regular.ttf","italics":"Glegoo-Regular.ttf","bolditalics":"Glegoo-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Allerta":{"normal":"Allerta-Regular.ttf","bold":"Allerta-Regular.ttf","italics":"Allerta-Regular.ttf","bolditalics":"Allerta-Regular.ttf"}};

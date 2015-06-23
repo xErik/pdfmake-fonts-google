@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ponnala":{"normal":"Ponnala-Regular.ttf","bold":"Ponnala-Regular.ttf","italics":"Ponnala-Regular.ttf","bolditalics":"Ponnala-Regular.ttf"}};

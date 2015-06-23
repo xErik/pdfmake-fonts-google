@@ -1,0 +1,1 @@
+module.exports = {"SourceSerifPro":{"bold":"SourceSerifPro-Bold.ttf","normal":"SourceSerifPro-Regular.ttf","semibold":"SourceSerifPro-Semibold.ttf","italics":"SourceSerifPro-Regular.ttf","bolditalics":"SourceSerifPro-Bold.ttf"}};

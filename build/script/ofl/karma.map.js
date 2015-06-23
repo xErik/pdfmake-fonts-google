@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Karma":{"bold":"Karma-Bold.ttf","light":"Karma-Light.ttf","medium":"Karma-Medium.ttf","normal":"Karma-Regular.ttf","semibold":"Karma-SemiBold.ttf","italics":"Karma-Regular.ttf","bolditalics":"Karma-Bold.ttf"}};

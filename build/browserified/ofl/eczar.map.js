@@ -1,0 +1,1 @@
+module.exports = {"Eczar":{"bold":"Eczar-Bold.ttf","extrabold":"Eczar-ExtraBold.ttf","medium":"Eczar-Medium.ttf","normal":"Eczar-Regular.ttf","semibold":"Eczar-SemiBold.ttf","italics":"Eczar-Regular.ttf","bolditalics":"Eczar-Bold.ttf"}};

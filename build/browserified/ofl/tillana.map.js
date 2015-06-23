@@ -1,0 +1,1 @@
+module.exports = {"Tillana":{"bold":"Tillana-Bold.ttf","extrabold":"Tillana-ExtraBold.ttf","medium":"Tillana-Medium.ttf","normal":"Tillana-Regular.ttf","semibold":"Tillana-SemiBold.ttf","italics":"Tillana-Regular.ttf","bolditalics":"Tillana-Bold.ttf"}};

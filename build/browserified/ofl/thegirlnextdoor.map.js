@@ -1,0 +1,1 @@
+module.exports = {"TheGirlNextDoor":{"normal":"TheGirlNextDoor.ttf","bold":"TheGirlNextDoor.ttf","italics":"TheGirlNextDoor.ttf","bolditalics":"TheGirlNextDoor.ttf"}};

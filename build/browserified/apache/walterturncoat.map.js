@@ -1,0 +1,1 @@
+module.exports = {"WalterTurncoat":{"normal":"WalterTurncoat.ttf","bold":"WalterTurncoat.ttf","italics":"WalterTurncoat.ttf","bolditalics":"WalterTurncoat.ttf"}};

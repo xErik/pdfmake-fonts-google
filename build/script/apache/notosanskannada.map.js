@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansKannada":{"bold":"NotoSansKannada-Bold.ttf","normal":"NotoSansKannada-Regular.ttf","italics":"NotoSansKannada-Regular.ttf","bolditalics":"NotoSansKannada-Bold.ttf"}};

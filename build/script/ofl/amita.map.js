@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Amita":{"bold":"Amita-Bold.ttf","normal":"Amita-Regular.ttf","italics":"Amita-Regular.ttf","bolditalics":"Amita-Bold.ttf"}};

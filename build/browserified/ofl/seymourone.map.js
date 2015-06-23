@@ -1,0 +1,1 @@
+module.exports = {"SeymourOne":{"normal":"SeymourOne-Regular.ttf","bold":"SeymourOne-Regular.ttf","italics":"SeymourOne-Regular.ttf","bolditalics":"SeymourOne-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FjallaOne":{"normal":"FjallaOne-Regular.ttf","bold":"FjallaOne-Regular.ttf","italics":"FjallaOne-Regular.ttf","bolditalics":"FjallaOne-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BadScript":{"normal":"BadScript-Regular.ttf","bold":"BadScript-Regular.ttf","italics":"BadScript-Regular.ttf","bolditalics":"BadScript-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Molle":{"normal":"Molle-Regular.ttf","bold":"Molle-Regular.ttf","italics":"Molle-Regular.ttf","bolditalics":"Molle-Regular.ttf"}};

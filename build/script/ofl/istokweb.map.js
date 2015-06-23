@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"IstokWeb":{"bold":"IstokWeb-Bold.ttf","bolditalics":"IstokWeb-BoldItalic.ttf","italics":"IstokWeb-Italic.ttf","normal":"IstokWeb-Regular.ttf"}};

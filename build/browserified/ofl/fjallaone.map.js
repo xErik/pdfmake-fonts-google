@@ -1,0 +1,1 @@
+module.exports = {"FjallaOne":{"normal":"FjallaOne-Regular.ttf","bold":"FjallaOne-Regular.ttf","italics":"FjallaOne-Regular.ttf","bolditalics":"FjallaOne-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AlfaSlabOne":{"normal":"AlfaSlabOne-Regular.ttf","bold":"AlfaSlabOne-Regular.ttf","italics":"AlfaSlabOne-Regular.ttf","bolditalics":"AlfaSlabOne-Regular.ttf"}};

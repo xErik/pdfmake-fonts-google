@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Kranky":{"normal":"Kranky.ttf","bold":"Kranky.ttf","italics":"Kranky.ttf","bolditalics":"Kranky.ttf"}};

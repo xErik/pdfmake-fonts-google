@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MyanmarSansPro":{"normal":"MyanmarSansPro-Regular.ttf","bold":"MyanmarSansPro-Regular.ttf","italics":"MyanmarSansPro-Regular.ttf","bolditalics":"MyanmarSansPro-Regular.ttf"}};

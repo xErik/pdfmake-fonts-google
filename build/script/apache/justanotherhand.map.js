@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JustAnotherHand":{"normal":"JustAnotherHand.ttf","bold":"JustAnotherHand.ttf","italics":"JustAnotherHand.ttf","bolditalics":"JustAnotherHand.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Redressed":{"normal":"Redressed.ttf","bold":"Redressed.ttf","italics":"Redressed.ttf","bolditalics":"Redressed.ttf"}};

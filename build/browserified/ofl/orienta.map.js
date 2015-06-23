@@ -1,0 +1,1 @@
+module.exports = {"Orienta":{"normal":"Orienta-Regular.ttf","bold":"Orienta-Regular.ttf","italics":"Orienta-Regular.ttf","bolditalics":"Orienta-Regular.ttf"}};

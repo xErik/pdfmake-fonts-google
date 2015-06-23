@@ -1,0 +1,1 @@
+module.exports = {"Ponnala":{"normal":"Ponnala-Regular.ttf","bold":"Ponnala-Regular.ttf","italics":"Ponnala-Regular.ttf","bolditalics":"Ponnala-Regular.ttf"}};

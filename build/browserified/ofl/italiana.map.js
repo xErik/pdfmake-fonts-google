@@ -1,0 +1,1 @@
+module.exports = {"Italiana":{"normal":"Italiana-Regular.ttf","bold":"Italiana-Regular.ttf","italics":"Italiana-Regular.ttf","bolditalics":"Italiana-Regular.ttf"}};

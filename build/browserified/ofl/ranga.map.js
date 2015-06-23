@@ -1,0 +1,1 @@
+module.exports = {"Ranga":{"bold":"Ranga-Bold.ttf","normal":"Ranga-Regular.ttf","italics":"Ranga-Regular.ttf","bolditalics":"Ranga-Bold.ttf"}};

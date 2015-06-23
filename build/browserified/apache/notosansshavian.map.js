@@ -1,0 +1,1 @@
+module.exports = {"NotoSansShavian":{"normal":"NotoSansShavian-Regular.ttf","bold":"NotoSansShavian-Regular.ttf","italics":"NotoSansShavian-Regular.ttf","bolditalics":"NotoSansShavian-Regular.ttf"}};

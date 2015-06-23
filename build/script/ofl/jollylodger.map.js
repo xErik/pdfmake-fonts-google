@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JollyLodger":{"normal":"JollyLodger-Regular.ttf","bold":"JollyLodger-Regular.ttf","italics":"JollyLodger-Regular.ttf","bolditalics":"JollyLodger-Regular.ttf"}};

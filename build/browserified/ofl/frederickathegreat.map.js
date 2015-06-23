@@ -1,0 +1,1 @@
+module.exports = {"FrederickatheGreat":{"normal":"FrederickatheGreat-Regular.ttf","bold":"FrederickatheGreat-Regular.ttf","italics":"FrederickatheGreat-Regular.ttf","bolditalics":"FrederickatheGreat-Regular.ttf"}};

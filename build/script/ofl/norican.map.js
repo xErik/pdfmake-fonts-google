@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Norican":{"normal":"Norican-Regular.ttf","bold":"Norican-Regular.ttf","italics":"Norican-Regular.ttf","bolditalics":"Norican-Regular.ttf"}};

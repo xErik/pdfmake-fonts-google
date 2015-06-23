@@ -1,0 +1,1 @@
+module.exports = {"Candal":{"normal":"Candal.ttf","bold":"Candal.ttf","italics":"Candal.ttf","bolditalics":"Candal.ttf"}};

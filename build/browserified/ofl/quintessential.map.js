@@ -1,0 +1,1 @@
+module.exports = {"Quintessential":{"normal":"Quintessential-Regular.ttf","bold":"Quintessential-Regular.ttf","italics":"Quintessential-Regular.ttf","bolditalics":"Quintessential-Regular.ttf"}};

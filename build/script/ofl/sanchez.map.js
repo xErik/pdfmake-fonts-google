@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sanchez":{"italics":"Sanchez-Italic.ttf","normal":"Sanchez-Regular.ttf","bold":"Sanchez-Regular.ttf","bolditalics":"Sanchez-Regular.ttf"}};

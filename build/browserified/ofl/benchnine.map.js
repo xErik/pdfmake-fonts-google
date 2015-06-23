@@ -1,0 +1,1 @@
+module.exports = {"BenchNine":{"bold":"BenchNine-Bold.ttf","light":"BenchNine-Light.ttf","normal":"BenchNine-Regular.ttf","italics":"BenchNine-Regular.ttf","bolditalics":"BenchNine-Bold.ttf"}};

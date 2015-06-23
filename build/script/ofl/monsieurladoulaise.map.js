@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MonsieurLaDoulaise":{"normal":"MonsieurLaDoulaise-Regular.ttf","bold":"MonsieurLaDoulaise-Regular.ttf","italics":"MonsieurLaDoulaise-Regular.ttf","bolditalics":"MonsieurLaDoulaise-Regular.ttf"}};

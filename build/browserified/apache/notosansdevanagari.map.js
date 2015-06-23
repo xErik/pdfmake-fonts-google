@@ -1,0 +1,1 @@
+module.exports = {"NotoSansDevanagari":{"bold":"NotoSansDevanagari-Bold.ttf","normal":"NotoSansDevanagari-Regular.ttf","italics":"NotoSansDevanagari-Regular.ttf","bolditalics":"NotoSansDevanagari-Bold.ttf"}};

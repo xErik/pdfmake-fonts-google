@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"HerrVonMuellerhoff":{"normal":"HerrVonMuellerhoff-Regular.ttf","bold":"HerrVonMuellerhoff-Regular.ttf","italics":"HerrVonMuellerhoff-Regular.ttf","bolditalics":"HerrVonMuellerhoff-Regular.ttf"}};

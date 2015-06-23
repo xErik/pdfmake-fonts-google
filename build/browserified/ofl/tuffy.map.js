@@ -1,0 +1,1 @@
+module.exports = {"Tuffy":{"bold":"Tuffy-Bold.ttf","bolditalics":"Tuffy-BoldItalic.ttf","italics":"Tuffy-Italic.ttf","normal":"Tuffy-Regular.ttf"}};

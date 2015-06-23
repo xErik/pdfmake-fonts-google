@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MrsSaintDelafield":{"normal":"MrsSaintDelafield-Regular.ttf","bold":"MrsSaintDelafield-Regular.ttf","italics":"MrsSaintDelafield-Regular.ttf","bolditalics":"MrsSaintDelafield-Regular.ttf"}};

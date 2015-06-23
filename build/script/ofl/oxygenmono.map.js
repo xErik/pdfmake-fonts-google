@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"OxygenMono":{"normal":"OxygenMono-Regular.ttf","bold":"OxygenMono-Regular.ttf","italics":"OxygenMono-Regular.ttf","bolditalics":"OxygenMono-Regular.ttf"}};

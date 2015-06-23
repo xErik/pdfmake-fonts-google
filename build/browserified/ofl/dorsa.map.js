@@ -1,0 +1,1 @@
+module.exports = {"Dorsa":{"normal":"Dorsa-Regular.ttf","bold":"Dorsa-Regular.ttf","italics":"Dorsa-Regular.ttf","bolditalics":"Dorsa-Regular.ttf"}};

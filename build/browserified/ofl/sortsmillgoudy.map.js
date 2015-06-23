@@ -1,0 +1,1 @@
+module.exports = {"SortsMillGoudy":{"italics":"SortsMillGoudy-Italic.ttf","normal":"SortsMillGoudy-Regular.ttf","bold":"SortsMillGoudy-Regular.ttf","bolditalics":"SortsMillGoudy-Regular.ttf"}};

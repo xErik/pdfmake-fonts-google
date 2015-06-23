@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JacquesFrancois":{"normal":"JacquesFrancois-Regular.ttf","bold":"JacquesFrancois-Regular.ttf","italics":"JacquesFrancois-Regular.ttf","bolditalics":"JacquesFrancois-Regular.ttf"}};

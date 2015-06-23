@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Metal":{"normal":"Metal.ttf","bold":"Metal.ttf","italics":"Metal.ttf","bolditalics":"Metal.ttf"}};

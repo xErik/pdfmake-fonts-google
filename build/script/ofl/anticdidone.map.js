@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AnticDidone":{"normal":"AnticDidone-Regular.ttf","bold":"AnticDidone-Regular.ttf","italics":"AnticDidone-Regular.ttf","bolditalics":"AnticDidone-Regular.ttf"}};

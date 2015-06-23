@@ -1,0 +1,1 @@
+module.exports = {"PortLligatSans":{"normal":"PortLligatSans-Regular.ttf","bold":"PortLligatSans-Regular.ttf","italics":"PortLligatSans-Regular.ttf","bolditalics":"PortLligatSans-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"FasterOne":{"normal":"FasterOne-Regular.ttf","bold":"FasterOne-Regular.ttf","italics":"FasterOne-Regular.ttf","bolditalics":"FasterOne-Regular.ttf"}};

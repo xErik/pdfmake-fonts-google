@@ -1,0 +1,1 @@
+module.exports = {"RammettoOne":{"normal":"RammettoOne-Regular.ttf","bold":"RammettoOne-Regular.ttf","italics":"RammettoOne-Regular.ttf","bolditalics":"RammettoOne-Regular.ttf"}};

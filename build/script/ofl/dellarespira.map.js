@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DellaRespira":{"normal":"DellaRespira-Regular.ttf","bold":"DellaRespira-Regular.ttf","italics":"DellaRespira-Regular.ttf","bolditalics":"DellaRespira-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Lato":{"black":"Lato-Black.ttf","blackitalics":"Lato-BlackItalic.ttf","bold":"Lato-Bold.ttf","bolditalics":"Lato-BoldItalic.ttf","hairline":"Lato-Hairline.ttf","hairlineitalics":"Lato-HairlineItalic.ttf","italics":"Lato-Italic.ttf","light":"Lato-Light.ttf","lightitalics":"Lato-LightItalic.ttf","normal":"Lato-Regular.ttf"}};

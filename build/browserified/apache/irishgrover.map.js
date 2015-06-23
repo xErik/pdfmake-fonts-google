@@ -1,0 +1,1 @@
+module.exports = {"IrishGrover":{"normal":"IrishGrover.ttf","bold":"IrishGrover.ttf","italics":"IrishGrover.ttf","bolditalics":"IrishGrover.ttf"}};

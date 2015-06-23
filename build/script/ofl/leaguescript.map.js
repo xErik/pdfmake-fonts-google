@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LeagueScript":{"normal":"LeagueScript.ttf","bold":"LeagueScript.ttf","italics":"LeagueScript.ttf","bolditalics":"LeagueScript.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Arvo":{"bold":"Arvo-Bold.ttf","bolditalics":"Arvo-BoldItalic.ttf","italics":"Arvo-Italic.ttf","normal":"Arvo-Regular.ttf"}};

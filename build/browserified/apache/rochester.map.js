@@ -1,0 +1,1 @@
+module.exports = {"Rochester":{"normal":"Rochester-Regular.ttf","bold":"Rochester-Regular.ttf","italics":"Rochester-Regular.ttf","bolditalics":"Rochester-Regular.ttf"}};

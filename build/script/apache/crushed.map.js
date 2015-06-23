@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Crushed":{"normal":"Crushed.ttf","bold":"Crushed.ttf","italics":"Crushed.ttf","bolditalics":"Crushed.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Dinah":{"bold":"Dinah-Bold.ttf","normal":"Dinah-Regular.ttf","italics":"Dinah-Regular.ttf","bolditalics":"Dinah-Bold.ttf"}};

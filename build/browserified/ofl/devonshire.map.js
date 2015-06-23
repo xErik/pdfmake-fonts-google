@@ -1,0 +1,1 @@
+module.exports = {"Devonshire":{"normal":"Devonshire-Regular.ttf","bold":"Devonshire-Regular.ttf","italics":"Devonshire-Regular.ttf","bolditalics":"Devonshire-Regular.ttf"}};

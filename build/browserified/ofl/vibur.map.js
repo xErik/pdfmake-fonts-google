@@ -1,0 +1,1 @@
+module.exports = {"Vibur":{"normal":"Vibur-Regular.ttf","bold":"Vibur-Regular.ttf","italics":"Vibur-Regular.ttf","bolditalics":"Vibur-Regular.ttf"}};

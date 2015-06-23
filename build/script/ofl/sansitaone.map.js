@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SansitaOne":{"normal":"SansitaOne.ttf","bold":"SansitaOne.ttf","italics":"SansitaOne.ttf","bolditalics":"SansitaOne.ttf"}};

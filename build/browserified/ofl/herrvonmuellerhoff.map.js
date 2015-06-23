@@ -1,0 +1,1 @@
+module.exports = {"HerrVonMuellerhoff":{"normal":"HerrVonMuellerhoff-Regular.ttf","bold":"HerrVonMuellerhoff-Regular.ttf","italics":"HerrVonMuellerhoff-Regular.ttf","bolditalics":"HerrVonMuellerhoff-Regular.ttf"}};

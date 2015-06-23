@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MontserratAlternates":{"bold":"MontserratAlternates-Bold.ttf","normal":"MontserratAlternates-Regular.ttf","italics":"MontserratAlternates-Regular.ttf","bolditalics":"MontserratAlternates-Bold.ttf"}};

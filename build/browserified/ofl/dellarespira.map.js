@@ -1,0 +1,1 @@
+module.exports = {"DellaRespira":{"normal":"DellaRespira-Regular.ttf","bold":"DellaRespira-Regular.ttf","italics":"DellaRespira-Regular.ttf","bolditalics":"DellaRespira-Regular.ttf"}};

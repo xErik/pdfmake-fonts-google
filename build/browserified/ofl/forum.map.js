@@ -1,0 +1,1 @@
+module.exports = {"Forum":{"normal":"Forum-Regular.ttf","bold":"Forum-Regular.ttf","italics":"Forum-Regular.ttf","bolditalics":"Forum-Regular.ttf"}};

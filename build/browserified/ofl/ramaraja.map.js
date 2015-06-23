@@ -1,0 +1,1 @@
+module.exports = {"Ramaraja":{"normal":"Ramaraja-Regular.ttf","bold":"Ramaraja-Regular.ttf","italics":"Ramaraja-Regular.ttf","bolditalics":"Ramaraja-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Galdeano":{"normal":"Galdeano-Regular.ttf","bold":"Galdeano-Regular.ttf","italics":"Galdeano-Regular.ttf","bolditalics":"Galdeano-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Meddon":{"normal":"Meddon.ttf","bold":"Meddon.ttf","italics":"Meddon.ttf","bolditalics":"Meddon.ttf"}};

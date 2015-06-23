@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Nunito":{"bold":"Nunito-Bold.ttf","light":"Nunito-Light.ttf","normal":"Nunito-Regular.ttf","italics":"Nunito-Regular.ttf","bolditalics":"Nunito-Bold.ttf"}};

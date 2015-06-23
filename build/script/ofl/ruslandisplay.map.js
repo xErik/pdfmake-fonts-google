@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RuslanDisplay":{"normal":"RuslanDisplay.ttf","bold":"RuslanDisplay.ttf","italics":"RuslanDisplay.ttf","bolditalics":"RuslanDisplay.ttf"}};

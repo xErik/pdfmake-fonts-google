@@ -1,0 +1,1 @@
+module.exports = {"Calligraffitti":{"normal":"Calligraffitti-Regular.ttf","bold":"Calligraffitti-Regular.ttf","italics":"Calligraffitti-Regular.ttf","bolditalics":"Calligraffitti-Regular.ttf"}};

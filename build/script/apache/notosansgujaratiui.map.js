@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansGujaratiUI":{"bold":"NotoSansGujaratiUI-Bold.ttf","normal":"NotoSansGujaratiUI-Regular.ttf","italics":"NotoSansGujaratiUI-Regular.ttf","bolditalics":"NotoSansGujaratiUI-Bold.ttf"}};

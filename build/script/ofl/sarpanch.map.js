@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sarpanch":{"black":"Sarpanch-Black.ttf","bold":"Sarpanch-Bold.ttf","extrabold":"Sarpanch-ExtraBold.ttf","medium":"Sarpanch-Medium.ttf","normal":"Sarpanch-Regular.ttf","semibold":"Sarpanch-SemiBold.ttf","italics":"Sarpanch-Regular.ttf","bolditalics":"Sarpanch-Bold.ttf"}};

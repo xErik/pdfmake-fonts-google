@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Peralta":{"normal":"Peralta-Regular.ttf","bold":"Peralta-Regular.ttf","italics":"Peralta-Regular.ttf","bolditalics":"Peralta-Regular.ttf"}};

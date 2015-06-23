@@ -1,0 +1,1 @@
+module.exports = {"Convergence":{"normal":"Convergence-Regular.ttf","bold":"Convergence-Regular.ttf","italics":"Convergence-Regular.ttf","bolditalics":"Convergence-Regular.ttf"}};

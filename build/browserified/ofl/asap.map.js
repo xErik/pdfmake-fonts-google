@@ -1,0 +1,1 @@
+module.exports = {"Asap":{"bold":"Asap-Bold.ttf","bolditalics":"Asap-BoldItalic.ttf","italics":"Asap-Italic.ttf","normal":"Asap-Regular.ttf"}};

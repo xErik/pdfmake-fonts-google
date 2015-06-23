@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Arimo":{"bold":"Arimo-Bold.ttf","bolditalics":"Arimo-BoldItalic.ttf","italics":"Arimo-Italic.ttf","normal":"Arimo-Regular.ttf"}};

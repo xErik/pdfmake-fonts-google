@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Petrona":{"normal":"Petrona-Regular.ttf","bold":"Petrona-Regular.ttf","italics":"Petrona-Regular.ttf","bolditalics":"Petrona-Regular.ttf"}};

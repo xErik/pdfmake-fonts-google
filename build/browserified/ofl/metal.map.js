@@ -1,0 +1,1 @@
+module.exports = {"Metal":{"normal":"Metal.ttf","bold":"Metal.ttf","italics":"Metal.ttf","bolditalics":"Metal.ttf"}};

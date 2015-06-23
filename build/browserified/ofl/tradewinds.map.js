@@ -1,0 +1,1 @@
+module.exports = {"TradeWinds":{"normal":"TradeWinds-Regular.ttf","bold":"TradeWinds-Regular.ttf","italics":"TradeWinds-Regular.ttf","bolditalics":"TradeWinds-Regular.ttf"}};

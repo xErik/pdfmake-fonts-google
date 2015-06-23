@@ -1,0 +1,1 @@
+module.exports = {"Ubuntu":{"bold":"Ubuntu-Bold.ttf","bolditalics":"Ubuntu-BoldItalic.ttf","italics":"Ubuntu-Italic.ttf","light":"Ubuntu-Light.ttf","lightitalics":"Ubuntu-LightItalic.ttf","medium":"Ubuntu-Medium.ttf","mediumitalics":"Ubuntu-MediumItalic.ttf","normal":"Ubuntu-Regular.ttf"}};

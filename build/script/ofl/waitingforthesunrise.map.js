@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"WaitingfortheSunrise":{"normal":"WaitingfortheSunrise.ttf","bold":"WaitingfortheSunrise.ttf","italics":"WaitingfortheSunrise.ttf","bolditalics":"WaitingfortheSunrise.ttf"}};

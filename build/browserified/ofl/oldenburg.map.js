@@ -1,0 +1,1 @@
+module.exports = {"Oldenburg":{"normal":"Oldenburg-Regular.ttf","bold":"Oldenburg-Regular.ttf","italics":"Oldenburg-Regular.ttf","bolditalics":"Oldenburg-Regular.ttf"}};

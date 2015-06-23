@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Andada":{"bold":"Andada-Bold.ttf","bolditalics":"Andada-BoldItalic.ttf","italics":"Andada-Italic.ttf","normal":"Andada-Regular.ttf"}};

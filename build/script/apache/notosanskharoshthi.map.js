@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansKharoshthi":{"normal":"NotoSansKharoshthi-Regular.ttf","bold":"NotoSansKharoshthi-Regular.ttf","italics":"NotoSansKharoshthi-Regular.ttf","bolditalics":"NotoSansKharoshthi-Regular.ttf"}};

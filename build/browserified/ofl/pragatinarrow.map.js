@@ -1,0 +1,1 @@
+module.exports = {"PragatiNarrow":{"bold":"PragatiNarrow-Bold.ttf","normal":"PragatiNarrow-Regular.ttf","italics":"PragatiNarrow-Regular.ttf","bolditalics":"PragatiNarrow-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NothingYouCouldDo":{"normal":"NothingYouCouldDo.ttf","bold":"NothingYouCouldDo.ttf","italics":"NothingYouCouldDo.ttf","bolditalics":"NothingYouCouldDo.ttf"}};

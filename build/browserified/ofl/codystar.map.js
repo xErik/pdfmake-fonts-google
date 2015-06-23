@@ -1,0 +1,1 @@
+module.exports = {"Codystar":{"light":"Codystar-Light.ttf","normal":"Codystar-Regular.ttf","bold":"Codystar-Regular.ttf","italics":"Codystar-Regular.ttf","bolditalics":"Codystar-Regular.ttf"}};

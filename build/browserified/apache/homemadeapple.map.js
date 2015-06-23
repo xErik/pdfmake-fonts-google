@@ -1,0 +1,1 @@
+module.exports = {"HomemadeApple":{"normal":"HomemadeApple.ttf","bold":"HomemadeApple.ttf","italics":"HomemadeApple.ttf","bolditalics":"HomemadeApple.ttf"}};

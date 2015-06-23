@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FaunaOne":{"normal":"FaunaOne-Regular.ttf","bold":"FaunaOne-Regular.ttf","italics":"FaunaOne-Regular.ttf","bolditalics":"FaunaOne-Regular.ttf"}};

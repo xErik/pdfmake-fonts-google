@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansOldSouthArabian":{"normal":"NotoSansOldSouthArabian-Regular.ttf","bold":"NotoSansOldSouthArabian-Regular.ttf","italics":"NotoSansOldSouthArabian-Regular.ttf","bolditalics":"NotoSansOldSouthArabian-Regular.ttf"}};

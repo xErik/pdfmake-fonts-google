@@ -1,0 +1,1 @@
+module.exports = {"LeckerliOne":{"normal":"LeckerliOne-Regular.ttf","bold":"LeckerliOne-Regular.ttf","italics":"LeckerliOne-Regular.ttf","bolditalics":"LeckerliOne-Regular.ttf"}};

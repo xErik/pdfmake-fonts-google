@@ -1,0 +1,1 @@
+module.exports = {"NotoSansMandaic":{"normal":"NotoSansMandaic-Regular.ttf","bold":"NotoSansMandaic-Regular.ttf","italics":"NotoSansMandaic-Regular.ttf","bolditalics":"NotoSansMandaic-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Kristi":{"normal":"Kristi.ttf","bold":"Kristi.ttf","italics":"Kristi.ttf","bolditalics":"Kristi.ttf"}};

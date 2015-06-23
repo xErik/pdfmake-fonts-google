@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansSymbols":{"normal":"NotoSansSymbols-Regular.ttf","bold":"NotoSansSymbols-Regular.ttf","italics":"NotoSansSymbols-Regular.ttf","bolditalics":"NotoSansSymbols-Regular.ttf"}};

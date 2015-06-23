@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Thabit":{"bold":"Thabit-Bold.ttf","boldoblique":"Thabit-BoldOblique.ttf","oblique":"Thabit-Oblique.ttf","normal":"Thabit.ttf","italics":"Thabit.ttf","bolditalics":"Thabit-Bold.ttf"}};

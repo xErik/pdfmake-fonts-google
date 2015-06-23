@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Pecita":{"normal":"Pecita.ttf","bold":"Pecita.ttf","italics":"Pecita.ttf","bolditalics":"Pecita.ttf"}};

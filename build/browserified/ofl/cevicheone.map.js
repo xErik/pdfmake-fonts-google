@@ -1,0 +1,1 @@
+module.exports = {"CevicheOne":{"normal":"CevicheOne-Regular.ttf","bold":"CevicheOne-Regular.ttf","italics":"CevicheOne-Regular.ttf","bolditalics":"CevicheOne-Regular.ttf"}};

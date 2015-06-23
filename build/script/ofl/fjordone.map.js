@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FjordOne":{"normal":"FjordOne-Regular.ttf","bold":"FjordOne-Regular.ttf","italics":"FjordOne-Regular.ttf","bolditalics":"FjordOne-Regular.ttf"}};

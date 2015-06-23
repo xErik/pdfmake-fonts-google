@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Molle":{"normal":"Molle-Regular.ttf","bold":"Molle-Regular.ttf","italics":"Molle-Regular.ttf","bolditalics":"Molle-Regular.ttf"}};

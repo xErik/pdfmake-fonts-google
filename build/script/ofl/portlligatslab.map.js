@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PortLligatSlab":{"normal":"PortLligatSlab-Regular.ttf","bold":"PortLligatSlab-Regular.ttf","italics":"PortLligatSlab-Regular.ttf","bolditalics":"PortLligatSlab-Regular.ttf"}};

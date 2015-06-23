@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Yantramanav":{"black":"Yantramanav-Black.ttf","bold":"Yantramanav-Bold.ttf","light":"Yantramanav-Light.ttf","medium":"Yantramanav-Medium.ttf","normal":"Yantramanav-Regular.ttf","thin":"Yantramanav-Thin.ttf","italics":"Yantramanav-Regular.ttf","bolditalics":"Yantramanav-Bold.ttf"}};

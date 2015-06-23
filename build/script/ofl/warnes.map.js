@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Warnes":{"normal":"Warnes-Regular.ttf","bold":"Warnes-Regular.ttf","italics":"Warnes-Regular.ttf","bolditalics":"Warnes-Regular.ttf"}};

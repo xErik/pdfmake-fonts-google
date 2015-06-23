@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"JuliusSansOne":{"normal":"JuliusSansOne-Regular.ttf","bold":"JuliusSansOne-Regular.ttf","italics":"JuliusSansOne-Regular.ttf","bolditalics":"JuliusSansOne-Regular.ttf"}};

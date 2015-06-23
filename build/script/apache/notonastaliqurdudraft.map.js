@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoNastaliqUrduDraft":{"normal":"NotoNastaliqUrduDraft.ttf","bold":"NotoNastaliqUrduDraft.ttf","italics":"NotoNastaliqUrduDraft.ttf","bolditalics":"NotoNastaliqUrduDraft.ttf"}};

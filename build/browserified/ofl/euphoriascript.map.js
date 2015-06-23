@@ -1,0 +1,1 @@
+module.exports = {"EuphoriaScript":{"normal":"EuphoriaScript-Regular.ttf","bold":"EuphoriaScript-Regular.ttf","italics":"EuphoriaScript-Regular.ttf","bolditalics":"EuphoriaScript-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DoppioOne":{"normal":"DoppioOne-Regular.ttf","bold":"DoppioOne-Regular.ttf","italics":"DoppioOne-Regular.ttf","bolditalics":"DoppioOne-Regular.ttf"}};

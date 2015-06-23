@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SonsieOne":{"normal":"SonsieOne-Regular.ttf","bold":"SonsieOne-Regular.ttf","italics":"SonsieOne-Regular.ttf","bolditalics":"SonsieOne-Regular.ttf"}};

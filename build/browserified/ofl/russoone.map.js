@@ -1,0 +1,1 @@
+module.exports = {"RussoOne":{"normal":"RussoOne-Regular.ttf","bold":"RussoOne-Regular.ttf","italics":"RussoOne-Regular.ttf","bolditalics":"RussoOne-Regular.ttf"}};

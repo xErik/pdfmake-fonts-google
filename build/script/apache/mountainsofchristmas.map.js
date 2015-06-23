@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MountainsofChristmas":{"bold":"MountainsofChristmas-Bold.ttf","normal":"MountainsofChristmas-Regular.ttf","italics":"MountainsofChristmas-Regular.ttf","bolditalics":"MountainsofChristmas-Bold.ttf"}};

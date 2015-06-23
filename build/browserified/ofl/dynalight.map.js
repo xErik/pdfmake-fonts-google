@@ -1,0 +1,1 @@
+module.exports = {"Dynalight":{"normal":"Dynalight-Regular.ttf","bold":"Dynalight-Regular.ttf","italics":"Dynalight-Regular.ttf","bolditalics":"Dynalight-Regular.ttf"}};

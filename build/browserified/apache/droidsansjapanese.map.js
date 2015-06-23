@@ -1,0 +1,1 @@
+module.exports = {"DroidSansJapanese":{"normal":"DroidSansJapanese.ttf","bold":"DroidSansJapanese.ttf","italics":"DroidSansJapanese.ttf","bolditalics":"DroidSansJapanese.ttf"}};

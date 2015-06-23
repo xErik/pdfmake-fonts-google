@@ -1,0 +1,1 @@
+module.exports = {"KiteOne":{"normal":"KiteOne-Regular.ttf","bold":"KiteOne-Regular.ttf","italics":"KiteOne-Regular.ttf","bolditalics":"KiteOne-Regular.ttf"}};

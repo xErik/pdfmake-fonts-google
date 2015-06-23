@@ -1,0 +1,1 @@
+module.exports = {"FingerPaint":{"normal":"FingerPaint-Regular.ttf","bold":"FingerPaint-Regular.ttf","italics":"FingerPaint-Regular.ttf","bolditalics":"FingerPaint-Regular.ttf"}};

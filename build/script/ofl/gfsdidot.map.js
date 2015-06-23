@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"GFSDidot":{"normal":"GFSDidot-Regular.ttf","bold":"GFSDidot-Regular.ttf","italics":"GFSDidot-Regular.ttf","bolditalics":"GFSDidot-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PalanquinDark":{"bold":"PalanquinDark-Bold.ttf","medium":"PalanquinDark-Medium.ttf","normal":"PalanquinDark-Regular.ttf","semibold":"PalanquinDark-SemiBold.ttf","italics":"PalanquinDark-Regular.ttf","bolditalics":"PalanquinDark-Bold.ttf"}};

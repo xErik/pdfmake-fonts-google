@@ -1,0 +1,1 @@
+module.exports = {"Varta":{"bold":"Varta-Bold.ttf","light":"Varta-Light.ttf","normal":"Varta-Regular.ttf","semibold":"Varta-SemiBold.ttf","italics":"Varta-Regular.ttf","bolditalics":"Varta-Bold.ttf"}};

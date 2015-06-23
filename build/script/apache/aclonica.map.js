@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Aclonica":{"normal":"Aclonica.ttf","bold":"Aclonica.ttf","italics":"Aclonica.ttf","bolditalics":"Aclonica.ttf"}};

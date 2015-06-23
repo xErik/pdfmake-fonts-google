@@ -1,0 +1,1 @@
+module.exports = {"Lustria":{"normal":"Lustria-Regular.ttf","bold":"Lustria-Regular.ttf","italics":"Lustria-Regular.ttf","bolditalics":"Lustria-Regular.ttf"}};

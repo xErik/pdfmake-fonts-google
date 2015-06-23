@@ -1,0 +1,1 @@
+module.exports = {"Abel":{"normal":"Abel-Regular.ttf","bold":"Abel-Regular.ttf","italics":"Abel-Regular.ttf","bolditalics":"Abel-Regular.ttf"}};

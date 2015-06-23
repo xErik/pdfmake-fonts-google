@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PontanoSans":{"normal":"PontanoSans-Regular.ttf","bold":"PontanoSans-Regular.ttf","italics":"PontanoSans-Regular.ttf","bolditalics":"PontanoSans-Regular.ttf"}};

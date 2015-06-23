@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Electrolize":{"normal":"Electrolize-Regular.ttf","bold":"Electrolize-Regular.ttf","italics":"Electrolize-Regular.ttf","bolditalics":"Electrolize-Regular.ttf"}};

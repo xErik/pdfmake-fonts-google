@@ -1,0 +1,1 @@
+module.exports = {"GoudyBookletter1911":{"normal":"GoudyBookletter1911.ttf","bold":"GoudyBookletter1911.ttf","italics":"GoudyBookletter1911.ttf","bolditalics":"GoudyBookletter1911.ttf"}};

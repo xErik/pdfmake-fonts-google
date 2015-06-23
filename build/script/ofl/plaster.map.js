@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Plaster":{"normal":"Plaster-Regular.ttf","bold":"Plaster-Regular.ttf","italics":"Plaster-Regular.ttf","bolditalics":"Plaster-Regular.ttf"}};

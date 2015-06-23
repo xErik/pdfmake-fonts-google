@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Chewy":{"normal":"Chewy.ttf","bold":"Chewy.ttf","italics":"Chewy.ttf","bolditalics":"Chewy.ttf"}};

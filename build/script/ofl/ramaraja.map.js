@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ramaraja":{"normal":"Ramaraja-Regular.ttf","bold":"Ramaraja-Regular.ttf","italics":"Ramaraja-Regular.ttf","bolditalics":"Ramaraja-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Moulpali":{"normal":"Moulpali.ttf","bold":"Moulpali.ttf","italics":"Moulpali.ttf","bolditalics":"Moulpali.ttf"}};

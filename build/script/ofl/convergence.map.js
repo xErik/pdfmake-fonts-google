@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Convergence":{"normal":"Convergence-Regular.ttf","bold":"Convergence-Regular.ttf","italics":"Convergence-Regular.ttf","bolditalics":"Convergence-Regular.ttf"}};

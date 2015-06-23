@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Padauk":{"bold":"Padauk-Bold.ttf","normal":"Padauk-Regular.ttf","italics":"Padauk-Regular.ttf","bolditalics":"Padauk-Bold.ttf"}};

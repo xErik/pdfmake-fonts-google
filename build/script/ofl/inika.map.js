@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Inika":{"bold":"Inika-Bold.ttf","normal":"Inika-Regular.ttf","italics":"Inika-Regular.ttf","bolditalics":"Inika-Bold.ttf"}};

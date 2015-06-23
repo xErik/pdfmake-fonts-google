@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Revalia":{"normal":"Revalia-Regular.ttf","bold":"Revalia-Regular.ttf","italics":"Revalia-Regular.ttf","bolditalics":"Revalia-Regular.ttf"}};

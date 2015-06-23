@@ -1,0 +1,1 @@
+module.exports = {"FontdinerSwanky":{"normal":"FontdinerSwanky.ttf","bold":"FontdinerSwanky.ttf","italics":"FontdinerSwanky.ttf","bolditalics":"FontdinerSwanky.ttf"}};

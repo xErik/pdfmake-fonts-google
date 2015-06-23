@@ -1,0 +1,1 @@
+module.exports = {"Arizonia":{"normal":"Arizonia-Regular.ttf","bold":"Arizonia-Regular.ttf","italics":"Arizonia-Regular.ttf","bolditalics":"Arizonia-Regular.ttf"}};

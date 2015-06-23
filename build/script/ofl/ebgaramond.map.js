@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"EBGaramond":{"normal":"EBGaramond-Regular.ttf","bold":"EBGaramond-Regular.ttf","italics":"EBGaramond-Regular.ttf","bolditalics":"EBGaramond-Regular.ttf"}};

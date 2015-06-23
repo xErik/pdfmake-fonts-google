@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Pacifico":{"normal":"Pacifico.ttf","bold":"Pacifico.ttf","italics":"Pacifico.ttf","bolditalics":"Pacifico.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"PlayfairDisplaySC":{"black":"PlayfairDisplaySC-Black.ttf","blackitalics":"PlayfairDisplaySC-BlackItalic.ttf","bold":"PlayfairDisplaySC-Bold.ttf","bolditalics":"PlayfairDisplaySC-BoldItalic.ttf","italics":"PlayfairDisplaySC-Italic.ttf","normal":"PlayfairDisplaySC-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Dhyana":{"bold":"Dhyana-Bold.ttf","normal":"Dhyana-Regular.ttf","italics":"Dhyana-Regular.ttf","bolditalics":"Dhyana-Bold.ttf"}};

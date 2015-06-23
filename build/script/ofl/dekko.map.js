@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Dekko":{"normal":"Dekko-Regular.ttf","bold":"Dekko-Regular.ttf","italics":"Dekko-Regular.ttf","bolditalics":"Dekko-Regular.ttf"}};

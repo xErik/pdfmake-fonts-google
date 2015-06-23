@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Fenix":{"normal":"Fenix-Regular.ttf","bold":"Fenix-Regular.ttf","italics":"Fenix-Regular.ttf","bolditalics":"Fenix-Regular.ttf"}};

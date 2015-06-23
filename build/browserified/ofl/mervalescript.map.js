@@ -1,0 +1,1 @@
+module.exports = {"MervaleScript":{"normal":"MervaleScript-Regular.ttf","bold":"MervaleScript-Regular.ttf","italics":"MervaleScript-Regular.ttf","bolditalics":"MervaleScript-Regular.ttf"}};

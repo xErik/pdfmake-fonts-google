@@ -1,0 +1,1 @@
+module.exports = {"Stoke":{"light":"Stoke-Light.ttf","normal":"Stoke-Regular.ttf","bold":"Stoke-Regular.ttf","italics":"Stoke-Regular.ttf","bolditalics":"Stoke-Regular.ttf"}};

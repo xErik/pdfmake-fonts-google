@@ -1,0 +1,1 @@
+module.exports = {"GlassAntiqua":{"normal":"GlassAntiqua-Regular.ttf","bold":"GlassAntiqua-Regular.ttf","italics":"GlassAntiqua-Regular.ttf","bolditalics":"GlassAntiqua-Regular.ttf"}};

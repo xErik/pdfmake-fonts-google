@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Hind":{"bold":"Hind-Bold.ttf","light":"Hind-Light.ttf","medium":"Hind-Medium.ttf","normal":"Hind-Regular.ttf","semibold":"Hind-Semibold.ttf","italics":"Hind-Regular.ttf","bolditalics":"Hind-Bold.ttf"}};

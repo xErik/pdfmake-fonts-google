@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"FascinateInline":{"normal":"FascinateInline-Regular.ttf","bold":"FascinateInline-Regular.ttf","italics":"FascinateInline-Regular.ttf","bolditalics":"FascinateInline-Regular.ttf"}};

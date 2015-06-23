@@ -1,0 +1,1 @@
+module.exports = {"ReenieBeanie":{"normal":"ReenieBeanie.ttf","bold":"ReenieBeanie.ttf","italics":"ReenieBeanie.ttf","bolditalics":"ReenieBeanie.ttf"}};

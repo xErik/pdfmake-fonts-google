@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"BreeSerif":{"normal":"BreeSerif-Regular.ttf","bold":"BreeSerif-Regular.ttf","italics":"BreeSerif-Regular.ttf","bolditalics":"BreeSerif-Regular.ttf"}};

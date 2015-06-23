@@ -1,0 +1,1 @@
+module.exports = {"TenorSans":{"normal":"TenorSans-Regular.ttf","bold":"TenorSans-Regular.ttf","italics":"TenorSans-Regular.ttf","bolditalics":"TenorSans-Regular.ttf"}};

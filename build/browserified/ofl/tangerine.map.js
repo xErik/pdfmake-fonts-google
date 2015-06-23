@@ -1,0 +1,1 @@
+module.exports = {"Tangerine_Bold":{"normal":"Tangerine_Bold.ttf","bold":"Tangerine_Bold.ttf","italics":"Tangerine_Bold.ttf","bolditalics":"Tangerine_Bold.ttf"},"Tangerine_Regular":{"normal":"Tangerine_Regular.ttf"}};

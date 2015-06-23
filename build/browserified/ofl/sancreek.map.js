@@ -1,0 +1,1 @@
+module.exports = {"Sancreek":{"normal":"Sancreek-Regular.ttf","bold":"Sancreek-Regular.ttf","italics":"Sancreek-Regular.ttf","bolditalics":"Sancreek-Regular.ttf"}};

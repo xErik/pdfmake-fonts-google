@@ -1,0 +1,1 @@
+module.exports = {"Strong":{"normal":"Strong-Regular.ttf","bold":"Strong-Regular.ttf","italics":"Strong-Regular.ttf","bolditalics":"Strong-Regular.ttf"}};

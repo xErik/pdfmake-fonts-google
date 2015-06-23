@@ -1,0 +1,1 @@
+module.exports = {"AksaraBaliGalang":{"normal":"AksaraBaliGalang-Regular.ttf","bold":"AksaraBaliGalang-Regular.ttf","italics":"AksaraBaliGalang-Regular.ttf","bolditalics":"AksaraBaliGalang-Regular.ttf"}};

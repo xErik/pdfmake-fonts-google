@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Calligraffitti":{"normal":"Calligraffitti-Regular.ttf","bold":"Calligraffitti-Regular.ttf","italics":"Calligraffitti-Regular.ttf","bolditalics":"Calligraffitti-Regular.ttf"}};

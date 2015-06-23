@@ -1,0 +1,1 @@
+module.exports = {"OdorMeanChey":{"normal":"OdorMeanChey.ttf","bold":"OdorMeanChey.ttf","italics":"OdorMeanChey.ttf","bolditalics":"OdorMeanChey.ttf"}};

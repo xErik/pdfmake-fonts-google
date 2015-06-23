@@ -1,0 +1,1 @@
+module.exports = {"Balthazar":{"normal":"Balthazar-Regular.ttf","bold":"Balthazar-Regular.ttf","italics":"Balthazar-Regular.ttf","bolditalics":"Balthazar-Regular.ttf"}};

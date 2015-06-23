@@ -1,0 +1,1 @@
+module.exports = {"Trykker":{"normal":"Trykker-Regular.ttf","bold":"Trykker-Regular.ttf","italics":"Trykker-Regular.ttf","bolditalics":"Trykker-Regular.ttf"}};

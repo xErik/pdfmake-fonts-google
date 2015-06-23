@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"HennyPenny":{"normal":"HennyPenny-Regular.ttf","bold":"HennyPenny-Regular.ttf","italics":"HennyPenny-Regular.ttf","bolditalics":"HennyPenny-Regular.ttf"}};

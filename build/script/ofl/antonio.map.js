@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Antonio":{"bold":"Antonio-Bold.ttf","light":"Antonio-Light.ttf","normal":"Antonio-Regular.ttf","italics":"Antonio-Regular.ttf","bolditalics":"Antonio-Bold.ttf"}};

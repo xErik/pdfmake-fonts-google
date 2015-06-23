@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Neucha":{"normal":"Neucha.ttf","bold":"Neucha.ttf","italics":"Neucha.ttf","bolditalics":"Neucha.ttf"}};

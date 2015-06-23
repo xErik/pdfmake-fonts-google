@@ -1,0 +1,1 @@
+module.exports = {"NotoSansKaithi":{"normal":"NotoSansKaithi-Regular.ttf","bold":"NotoSansKaithi-Regular.ttf","italics":"NotoSansKaithi-Regular.ttf","bolditalics":"NotoSansKaithi-Regular.ttf"}};

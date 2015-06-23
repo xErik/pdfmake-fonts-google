@@ -1,0 +1,1 @@
+module.exports = {"CaesarDressing":{"normal":"CaesarDressing-Regular.ttf","bold":"CaesarDressing-Regular.ttf","italics":"CaesarDressing-Regular.ttf","bolditalics":"CaesarDressing-Regular.ttf"}};

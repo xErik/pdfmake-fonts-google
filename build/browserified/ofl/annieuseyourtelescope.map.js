@@ -1,0 +1,1 @@
+module.exports = {"AnnieUseYourTelescope":{"normal":"AnnieUseYourTelescope.ttf","bold":"AnnieUseYourTelescope.ttf","italics":"AnnieUseYourTelescope.ttf","bolditalics":"AnnieUseYourTelescope.ttf"}};

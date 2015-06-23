@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Diplomata":{"normal":"Diplomata-Regular.ttf","bold":"Diplomata-Regular.ttf","italics":"Diplomata-Regular.ttf","bolditalics":"Diplomata-Regular.ttf"}};

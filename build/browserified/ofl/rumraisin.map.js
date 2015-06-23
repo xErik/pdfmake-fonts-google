@@ -1,0 +1,1 @@
+module.exports = {"RumRaisin":{"normal":"RumRaisin-Regular.ttf","bold":"RumRaisin-Regular.ttf","italics":"RumRaisin-Regular.ttf","bolditalics":"RumRaisin-Regular.ttf"}};

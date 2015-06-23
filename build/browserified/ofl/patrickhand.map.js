@@ -1,0 +1,1 @@
+module.exports = {"PatrickHand":{"normal":"PatrickHand-Regular.ttf","bold":"PatrickHand-Regular.ttf","italics":"PatrickHand-Regular.ttf","bolditalics":"PatrickHand-Regular.ttf"}};

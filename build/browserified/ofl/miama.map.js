@@ -1,0 +1,1 @@
+module.exports = {"Miama":{"normal":"Miama-Regular.ttf","bold":"Miama-Regular.ttf","italics":"Miama-Regular.ttf","bolditalics":"Miama-Regular.ttf"}};

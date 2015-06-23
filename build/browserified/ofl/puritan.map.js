@@ -1,0 +1,1 @@
+module.exports = {"Puritan":{"bold":"Puritan-Bold.ttf","bolditalics":"Puritan-BoldItalic.ttf","italics":"Puritan-Italic.ttf","normal":"Puritan-Regular.ttf"}};

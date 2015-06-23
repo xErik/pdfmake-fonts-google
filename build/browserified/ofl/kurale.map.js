@@ -1,0 +1,1 @@
+module.exports = {"Kurale":{"normal":"Kurale-Regular.ttf","bold":"Kurale-Regular.ttf","italics":"Kurale-Regular.ttf","bolditalics":"Kurale-Regular.ttf"}};

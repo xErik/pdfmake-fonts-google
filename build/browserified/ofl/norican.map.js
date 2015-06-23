@@ -1,0 +1,1 @@
+module.exports = {"Norican":{"normal":"Norican-Regular.ttf","bold":"Norican-Regular.ttf","italics":"Norican-Regular.ttf","bolditalics":"Norican-Regular.ttf"}};

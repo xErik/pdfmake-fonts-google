@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Geo":{"oblique":"Geo-Oblique.ttf","normal":"Geo-Regular.ttf","bold":"Geo-Regular.ttf","italics":"Geo-Regular.ttf","bolditalics":"Geo-Regular.ttf"}};

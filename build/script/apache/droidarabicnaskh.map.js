@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DroidNaskh":{"bold":"DroidNaskh-Bold.ttf","normal":"DroidNaskh-Regular.ttf","italics":"DroidNaskh-Regular.ttf","bolditalics":"DroidNaskh-Bold.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Margarine":{"normal":"Margarine-Regular.ttf","bold":"Margarine-Regular.ttf","italics":"Margarine-Regular.ttf","bolditalics":"Margarine-Regular.ttf"}};

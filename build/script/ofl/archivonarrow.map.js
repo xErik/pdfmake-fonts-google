@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"ArchivoNarrow":{"bold":"ArchivoNarrow-Bold.ttf","bolditalics":"ArchivoNarrow-BoldItalic.ttf","italics":"ArchivoNarrow-Italic.ttf","normal":"ArchivoNarrow-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Quando":{"normal":"Quando-Regular.ttf","bold":"Quando-Regular.ttf","italics":"Quando-Regular.ttf","bolditalics":"Quando-Regular.ttf"}};

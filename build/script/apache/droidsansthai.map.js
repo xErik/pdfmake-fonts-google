@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DroidSansThai":{"bold":"DroidSansThai-Bold.ttf","normal":"DroidSansThai-Regular.ttf","italics":"DroidSansThai-Regular.ttf","bolditalics":"DroidSansThai-Bold.ttf"}};

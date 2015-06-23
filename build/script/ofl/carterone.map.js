@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CarterOne":{"normal":"CarterOne.ttf","bold":"CarterOne.ttf","italics":"CarterOne.ttf","bolditalics":"CarterOne.ttf"}};

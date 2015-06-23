@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Miniver":{"normal":"Miniver-Regular.ttf","bold":"Miniver-Regular.ttf","italics":"Miniver-Regular.ttf","bolditalics":"Miniver-Regular.ttf"}};

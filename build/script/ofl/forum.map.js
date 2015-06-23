@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Forum":{"normal":"Forum-Regular.ttf","bold":"Forum-Regular.ttf","italics":"Forum-Regular.ttf","bolditalics":"Forum-Regular.ttf"}};

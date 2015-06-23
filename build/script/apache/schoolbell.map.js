@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Schoolbell":{"normal":"Schoolbell.ttf","bold":"Schoolbell.ttf","italics":"Schoolbell.ttf","bolditalics":"Schoolbell.ttf"}};

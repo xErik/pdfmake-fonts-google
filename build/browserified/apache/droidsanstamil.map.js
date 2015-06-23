@@ -1,0 +1,1 @@
+module.exports = {"DroidSansTamil":{"bold":"DroidSansTamil-Bold.ttf","normal":"DroidSansTamil-Regular.ttf","italics":"DroidSansTamil-Regular.ttf","bolditalics":"DroidSansTamil-Bold.ttf"}};

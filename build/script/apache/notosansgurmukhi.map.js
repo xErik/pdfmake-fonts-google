@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansGurmukhi":{"bold":"NotoSansGurmukhi-Bold.ttf","normal":"NotoSansGurmukhi-Regular.ttf","italics":"NotoSansGurmukhi-Regular.ttf","bolditalics":"NotoSansGurmukhi-Bold.ttf"}};

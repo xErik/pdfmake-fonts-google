@@ -1,0 +1,1 @@
+module.exports = {"AlfaSlabOne":{"normal":"AlfaSlabOne-Regular.ttf","bold":"AlfaSlabOne-Regular.ttf","italics":"AlfaSlabOne-Regular.ttf","bolditalics":"AlfaSlabOne-Regular.ttf"}};

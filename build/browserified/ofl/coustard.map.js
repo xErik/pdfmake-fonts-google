@@ -1,0 +1,1 @@
+module.exports = {"Coustard":{"black":"Coustard-Black.ttf","normal":"Coustard-Regular.ttf","bold":"Coustard-Regular.ttf","italics":"Coustard-Regular.ttf","bolditalics":"Coustard-Regular.ttf"}};

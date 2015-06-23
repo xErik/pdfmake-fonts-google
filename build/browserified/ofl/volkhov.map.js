@@ -1,0 +1,1 @@
+module.exports = {"Volkhov":{"bold":"Volkhov-Bold.ttf","bolditalics":"Volkhov-BoldItalic.ttf","italics":"Volkhov-Italic.ttf","normal":"Volkhov-Regular.ttf"}};

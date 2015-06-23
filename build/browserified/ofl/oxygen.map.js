@@ -1,0 +1,1 @@
+module.exports = {"Oxygen":{"bold":"Oxygen-Bold.ttf","light":"Oxygen-Light.ttf","normal":"Oxygen-Regular.ttf","italics":"Oxygen-Regular.ttf","bolditalics":"Oxygen-Bold.ttf"}};

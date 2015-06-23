@@ -1,0 +1,1 @@
+module.exports = {"DenkOne":{"normal":"DenkOne-Regular.ttf","bold":"DenkOne-Regular.ttf","italics":"DenkOne-Regular.ttf","bolditalics":"DenkOne-Regular.ttf"}};

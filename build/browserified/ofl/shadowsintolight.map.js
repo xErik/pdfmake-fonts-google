@@ -1,0 +1,1 @@
+module.exports = {"ShadowsIntoLight":{"normal":"ShadowsIntoLight.ttf","bold":"ShadowsIntoLight.ttf","italics":"ShadowsIntoLight.ttf","bolditalics":"ShadowsIntoLight.ttf"}};

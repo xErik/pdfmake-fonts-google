@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RobotoSlab":{"bold":"RobotoSlab-Bold.ttf","light":"RobotoSlab-Light.ttf","normal":"RobotoSlab-Regular.ttf","thin":"RobotoSlab-Thin.ttf","italics":"RobotoSlab-Regular.ttf","bolditalics":"RobotoSlab-Bold.ttf"}};

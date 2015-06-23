@@ -1,0 +1,1 @@
+module.exports = {"NotoSerifThai":{"bold":"NotoSerifThai-Bold.ttf","normal":"NotoSerifThai-Regular.ttf","italics":"NotoSerifThai-Regular.ttf","bolditalics":"NotoSerifThai-Bold.ttf"}};

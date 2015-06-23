@@ -1,0 +1,1 @@
+module.exports = {"NotoSansTamilUI":{"bold":"NotoSansTamilUI-Bold.ttf","normal":"NotoSansTamilUI-Regular.ttf","italics":"NotoSansTamilUI-Regular.ttf","bolditalics":"NotoSansTamilUI-Bold.ttf"}};

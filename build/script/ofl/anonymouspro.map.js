@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AnonymousPro":{"bold":"AnonymousPro-Bold.ttf","bolditalics":"AnonymousPro-BoldItalic.ttf","italics":"AnonymousPro-Italic.ttf","normal":"AnonymousPro-Regular.ttf"}};

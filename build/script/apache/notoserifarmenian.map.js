@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSerifArmenian":{"bold":"NotoSerifArmenian-Bold.ttf","normal":"NotoSerifArmenian-Regular.ttf","italics":"NotoSerifArmenian-Regular.ttf","bolditalics":"NotoSerifArmenian-Bold.ttf"}};

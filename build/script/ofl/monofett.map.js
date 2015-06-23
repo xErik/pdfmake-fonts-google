@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Monofett":{"normal":"Monofett.ttf","bold":"Monofett.ttf","italics":"Monofett.ttf","bolditalics":"Monofett.ttf"}};

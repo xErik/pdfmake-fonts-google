@@ -1,0 +1,1 @@
+module.exports = {"Damion":{"normal":"Damion-Regular.ttf","bold":"Damion-Regular.ttf","italics":"Damion-Regular.ttf","bolditalics":"Damion-Regular.ttf"}};

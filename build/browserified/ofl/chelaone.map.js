@@ -1,0 +1,1 @@
+module.exports = {"ChelaOne":{"normal":"ChelaOne-Regular.ttf","bold":"ChelaOne-Regular.ttf","italics":"ChelaOne-Regular.ttf","bolditalics":"ChelaOne-Regular.ttf"}};

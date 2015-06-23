@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Slabo13px":{"normal":"Slabo13px-Regular.ttf","bold":"Slabo13px-Regular.ttf","italics":"Slabo13px-Regular.ttf","bolditalics":"Slabo13px-Regular.ttf"}};

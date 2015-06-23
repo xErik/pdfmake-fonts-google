@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Mallanna":{"normal":"Mallanna-Regular.ttf","bold":"Mallanna-Regular.ttf","italics":"Mallanna-Regular.ttf","bolditalics":"Mallanna-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansMeeteiMayek":{"normal":"NotoSansMeeteiMayek-Regular.ttf","bold":"NotoSansMeeteiMayek-Regular.ttf","italics":"NotoSansMeeteiMayek-Regular.ttf","bolditalics":"NotoSansMeeteiMayek-Regular.ttf"}};

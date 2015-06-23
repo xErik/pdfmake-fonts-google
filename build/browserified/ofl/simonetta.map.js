@@ -1,0 +1,1 @@
+module.exports = {"Simonetta":{"black":"Simonetta-Black.ttf","blackitalics":"Simonetta-BlackItalic.ttf","italics":"Simonetta-Italic.ttf","normal":"Simonetta-Regular.ttf","bold":"Simonetta-Regular.ttf","bolditalics":"Simonetta-Regular.ttf"}};

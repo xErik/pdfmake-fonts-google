@@ -1,0 +1,1 @@
+module.exports = {"SigmarOne":{"normal":"SigmarOne.ttf","bold":"SigmarOne.ttf","italics":"SigmarOne.ttf","bolditalics":"SigmarOne.ttf"}};

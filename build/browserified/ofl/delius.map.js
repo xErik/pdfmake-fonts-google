@@ -1,0 +1,1 @@
+module.exports = {"Delius":{"normal":"Delius-Regular.ttf","bold":"Delius-Regular.ttf","italics":"Delius-Regular.ttf","bolditalics":"Delius-Regular.ttf"}};

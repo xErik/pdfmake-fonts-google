@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Zeyada":{"normal":"Zeyada.ttf","bold":"Zeyada.ttf","italics":"Zeyada.ttf","bolditalics":"Zeyada.ttf"}};

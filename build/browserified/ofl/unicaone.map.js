@@ -1,0 +1,1 @@
+module.exports = {"UnicaOne":{"normal":"UnicaOne-Regular.ttf","bold":"UnicaOne-Regular.ttf","italics":"UnicaOne-Regular.ttf","bolditalics":"UnicaOne-Regular.ttf"}};

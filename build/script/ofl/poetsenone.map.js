@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PoetsenOne":{"normal":"PoetsenOne-Regular.ttf","bold":"PoetsenOne-Regular.ttf","italics":"PoetsenOne-Regular.ttf","bolditalics":"PoetsenOne-Regular.ttf"}};

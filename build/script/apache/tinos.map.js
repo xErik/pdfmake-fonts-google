@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Tinos":{"bold":"Tinos-Bold.ttf","bolditalics":"Tinos-BoldItalic.ttf","italics":"Tinos-Italic.ttf","normal":"Tinos-Regular.ttf"}};

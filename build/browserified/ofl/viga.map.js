@@ -1,0 +1,1 @@
+module.exports = {"Viga":{"normal":"Viga-Regular.ttf","bold":"Viga-Regular.ttf","italics":"Viga-Regular.ttf","bolditalics":"Viga-Regular.ttf"}};

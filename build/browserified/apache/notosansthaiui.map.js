@@ -1,0 +1,1 @@
+module.exports = {"NotoSansThaiUI":{"bold":"NotoSansThaiUI-Bold.ttf","normal":"NotoSansThaiUI-Regular.ttf","italics":"NotoSansThaiUI-Regular.ttf","bolditalics":"NotoSansThaiUI-Bold.ttf"}};

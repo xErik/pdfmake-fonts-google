@@ -1,0 +1,1 @@
+module.exports = {"JimNightshade":{"normal":"JimNightshade-Regular.ttf","bold":"JimNightshade-Regular.ttf","italics":"JimNightshade-Regular.ttf","bolditalics":"JimNightshade-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Snippet":{"normal":"Snippet.ttf","bold":"Snippet.ttf","italics":"Snippet.ttf","bolditalics":"Snippet.ttf"}};

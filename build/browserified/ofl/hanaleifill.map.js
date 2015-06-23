@@ -1,0 +1,1 @@
+module.exports = {"HanaleiFill":{"normal":"HanaleiFill-Regular.ttf","bold":"HanaleiFill-Regular.ttf","italics":"HanaleiFill-Regular.ttf","bolditalics":"HanaleiFill-Regular.ttf"}};

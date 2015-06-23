@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Spinnaker":{"normal":"Spinnaker-Regular.ttf","bold":"Spinnaker-Regular.ttf","italics":"Spinnaker-Regular.ttf","bolditalics":"Spinnaker-Regular.ttf"}};

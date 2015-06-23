@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MacondoSwashCaps":{"normal":"MacondoSwashCaps-Regular.ttf","bold":"MacondoSwashCaps-Regular.ttf","italics":"MacondoSwashCaps-Regular.ttf","bolditalics":"MacondoSwashCaps-Regular.ttf"}};

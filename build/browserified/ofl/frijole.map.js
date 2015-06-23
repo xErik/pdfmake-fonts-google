@@ -1,0 +1,1 @@
+module.exports = {"Frijole":{"normal":"Frijole-Regular.ttf","bold":"Frijole-Regular.ttf","italics":"Frijole-Regular.ttf","bolditalics":"Frijole-Regular.ttf"}};

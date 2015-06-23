@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"QuattrocentoSans":{"bold":"QuattrocentoSans-Bold.ttf","bolditalics":"QuattrocentoSans-BoldItalic.ttf","italics":"QuattrocentoSans-Italic.ttf","normal":"QuattrocentoSans-Regular.ttf"}};

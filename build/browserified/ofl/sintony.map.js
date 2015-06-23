@@ -1,0 +1,1 @@
+module.exports = {"Sintony":{"bold":"Sintony-Bold.ttf","normal":"Sintony-Regular.ttf","italics":"Sintony-Regular.ttf","bolditalics":"Sintony-Bold.ttf"}};

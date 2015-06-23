@@ -1,0 +1,1 @@
+module.exports = {"CarterOne":{"normal":"CarterOne.ttf","bold":"CarterOne.ttf","italics":"CarterOne.ttf","bolditalics":"CarterOne.ttf"}};

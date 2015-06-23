@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Siemreap":{"normal":"Siemreap.ttf","bold":"Siemreap.ttf","italics":"Siemreap.ttf","bolditalics":"Siemreap.ttf"}};

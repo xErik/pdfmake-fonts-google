@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NovaFlat":{"normal":"NovaFlat.ttf","bold":"NovaFlat.ttf","italics":"NovaFlat.ttf","bolditalics":"NovaFlat.ttf"}};

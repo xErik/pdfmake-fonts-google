@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CabinCondensed":{"bold":"CabinCondensed-Bold.ttf","medium":"CabinCondensed-Medium.ttf","normal":"CabinCondensed-Regular.ttf","semibold":"CabinCondensed-SemiBold.ttf","italics":"CabinCondensed-Regular.ttf","bolditalics":"CabinCondensed-Bold.ttf"}};

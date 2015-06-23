@@ -1,0 +1,1 @@
+module.exports = {"Slackey":{"normal":"Slackey.ttf","bold":"Slackey.ttf","italics":"Slackey.ttf","bolditalics":"Slackey.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"AlmendraDisplay":{"normal":"AlmendraDisplay-Regular.ttf","bold":"AlmendraDisplay-Regular.ttf","italics":"AlmendraDisplay-Regular.ttf","bolditalics":"AlmendraDisplay-Regular.ttf"}};

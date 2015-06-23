@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Oswald":{"bold":"Oswald-Bold.ttf","light":"Oswald-Light.ttf","normal":"Oswald-Regular.ttf","italics":"Oswald-Regular.ttf","bolditalics":"Oswald-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"StintUltraCondensed":{"normal":"StintUltraCondensed-Regular.ttf","bold":"StintUltraCondensed-Regular.ttf","italics":"StintUltraCondensed-Regular.ttf","bolditalics":"StintUltraCondensed-Regular.ttf"}};

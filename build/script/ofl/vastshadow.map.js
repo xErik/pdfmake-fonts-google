@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"VastShadow":{"normal":"VastShadow-Regular.ttf","bold":"VastShadow-Regular.ttf","italics":"VastShadow-Regular.ttf","bolditalics":"VastShadow-Regular.ttf"}};

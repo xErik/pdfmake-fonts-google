@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Fasthand":{"normal":"Fasthand-Regular.ttf","bold":"Fasthand-Regular.ttf","italics":"Fasthand-Regular.ttf","bolditalics":"Fasthand-Regular.ttf"}};

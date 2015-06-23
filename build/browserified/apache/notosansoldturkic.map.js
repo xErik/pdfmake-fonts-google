@@ -1,0 +1,1 @@
+module.exports = {"NotoSansOldTurkic":{"normal":"NotoSansOldTurkic-Regular.ttf","bold":"NotoSansOldTurkic-Regular.ttf","italics":"NotoSansOldTurkic-Regular.ttf","bolditalics":"NotoSansOldTurkic-Regular.ttf"}};

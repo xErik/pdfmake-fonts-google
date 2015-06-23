@@ -1,0 +1,1 @@
+module.exports = {"OleoScript":{"bold":"OleoScript-Bold.ttf","normal":"OleoScript-Regular.ttf","italics":"OleoScript-Regular.ttf","bolditalics":"OleoScript-Bold.ttf"}};

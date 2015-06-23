@@ -1,0 +1,1 @@
+module.exports = {"YanoneKaffeesatz":{"bold":"YanoneKaffeesatz-Bold.ttf","extralight":"YanoneKaffeesatz-ExtraLight.ttf","light":"YanoneKaffeesatz-Light.ttf","normal":"YanoneKaffeesatz-Regular.ttf","italics":"YanoneKaffeesatz-Regular.ttf","bolditalics":"YanoneKaffeesatz-Bold.ttf"}};

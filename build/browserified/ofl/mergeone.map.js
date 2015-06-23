@@ -1,0 +1,1 @@
+module.exports = {"MergeOne":{"normal":"MergeOne-Regular.ttf","bold":"MergeOne-Regular.ttf","italics":"MergeOne-Regular.ttf","bolditalics":"MergeOne-Regular.ttf"}};

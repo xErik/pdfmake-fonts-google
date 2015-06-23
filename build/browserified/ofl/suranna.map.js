@@ -1,0 +1,1 @@
+module.exports = {"Suranna":{"normal":"Suranna-Regular.ttf","bold":"Suranna-Regular.ttf","italics":"Suranna-Regular.ttf","bolditalics":"Suranna-Regular.ttf"}};

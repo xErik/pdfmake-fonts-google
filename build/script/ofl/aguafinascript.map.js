@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AguafinaScript":{"normal":"AguafinaScript-Regular.ttf","bold":"AguafinaScript-Regular.ttf","italics":"AguafinaScript-Regular.ttf","bolditalics":"AguafinaScript-Regular.ttf"}};

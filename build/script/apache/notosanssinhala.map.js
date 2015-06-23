@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansSinhala":{"bold":"NotoSansSinhala-Bold.ttf","normal":"NotoSansSinhala-Regular.ttf","italics":"NotoSansSinhala-Regular.ttf","bolditalics":"NotoSansSinhala-Bold.ttf"}};

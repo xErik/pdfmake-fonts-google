@@ -1,0 +1,1 @@
+module.exports = {"Elsie":{"black":"Elsie-Black.ttf","normal":"Elsie-Regular.ttf","bold":"Elsie-Regular.ttf","italics":"Elsie-Regular.ttf","bolditalics":"Elsie-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Frijole":{"normal":"Frijole-Regular.ttf","bold":"Frijole-Regular.ttf","italics":"Frijole-Regular.ttf","bolditalics":"Frijole-Regular.ttf"}};

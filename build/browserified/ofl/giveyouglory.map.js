@@ -1,0 +1,1 @@
+module.exports = {"GiveYouGlory":{"normal":"GiveYouGlory.ttf","bold":"GiveYouGlory.ttf","italics":"GiveYouGlory.ttf","bolditalics":"GiveYouGlory.ttf"}};

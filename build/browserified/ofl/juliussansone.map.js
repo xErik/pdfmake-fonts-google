@@ -1,0 +1,1 @@
+module.exports = {"JuliusSansOne":{"normal":"JuliusSansOne-Regular.ttf","bold":"JuliusSansOne-Regular.ttf","italics":"JuliusSansOne-Regular.ttf","bolditalics":"JuliusSansOne-Regular.ttf"}};

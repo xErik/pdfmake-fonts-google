@@ -1,0 +1,1 @@
+module.exports = {"DidactGothic":{"normal":"DidactGothic.ttf","bold":"DidactGothic.ttf","italics":"DidactGothic.ttf","bolditalics":"DidactGothic.ttf"}};

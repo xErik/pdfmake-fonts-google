@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Shanti":{"normal":"Shanti-Regular.ttf","bold":"Shanti-Regular.ttf","italics":"Shanti-Regular.ttf","bolditalics":"Shanti-Regular.ttf"}};

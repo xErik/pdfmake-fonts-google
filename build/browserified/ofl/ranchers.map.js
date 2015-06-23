@@ -1,0 +1,1 @@
+module.exports = {"Ranchers":{"normal":"Ranchers-Regular.ttf","bold":"Ranchers-Regular.ttf","italics":"Ranchers-Regular.ttf","bolditalics":"Ranchers-Regular.ttf"}};

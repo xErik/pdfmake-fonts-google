@@ -1,0 +1,1 @@
+module.exports = {"ChelseaMarket":{"normal":"ChelseaMarket-Regular.ttf","bold":"ChelseaMarket-Regular.ttf","italics":"ChelseaMarket-Regular.ttf","bolditalics":"ChelseaMarket-Regular.ttf"}};

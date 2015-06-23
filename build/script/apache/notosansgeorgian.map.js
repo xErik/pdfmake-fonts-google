@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansGeorgian":{"bold":"NotoSansGeorgian-Bold.ttf","normal":"NotoSansGeorgian-Regular.ttf","italics":"NotoSansGeorgian-Regular.ttf","bolditalics":"NotoSansGeorgian-Bold.ttf"}};

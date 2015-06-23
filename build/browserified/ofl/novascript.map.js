@@ -1,0 +1,1 @@
+module.exports = {"NovaScript":{"normal":"NovaScript.ttf","bold":"NovaScript.ttf","italics":"NovaScript.ttf","bolditalics":"NovaScript.ttf"}};

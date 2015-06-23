@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"CevicheOne":{"normal":"CevicheOne-Regular.ttf","bold":"CevicheOne-Regular.ttf","italics":"CevicheOne-Regular.ttf","bolditalics":"CevicheOne-Regular.ttf"}};

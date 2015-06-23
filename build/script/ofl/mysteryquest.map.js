@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MysteryQuest":{"normal":"MysteryQuest-Regular.ttf","bold":"MysteryQuest-Regular.ttf","italics":"MysteryQuest-Regular.ttf","bolditalics":"MysteryQuest-Regular.ttf"}};

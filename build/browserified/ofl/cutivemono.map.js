@@ -1,0 +1,1 @@
+module.exports = {"CutiveMono":{"normal":"CutiveMono-Regular.ttf","bold":"CutiveMono-Regular.ttf","italics":"CutiveMono-Regular.ttf","bolditalics":"CutiveMono-Regular.ttf"}};

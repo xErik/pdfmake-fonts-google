@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Imprima":{"normal":"Imprima-Regular.ttf","bold":"Imprima-Regular.ttf","italics":"Imprima-Regular.ttf","bolditalics":"Imprima-Regular.ttf"}};

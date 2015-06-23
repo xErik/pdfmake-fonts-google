@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Kantumruy":{"bold":"Kantumruy-Bold.ttf","light":"Kantumruy-Light.ttf","normal":"Kantumruy-Regular.ttf","italics":"Kantumruy-Regular.ttf","bolditalics":"Kantumruy-Bold.ttf"}};

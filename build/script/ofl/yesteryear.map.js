@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Yesteryear":{"normal":"Yesteryear-Regular.ttf","bold":"Yesteryear-Regular.ttf","italics":"Yesteryear-Regular.ttf","bolditalics":"Yesteryear-Regular.ttf"}};

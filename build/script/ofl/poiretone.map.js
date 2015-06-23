@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PoiretOne":{"normal":"PoiretOne-Regular.ttf","bold":"PoiretOne-Regular.ttf","italics":"PoiretOne-Regular.ttf","bolditalics":"PoiretOne-Regular.ttf"}};

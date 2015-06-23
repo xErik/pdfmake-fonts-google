@@ -1,0 +1,1 @@
+module.exports = {"Metamorphous":{"normal":"Metamorphous-Regular.ttf","bold":"Metamorphous-Regular.ttf","italics":"Metamorphous-Regular.ttf","bolditalics":"Metamorphous-Regular.ttf"}};

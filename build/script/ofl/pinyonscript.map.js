@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PinyonScript":{"normal":"PinyonScript-Regular.ttf","bold":"PinyonScript-Regular.ttf","italics":"PinyonScript-Regular.ttf","bolditalics":"PinyonScript-Regular.ttf"}};

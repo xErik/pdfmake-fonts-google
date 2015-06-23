@@ -1,0 +1,1 @@
+module.exports = {"MarcellusSC":{"normal":"MarcellusSC-Regular.ttf","bold":"MarcellusSC-Regular.ttf","italics":"MarcellusSC-Regular.ttf","bolditalics":"MarcellusSC-Regular.ttf"}};

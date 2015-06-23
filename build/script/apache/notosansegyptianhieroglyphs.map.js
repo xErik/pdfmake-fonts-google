@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansEgyptianHieroglyphs":{"normal":"NotoSansEgyptianHieroglyphs-Regular.ttf","bold":"NotoSansEgyptianHieroglyphs-Regular.ttf","italics":"NotoSansEgyptianHieroglyphs-Regular.ttf","bolditalics":"NotoSansEgyptianHieroglyphs-Regular.ttf"}};

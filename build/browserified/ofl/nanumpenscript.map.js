@@ -1,0 +1,1 @@
+module.exports = {"NanumPenScript":{"normal":"NanumPenScript-Regular.ttf","bold":"NanumPenScript-Regular.ttf","italics":"NanumPenScript-Regular.ttf","bolditalics":"NanumPenScript-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"MysteryQuest":{"normal":"MysteryQuest-Regular.ttf","bold":"MysteryQuest-Regular.ttf","italics":"MysteryQuest-Regular.ttf","bolditalics":"MysteryQuest-Regular.ttf"}};

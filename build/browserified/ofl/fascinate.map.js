@@ -1,0 +1,1 @@
+module.exports = {"Fascinate":{"normal":"Fascinate-Regular.ttf","bold":"Fascinate-Regular.ttf","italics":"Fascinate-Regular.ttf","bolditalics":"Fascinate-Regular.ttf"}};

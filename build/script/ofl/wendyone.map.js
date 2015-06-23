@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"WendyOne":{"normal":"WendyOne-Regular.ttf","bold":"WendyOne-Regular.ttf","italics":"WendyOne-Regular.ttf","bolditalics":"WendyOne-Regular.ttf"}};

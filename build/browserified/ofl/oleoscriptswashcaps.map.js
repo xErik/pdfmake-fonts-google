@@ -1,0 +1,1 @@
+module.exports = {"OleoScriptSwashCaps":{"bold":"OleoScriptSwashCaps-Bold.ttf","normal":"OleoScriptSwashCaps-Regular.ttf","italics":"OleoScriptSwashCaps-Regular.ttf","bolditalics":"OleoScriptSwashCaps-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ranchers":{"normal":"Ranchers-Regular.ttf","bold":"Ranchers-Regular.ttf","italics":"Ranchers-Regular.ttf","bolditalics":"Ranchers-Regular.ttf"}};

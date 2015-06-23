@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Bokor":{"normal":"Bokor.ttf","bold":"Bokor.ttf","italics":"Bokor.ttf","bolditalics":"Bokor.ttf"}};

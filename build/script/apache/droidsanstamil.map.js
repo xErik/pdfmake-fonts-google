@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"DroidSansTamil":{"bold":"DroidSansTamil-Bold.ttf","normal":"DroidSansTamil-Regular.ttf","italics":"DroidSansTamil-Regular.ttf","bolditalics":"DroidSansTamil-Bold.ttf"}};

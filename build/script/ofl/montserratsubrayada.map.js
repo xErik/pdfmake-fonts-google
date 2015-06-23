@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MontserratSubrayada":{"bold":"MontserratSubrayada-Bold.ttf","normal":"MontserratSubrayada-Regular.ttf","italics":"MontserratSubrayada-Regular.ttf","bolditalics":"MontserratSubrayada-Bold.ttf"}};

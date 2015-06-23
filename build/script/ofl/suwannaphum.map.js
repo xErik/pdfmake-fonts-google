@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Suwannaphum":{"normal":"Suwannaphum.ttf","bold":"Suwannaphum.ttf","italics":"Suwannaphum.ttf","bolditalics":"Suwannaphum.ttf"}};

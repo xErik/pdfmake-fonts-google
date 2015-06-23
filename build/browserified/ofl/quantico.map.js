@@ -1,0 +1,1 @@
+module.exports = {"Quantico":{"bold":"Quantico-Bold.ttf","bolditalics":"Quantico-BoldItalic.ttf","italics":"Quantico-Italic.ttf","normal":"Quantico-Regular.ttf"}};

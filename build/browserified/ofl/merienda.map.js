@@ -1,0 +1,1 @@
+module.exports = {"Merienda":{"bold":"Merienda-Bold.ttf","normal":"Merienda-Regular.ttf","italics":"Merienda-Regular.ttf","bolditalics":"Merienda-Bold.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Mako":{"normal":"Mako-Regular.ttf","bold":"Mako-Regular.ttf","italics":"Mako-Regular.ttf","bolditalics":"Mako-Regular.ttf"}};

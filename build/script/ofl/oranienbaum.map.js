@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Oranienbaum":{"normal":"Oranienbaum-Regular.ttf","bold":"Oranienbaum-Regular.ttf","italics":"Oranienbaum-Regular.ttf","bolditalics":"Oranienbaum-Regular.ttf"}};

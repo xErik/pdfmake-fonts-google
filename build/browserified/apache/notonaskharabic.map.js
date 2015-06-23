@@ -1,0 +1,1 @@
+module.exports = {"NotoNaskhArabic":{"bold":"NotoNaskhArabic-Bold.ttf","normal":"NotoNaskhArabic-Regular.ttf","italics":"NotoNaskhArabic-Regular.ttf","bolditalics":"NotoNaskhArabic-Bold.ttf"}};

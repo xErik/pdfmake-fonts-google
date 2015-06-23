@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"SquadaOne":{"normal":"SquadaOne-Regular.ttf","bold":"SquadaOne-Regular.ttf","italics":"SquadaOne-Regular.ttf","bolditalics":"SquadaOne-Regular.ttf"}};

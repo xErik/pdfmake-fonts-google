@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AndadaSC":{"bold":"AndadaSC-Bold.ttf","bolditalics":"AndadaSC-BoldItalic.ttf","italics":"AndadaSC-Italic.ttf","normal":"AndadaSC-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"StalinOne":{"normal":"StalinOne-Regular.ttf","bold":"StalinOne-Regular.ttf","italics":"StalinOne-Regular.ttf","bolditalics":"StalinOne-Regular.ttf"}};

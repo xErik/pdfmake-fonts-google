@@ -1,0 +1,1 @@
+module.exports = {"NotoSansUgaritic":{"normal":"NotoSansUgaritic-Regular.ttf","bold":"NotoSansUgaritic-Regular.ttf","italics":"NotoSansUgaritic-Regular.ttf","bolditalics":"NotoSansUgaritic-Regular.ttf"}};

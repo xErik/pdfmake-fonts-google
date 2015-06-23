@@ -1,0 +1,1 @@
+module.exports = {"Syncopate":{"bold":"Syncopate-Bold.ttf","normal":"Syncopate-Regular.ttf","italics":"Syncopate-Regular.ttf","bolditalics":"Syncopate-Bold.ttf"}};

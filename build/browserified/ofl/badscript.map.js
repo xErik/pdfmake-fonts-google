@@ -1,0 +1,1 @@
+module.exports = {"BadScript":{"normal":"BadScript-Regular.ttf","bold":"BadScript-Regular.ttf","italics":"BadScript-Regular.ttf","bolditalics":"BadScript-Regular.ttf"}};

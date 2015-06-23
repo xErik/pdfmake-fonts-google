@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"AveriaSerifLibre":{"bold":"AveriaSerifLibre-Bold.ttf","bolditalics":"AveriaSerifLibre-BoldItalic.ttf","italics":"AveriaSerifLibre-Italic.ttf","light":"AveriaSerifLibre-Light.ttf","lightitalics":"AveriaSerifLibre-LightItalic.ttf","normal":"AveriaSerifLibre-Regular.ttf"}};

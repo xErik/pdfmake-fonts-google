@@ -1,0 +1,1 @@
+module.exports = {"Alegreya":{"black":"Alegreya-Black.ttf","blackitalics":"Alegreya-BlackItalic.ttf","bold":"Alegreya-Bold.ttf","bolditalics":"Alegreya-BoldItalic.ttf","italics":"Alegreya-Italic.ttf","normal":"Alegreya-Regular.ttf"}};

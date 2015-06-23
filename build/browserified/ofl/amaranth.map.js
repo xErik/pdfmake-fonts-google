@@ -1,0 +1,1 @@
+module.exports = {"Amaranth":{"bold":"Amaranth-Bold.ttf","bolditalics":"Amaranth-BoldItalic.ttf","italics":"Amaranth-Italic.ttf","normal":"Amaranth-Regular.ttf"}};

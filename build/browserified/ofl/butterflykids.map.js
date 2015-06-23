@@ -1,0 +1,1 @@
+module.exports = {"ButterflyKids":{"normal":"ButterflyKids-Regular.ttf","bold":"ButterflyKids-Regular.ttf","italics":"ButterflyKids-Regular.ttf","bolditalics":"ButterflyKids-Regular.ttf"}};

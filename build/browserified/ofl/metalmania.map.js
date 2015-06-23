@@ -1,0 +1,1 @@
+module.exports = {"MetalMania":{"normal":"MetalMania-Regular.ttf","bold":"MetalMania-Regular.ttf","italics":"MetalMania-Regular.ttf","bolditalics":"MetalMania-Regular.ttf"}};

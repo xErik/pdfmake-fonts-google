@@ -1,0 +1,1 @@
+module.exports = {"NotoSansCoptic":{"normal":"NotoSansCoptic-Regular.ttf","bold":"NotoSansCoptic-Regular.ttf","italics":"NotoSansCoptic-Regular.ttf","bolditalics":"NotoSansCoptic-Regular.ttf"}};

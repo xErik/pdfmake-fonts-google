@@ -1,0 +1,1 @@
+module.exports = {"Sarina":{"normal":"Sarina-Regular.ttf","bold":"Sarina-Regular.ttf","italics":"Sarina-Regular.ttf","bolditalics":"Sarina-Regular.ttf"}};

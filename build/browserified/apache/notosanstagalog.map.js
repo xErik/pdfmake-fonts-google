@@ -1,0 +1,1 @@
+module.exports = {"NotoSansTagalog":{"normal":"NotoSansTagalog-Regular.ttf","bold":"NotoSansTagalog-Regular.ttf","italics":"NotoSansTagalog-Regular.ttf","bolditalics":"NotoSansTagalog-Regular.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"Rambla":{"bold":"Rambla-Bold.ttf","bolditalics":"Rambla-BoldItalic.ttf","italics":"Rambla-Italic.ttf","normal":"Rambla-Regular.ttf"}};

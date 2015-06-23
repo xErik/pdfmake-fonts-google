@@ -1,0 +1,1 @@
+module.exports = {"PatuaOne":{"normal":"PatuaOne-Regular.ttf","bold":"PatuaOne-Regular.ttf","italics":"PatuaOne-Regular.ttf","bolditalics":"PatuaOne-Regular.ttf"}};

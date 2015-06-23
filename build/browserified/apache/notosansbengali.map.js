@@ -1,0 +1,1 @@
+module.exports = {"NotoSansBengali":{"bold":"NotoSansBengali-Bold.ttf","normal":"NotoSansBengali-Regular.ttf","italics":"NotoSansBengali-Regular.ttf","bolditalics":"NotoSansBengali-Bold.ttf"}};

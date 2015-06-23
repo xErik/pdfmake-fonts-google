@@ -1,0 +1,1 @@
+module.exports = {"Numans":{"normal":"Numans-Regular.ttf","bold":"Numans-Regular.ttf","italics":"Numans-Regular.ttf","bolditalics":"Numans-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSerifThai":{"bold":"NotoSerifThai-Bold.ttf","normal":"NotoSerifThai-Regular.ttf","italics":"NotoSerifThai-Regular.ttf","bolditalics":"NotoSerifThai-Bold.ttf"}};

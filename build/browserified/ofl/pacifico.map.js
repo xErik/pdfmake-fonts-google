@@ -1,0 +1,1 @@
+module.exports = {"Pacifico":{"normal":"Pacifico.ttf","bold":"Pacifico.ttf","italics":"Pacifico.ttf","bolditalics":"Pacifico.ttf"}};

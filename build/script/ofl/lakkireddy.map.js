@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LakkiReddy":{"normal":"LakkiReddy-Regular.ttf","bold":"LakkiReddy-Regular.ttf","italics":"LakkiReddy-Regular.ttf","bolditalics":"LakkiReddy-Regular.ttf"}};

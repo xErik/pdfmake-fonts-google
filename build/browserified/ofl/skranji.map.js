@@ -1,0 +1,1 @@
+module.exports = {"Skranji":{"bold":"Skranji-Bold.ttf","normal":"Skranji-Regular.ttf","italics":"Skranji-Regular.ttf","bolditalics":"Skranji-Bold.ttf"}};

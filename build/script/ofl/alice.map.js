@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Alice":{"normal":"Alice-Regular.ttf","bold":"Alice-Regular.ttf","italics":"Alice-Regular.ttf","bolditalics":"Alice-Regular.ttf"}};

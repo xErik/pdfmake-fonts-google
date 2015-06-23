@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sintony":{"bold":"Sintony-Bold.ttf","normal":"Sintony-Regular.ttf","italics":"Sintony-Regular.ttf","bolditalics":"Sintony-Bold.ttf"}};

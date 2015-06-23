@@ -1,0 +1,1 @@
+module.exports = {"Arya":{"bold":"Arya-Bold.ttf","normal":"Arya-Regular.ttf","italics":"Arya-Regular.ttf","bolditalics":"Arya-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansCypriotSyllabary":{"normal":"NotoSansCypriotSyllabary-Regular.ttf","bold":"NotoSansCypriotSyllabary-Regular.ttf","italics":"NotoSansCypriotSyllabary-Regular.ttf","bolditalics":"NotoSansCypriotSyllabary-Regular.ttf"}};

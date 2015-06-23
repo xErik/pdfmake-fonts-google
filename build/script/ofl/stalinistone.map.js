@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"StalinistOne":{"normal":"StalinistOne-Regular.ttf","bold":"StalinistOne-Regular.ttf","italics":"StalinistOne-Regular.ttf","bolditalics":"StalinistOne-Regular.ttf"}};

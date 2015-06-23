@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Teko":{"bold":"Teko-Bold.ttf","light":"Teko-Light.ttf","medium":"Teko-Medium.ttf","normal":"Teko-Regular.ttf","semibold":"Teko-SemiBold.ttf","italics":"Teko-Regular.ttf","bolditalics":"Teko-Bold.ttf"}};

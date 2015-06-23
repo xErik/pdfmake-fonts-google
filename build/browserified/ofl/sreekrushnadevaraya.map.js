@@ -1,0 +1,1 @@
+module.exports = {"SreeKrushnadevaraya":{"normal":"SreeKrushnadevaraya-Regular.ttf","bold":"SreeKrushnadevaraya-Regular.ttf","italics":"SreeKrushnadevaraya-Regular.ttf","bolditalics":"SreeKrushnadevaraya-Regular.ttf"}};

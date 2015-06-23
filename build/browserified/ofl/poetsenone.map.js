@@ -1,0 +1,1 @@
+module.exports = {"PoetsenOne":{"normal":"PoetsenOne-Regular.ttf","bold":"PoetsenOne-Regular.ttf","italics":"PoetsenOne-Regular.ttf","bolditalics":"PoetsenOne-Regular.ttf"}};

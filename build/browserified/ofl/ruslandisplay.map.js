@@ -1,0 +1,1 @@
+module.exports = {"RuslanDisplay":{"normal":"RuslanDisplay.ttf","bold":"RuslanDisplay.ttf","italics":"RuslanDisplay.ttf","bolditalics":"RuslanDisplay.ttf"}};

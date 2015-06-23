@@ -1,0 +1,1 @@
+module.exports = {"PortLligatSlab":{"normal":"PortLligatSlab-Regular.ttf","bold":"PortLligatSlab-Regular.ttf","italics":"PortLligatSlab-Regular.ttf","bolditalics":"PortLligatSlab-Regular.ttf"}};

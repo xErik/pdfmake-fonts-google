@@ -1,0 +1,1 @@
+module.exports = {"Cantarell":{"bold":"Cantarell-Bold.ttf","boldoblique":"Cantarell-BoldOblique.ttf","oblique":"Cantarell-Oblique.ttf","normal":"Cantarell-Regular.ttf","italics":"Cantarell-Regular.ttf","bolditalics":"Cantarell-Bold.ttf"}};

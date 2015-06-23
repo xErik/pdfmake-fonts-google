@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"LaoMuangKhong":{"normal":"LaoMuangKhong-Regular.ttf","bold":"LaoMuangKhong-Regular.ttf","italics":"LaoMuangKhong-Regular.ttf","bolditalics":"LaoMuangKhong-Regular.ttf"}};

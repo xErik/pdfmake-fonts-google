@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NotoSansHebrew":{"bold":"NotoSansHebrew-Bold.ttf","normal":"NotoSansHebrew-Regular.ttf","italics":"NotoSansHebrew-Regular.ttf","bolditalics":"NotoSansHebrew-Bold.ttf"}};

@@ -1,0 +1,1 @@
+module.exports = {"RozhaOne":{"normal":"RozhaOne-Regular.ttf","bold":"RozhaOne-Regular.ttf","italics":"RozhaOne-Regular.ttf","bolditalics":"RozhaOne-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"PirataOne":{"normal":"PirataOne-Regular.ttf","bold":"PirataOne-Regular.ttf","italics":"PirataOne-Regular.ttf","bolditalics":"PirataOne-Regular.ttf"}};

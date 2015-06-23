@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Sarina":{"normal":"Sarina-Regular.ttf","bold":"Sarina-Regular.ttf","italics":"Sarina-Regular.ttf","bolditalics":"Sarina-Regular.ttf"}};

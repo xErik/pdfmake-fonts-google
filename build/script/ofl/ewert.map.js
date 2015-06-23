@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Ewert":{"normal":"Ewert-Regular.ttf","bold":"Ewert-Regular.ttf","italics":"Ewert-Regular.ttf","bolditalics":"Ewert-Regular.ttf"}};

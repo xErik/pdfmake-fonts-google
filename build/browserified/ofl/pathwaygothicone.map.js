@@ -1,0 +1,1 @@
+module.exports = {"PathwayGothicOne":{"normal":"PathwayGothicOne-Regular.ttf","bold":"PathwayGothicOne-Regular.ttf","italics":"PathwayGothicOne-Regular.ttf","bolditalics":"PathwayGothicOne-Regular.ttf"}};

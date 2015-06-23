@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"RedactedScript":{"bold":"RedactedScript-Bold.ttf","normal":"RedactedScript-Regular.ttf","italics":"RedactedScript-Regular.ttf","bolditalics":"RedactedScript-Bold.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"MeieScript":{"normal":"MeieScript-Regular.ttf","bold":"MeieScript-Regular.ttf","italics":"MeieScript-Regular.ttf","bolditalics":"MeieScript-Regular.ttf"}};

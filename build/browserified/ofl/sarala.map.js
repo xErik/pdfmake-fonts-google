@@ -1,0 +1,1 @@
+module.exports = {"Sarala":{"bold":"Sarala-Bold.ttf","normal":"Sarala-Regular.ttf","italics":"Sarala-Regular.ttf","bolditalics":"Sarala-Bold.ttf"}};

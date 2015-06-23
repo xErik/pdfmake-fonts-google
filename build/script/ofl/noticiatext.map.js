@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"NoticiaText":{"bold":"NoticiaText-Bold.ttf","bolditalics":"NoticiaText-BoldItalic.ttf","italics":"NoticiaText-Italic.ttf","normal":"NoticiaText-Regular.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Unkempt":{"bold":"Unkempt-Bold.ttf","normal":"Unkempt-Regular.ttf","italics":"Unkempt-Regular.ttf","bolditalics":"Unkempt-Bold.ttf"}};

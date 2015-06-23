@@ -1,0 +1,1 @@
+module.exports = {"NotoSansMalayalam":{"bold":"NotoSansMalayalam-Bold.ttf","normal":"NotoSansMalayalam-Regular.ttf","italics":"NotoSansMalayalam-Regular.ttf","bolditalics":"NotoSansMalayalam-Bold.ttf"}};

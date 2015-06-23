@@ -1,0 +1,1 @@
+module.exports = {"PirataOne":{"normal":"PirataOne-Regular.ttf","bold":"PirataOne-Regular.ttf","italics":"PirataOne-Regular.ttf","bolditalics":"PirataOne-Regular.ttf"}};

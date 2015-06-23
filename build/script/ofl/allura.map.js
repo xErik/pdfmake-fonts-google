@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Allura":{"normal":"Allura-Regular.ttf","bold":"Allura-Regular.ttf","italics":"Allura-Regular.ttf","bolditalics":"Allura-Regular.ttf"}};

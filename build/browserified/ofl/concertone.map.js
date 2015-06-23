@@ -1,0 +1,1 @@
+module.exports = {"ConcertOne":{"normal":"ConcertOne-Regular.ttf","bold":"ConcertOne-Regular.ttf","italics":"ConcertOne-Regular.ttf","bolditalics":"ConcertOne-Regular.ttf"}};

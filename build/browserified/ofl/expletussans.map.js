@@ -1,0 +1,1 @@
+module.exports = {"ExpletusSans":{"bold":"ExpletusSans-Bold.ttf","bolditalics":"ExpletusSans-BoldItalic.ttf","italics":"ExpletusSans-Italic.ttf","medium":"ExpletusSans-Medium.ttf","mediumitalics":"ExpletusSans-MediumItalic.ttf","normal":"ExpletusSans-Regular.ttf","semibold":"ExpletusSans-SemiBold.ttf","semibolditalics":"ExpletusSans-SemiBoldItalic.ttf"}};

@@ -1,0 +1,1 @@
+window.pdfMake = window.pdfMake || {}; window.pdfMake.fonts = {"Quando":{"normal":"Quando-Regular.ttf","bold":"Quando-Regular.ttf","italics":"Quando-Regular.ttf","bolditalics":"Quando-Regular.ttf"}};

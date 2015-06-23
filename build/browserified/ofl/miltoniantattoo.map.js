@@ -1,0 +1,1 @@
+module.exports = {"MiltonianTattoo":{"normal":"MiltonianTattoo-Regular.ttf","bold":"MiltonianTattoo-Regular.ttf","italics":"MiltonianTattoo-Regular.ttf","bolditalics":"MiltonianTattoo-Regular.ttf"}};

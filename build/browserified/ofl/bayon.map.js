@@ -1,0 +1,1 @@
+module.exports = {"Bayon":{"normal":"Bayon.ttf","bold":"Bayon.ttf","italics":"Bayon.ttf","bolditalics":"Bayon.ttf"}};

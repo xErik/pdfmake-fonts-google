@@ -1,0 +1,1 @@
+module.exports = {"CantoraOne":{"normal":"CantoraOne-Regular.ttf","bold":"CantoraOne-Regular.ttf","italics":"CantoraOne-Regular.ttf","bolditalics":"CantoraOne-Regular.ttf"}};

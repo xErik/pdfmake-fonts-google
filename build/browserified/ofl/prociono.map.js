@@ -1,0 +1,1 @@
+module.exports = {"Prociono":{"normal":"Prociono-Regular.ttf","bold":"Prociono-Regular.ttf","italics":"Prociono-Regular.ttf","bolditalics":"Prociono-Regular.ttf"}};

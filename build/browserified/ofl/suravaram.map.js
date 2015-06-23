@@ -1,0 +1,1 @@
+module.exports = {"Suravaram":{"normal":"Suravaram-Regular.ttf","bold":"Suravaram-Regular.ttf","italics":"Suravaram-Regular.ttf","bolditalics":"Suravaram-Regular.ttf"}};
