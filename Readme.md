@@ -4,13 +4,23 @@
 [Google Fonts](https://www.google.com/fonts/) made available for [pdfmake](http://pdfmake.org/).
 
 ## Installation
-Cloning the repository will make the transcoded [Google Fonts](https://www.google.com/fonts/) available locally.
+
+
+Check out the [Google Fonts](https://www.google.com/fonts/) examples. Then use the font you like, by selecting it in the `build` folder.
+
+If you want to use pdfmake with the script-tag (the regular pdfmake way) go to the `script` subdirectory. If you want to use the browserified version, choose the `browserified` folder.
+
+### A
+
+Cloning the repository will make the transcoded [Google Fonts](https://www.google.com/fonts/) available locally. Be warned: this repo is big and Google Fonts itself is included in the `lib` folder.
 
 ```console
 git clone git://github.com/xErik/pdfmake-fonts-google.git
 ```
 
-Check out the [Google Fonts](https://www.google.com/fonts/) examples. Then use the font you like, by selecting it from the provided `build` folder.
+### B
+
+Another way is to simply download the specific font file and its corresponding map file from github.
 
 ## Usage
 
